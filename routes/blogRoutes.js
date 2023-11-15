@@ -5,7 +5,7 @@ import {
     oneBlog,
     editBlog,
     findBlogsFromUser,
-} from "../controllers/blogControllers";
+} from "../controllers/blogControllers.js";
 
 const blogRouter = express.Router();
 

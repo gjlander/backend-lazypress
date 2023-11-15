@@ -12,16 +12,19 @@ const allBlogs = async (req, res, next) => {
 
 const createBlog = async (req, res, next) => {
     try {
-        // const { firstName, lastName, email, username, password } = req.body;
-        // if (!firstName || !lastName || !email || !username || !password)
-        //     throw new ErrorStatus("Missing required fields", 400);
+        const { navBar, hero, cards, user } = req.body;
+        if (!navBar || !hero || !cards || !user)
+            throw new ErrorStatus("Missing required fields", 400);
 
         const newBlog = await BlogModel.create({
-            firstName,
-            lastName,
-            email,
-            username,
-            password,
+            pages: {
+                home: {
+                    navBar,
+                    hero,
+                    cards,
+                },
+            },
+            user,
         });
 
         return res.status(201).json(newBlog);
