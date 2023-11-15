@@ -8,7 +8,7 @@ const userSchema = new Schema(
             maxlength: 100,
             match: [
                 //long regex for allowing most international names
-                /^[A-Za-z\x{00C0}-\x{00FF}][A-Za-z\x{00C0}-\x{00FF}\'\-]+([\ A-Za-z\x{00C0}-\x{00FF}][A-Za-z\x{00C0}-\x{00FF}\'\-]+)*/u,
+                /^[\p{Letter}\s\-.']+$/u,
                 "cannot contain special characters, and only up to 100 characters",
             ],
         },
@@ -17,7 +17,7 @@ const userSchema = new Schema(
             required: true,
             maxlength: 100,
             match: [
-                /^[A-Za-z\x{00C0}-\x{00FF}][A-Za-z\x{00C0}-\x{00FF}\'\-]+([\ A-Za-z\x{00C0}-\x{00FF}][A-Za-z\x{00C0}-\x{00FF}\'\-]+)*/u,
+                /^[\p{Letter}\s\-.']+$/u,
                 "cannot contain special characters, and only up to 100 characters",
             ],
         },
@@ -34,11 +34,12 @@ const userSchema = new Schema(
             type: String,
             required: true,
             unique: true,
+            minLength: 3,
             maxlength: 20,
-            // match: [
-            //     /^[a-zA-Z-\s]+$/,
-            //     "must contain only letters and up to 20 characters",
-            // ],
+            match: [
+                /^[0-9A-Za-z]+$/,
+                "must contain only alphanumeric characters, between 3 and 20 characters",
+            ],
         },
         password: {
             type: String,
