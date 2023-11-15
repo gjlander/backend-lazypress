@@ -3,7 +3,7 @@ import cardSchema from "./cardSchema";
 
 const blogSchema = new Schema({
     pages: {
-        landing: {
+        home: {
             navBar: [String],
             hero: {
                 imgUrl: {
@@ -26,7 +26,7 @@ const blogSchema = new Schema({
             "must be a valid URL",
         ],
     },
-    owner: {
+    user: {
         type: Schema.Types.ObjectId,
         ref: "User",
         required: true,
