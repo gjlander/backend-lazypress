@@ -5,19 +5,20 @@ const userSchema = new Schema(
         firstName: {
             type: String,
             required: true,
-            maxlength: 20,
+            maxlength: 100,
             match: [
-                /^[a-zA-Z-\s]+$/,
-                "must contain only letters and up to 20 characters",
+                //long regex for allowing most international names
+                /^[A-Za-z\x{00C0}-\x{00FF}][A-Za-z\x{00C0}-\x{00FF}\'\-]+([\ A-Za-z\x{00C0}-\x{00FF}][A-Za-z\x{00C0}-\x{00FF}\'\-]+)*/u,
+                "cannot contain special characters, and only up to 100 characters",
             ],
         },
         lastName: {
             type: String,
             required: true,
-            maxlength: 20,
+            maxlength: 100,
             match: [
-                /^[a-zA-Z-\s]+$/,
-                "must contain only letters and up to 20 characters",
+                /^[A-Za-z\x{00C0}-\x{00FF}][A-Za-z\x{00C0}-\x{00FF}\'\-]+([\ A-Za-z\x{00C0}-\x{00FF}][A-Za-z\x{00C0}-\x{00FF}\'\-]+)*/u,
+                "cannot contain special characters, and only up to 100 characters",
             ],
         },
         email: {
@@ -43,6 +44,11 @@ const userSchema = new Schema(
             type: String,
             required: true,
             select: false,
+            //currently no password requirements so I can easily remember test user passwords XD
+        },
+        active: {
+            type: Boolean,
+            default: true,
         },
     },
 
