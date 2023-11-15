@@ -48,7 +48,7 @@ const oneBlog = async (req, res, next) => {
     }
 };
 
-//need to update
+//works, but if values are left blank, they override and removed from the document
 const editBlog = async (req, res, next) => {
     try {
         const { id } = req.params;
@@ -56,20 +56,23 @@ const editBlog = async (req, res, next) => {
         if (!id.match(/^[a-f\d]{24}$/i))
             throw new ErrorStatus("Invalid Id", 400);
 
-        const { duckName, imgSrc, quote, owner } = req.body;
-        if (!duckName && !imgSrc && !quote && !owner)
+        const { navBar, hero, cards } = req.body;
+        if (!navBar && !hero && !cards)
             throw new ErrorStatus("Please provide at least one field", 400);
 
         const updatedBlog = await BlogModel.findByIdAndUpdate(
             id,
             {
-                duckName,
-                imgSrc,
-                quote,
-                owner,
+                pages: {
+                    home: {
+                        navBar,
+                        hero,
+                        cards,
+                    },
+                },
             },
             { new: true, runValidators: true }
-        ).populate("owner");
+        ).populate("user");
 
         if (!updatedBlog)
             throw new ErrorStatus(

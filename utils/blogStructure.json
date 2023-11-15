@@ -1,0 +1,25 @@
+{
+    "navBar": ["Home", "About Us", "Contact Us"],
+    "hero": {
+        "imgUrl": "https://i.pinimg.com/564x/b7/f5/ed/b7f5edc60613aea3bf09a27d905a2864.jpg",
+        "title": "Yummy Food"
+    },
+    "cards": [
+        {
+            "imgUrl": "https://i.pinimg.com/564x/b7/f5/ed/b7f5edc60613aea3bf09a27d905a2864.jpg",
+            "title": "Card 1",
+            "text": "This is the text for card 1"
+        },
+        {
+            "imgUrl": "https://i.pinimg.com/564x/b7/f5/ed/b7f5edc60613aea3bf09a27d905a2864.jpg",
+            "title": "Card 2",
+            "text": "This is the text for card 2"
+        },
+        {
+            "imgUrl": "https://i.pinimg.com/564x/b7/f5/ed/b7f5edc60613aea3bf09a27d905a2864.jpg",
+            "title": "Card 3",
+            "text": "This is the text for card 3"
+        }
+    ],
+    "user": "6554e55d63fdfbb04a631fa8"
+}
