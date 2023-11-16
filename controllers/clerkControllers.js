@@ -1,3 +1,4 @@
+import ErrorStatus from "../utils/errorStatus.js";
 import ClerkUser from "../models/clerkUserModel.js";
 import { Webhook } from "svix";
 
@@ -29,22 +30,32 @@ const clerkWebhook = async (req, res) => {
             const lastName = info.last_name;
             const username = info.username;
 
-            // const user = new ClerkUser({
-            //     clerkUserId: id,
-            //     firstName,
-            //     lastName,
-            //     username,
-            // });
-            // await user.save();
             await ClerkUser.create({
                 clerkUserId: id,
                 firstName,
                 lastName,
                 username,
             });
-            console.log("User saved to database");
+            console.log(`${username} saved to database`);
         }
-        res.status(200).json({
+        if (eventType === "user.updated") {
+            console.log(`User ${id} was ${eventType}`);
+
+            const firstName = info.first_name;
+            const lastName = info.last_name;
+            const username = info.username;
+
+            await ClerkUser.findOneAndUpdate(
+                { clerkUserId: id },
+                {
+                    firstName,
+                    lastName,
+                    username,
+                }
+            );
+            console.log(`${username} updated successfully`);
+        }
+        return res.status(200).json({
             success: true,
             message: "Webhook received",
         });
