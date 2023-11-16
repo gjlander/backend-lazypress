@@ -55,6 +55,12 @@ const clerkWebhook = async (req, res) => {
             );
             console.log(`${username} updated successfully`);
         }
+        if (eventType === "user.deleted") {
+            console.log(`User ${id} was ${eventType}`);
+
+            await ClerkUser.findOneAndDelete({ clerkUserId: id });
+            console.log(`User deleted successfully`);
+        }
         return res.status(200).json({
             success: true,
             message: "Webhook received",
