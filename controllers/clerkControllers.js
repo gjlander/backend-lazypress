@@ -1,4 +1,4 @@
-import ClerkUser from "./clerkUserModel.js";
+import ClerkUser from "../models/clerkUserModel.js";
 import { Webhook } from "svix";
 
 const clerkWebhook = async (req, res) => {

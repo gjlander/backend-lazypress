@@ -5,7 +5,7 @@ import userRouter from "./routes/userRoutes.js";
 import blogRouter from "./routes/blogRoutes.js";
 import errorHandler from "./middlewares/errorHandler.js";
 
-import { clerkWebhook } from "./clerkControllers.js";
+import { clerkWebhook } from "./controllers/clerkControllers.js";
 import bodyParser from "body-parser";
 
 const app = express();

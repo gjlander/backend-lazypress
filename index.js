@@ -1,7 +1,7 @@
 import express from "express";
 import mongoose from "mongoose";
 import cors from "cors";
-import { clerkWebhook } from "./clerkControllers.js";
+import { clerkWebhook } from "./controllers/clerkControllers.js";
 import bodyParser from "body-parser";
 
 // Connect mongoose to database
