@@ -1,3 +1,4 @@
+import ErrorStatus from "../utils/errorStatus.js";
 import ClerkUser from "../models/clerkUserModel.js";
 import { Webhook } from "svix";
 
@@ -21,7 +22,7 @@ const clerkWebhook = async (req, res) => {
         // Handle the webhooks
         const eventType = evt.type;
         console.log("webHook event type:", eventType);
-        console.log(info);
+        // console.log(info);
         if (eventType === "user.created") {
             console.log(`User ${id} was ${eventType}`);
 
@@ -29,17 +30,38 @@ const clerkWebhook = async (req, res) => {
             const lastName = info.last_name;
             const username = info.username;
 
-            const user = new ClerkUser({
+            await ClerkUser.create({
                 clerkUserId: id,
                 firstName,
                 lastName,
                 username,
             });
-
-            await user.save();
-            console.log("User saved to database");
+            console.log(`${username} saved to database`);
         }
-        res.status(200).json({
+        if (eventType === "user.updated") {
+            console.log(`User ${id} was ${eventType}`);
+
+            const firstName = info.first_name;
+            const lastName = info.last_name;
+            const username = info.username;
+
+            await ClerkUser.findOneAndUpdate(
+                { clerkUserId: id },
+                {
+                    firstName,
+                    lastName,
+                    username,
+                }
+            );
+            console.log(`${username} updated successfully`);
+        }
+        if (eventType === "user.deleted") {
+            console.log(`User ${id} was ${eventType}`);
+
+            await ClerkUser.findOneAndDelete({ clerkUserId: id });
+            console.log(`User deleted successfully`);
+        }
+        return res.status(200).json({
             success: true,
             message: "Webhook received",
         });
