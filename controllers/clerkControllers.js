@@ -11,6 +11,7 @@ const clerkWebhook = async (req, res) => {
         const { id, ...attributes } = evt.data;
         // Handle the webhooks
         const eventType = evt.type;
+        console.log("webHook event type:", eventType);
         if (eventType === "user.created") {
             console.log(`User ${id} was ${eventType}`);
 
