@@ -21,7 +21,7 @@ const clerkWebhook = async (req, res) => {
         // Handle the webhooks
         const eventType = evt.type;
         console.log("webHook event type:", eventType);
-        console.log(info);
+        // console.log(info);
         if (eventType === "user.created") {
             console.log(`User ${id} was ${eventType}`);
 
@@ -29,14 +29,19 @@ const clerkWebhook = async (req, res) => {
             const lastName = info.last_name;
             const username = info.username;
 
-            const user = new ClerkUser({
+            // const user = new ClerkUser({
+            //     clerkUserId: id,
+            //     firstName,
+            //     lastName,
+            //     username,
+            // });
+            // await user.save();
+            await ClerkUser.create({
                 clerkUserId: id,
                 firstName,
                 lastName,
                 username,
             });
-
-            await user.save();
             console.log("User saved to database");
         }
         res.status(200).json({
