@@ -5,7 +5,7 @@ import userRouter from "./routes/userRoutes.js";
 import blogRouter from "./routes/blogRoutes.js";
 import errorHandler from "./middlewares/errorHandler.js";
 
-import { clerkWebhook } from "./controllers/clerkControllers.js";
+import { clerkWebhook, getClerkUsers } from "./controllers/clerkControllers.js";
 import bodyParser from "body-parser";
 
 const app = express();
@@ -16,11 +16,9 @@ app.use(cors());
 
 app.get("/", (req, res) => res.json(`You've made it to LazyPress's backend`));
 
-// Real code
-app.route("/api/webhook").post(
-    bodyParser.raw({ type: "application/json" }),
-    clerkWebhook
-);
+app.route("/api/webhook")
+    .get(getClerkUsers)
+    .post(bodyParser.raw({ type: "application/json" }), clerkWebhook);
 
 app.use("/users", userRouter);
 

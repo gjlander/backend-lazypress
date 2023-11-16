@@ -1,6 +1,15 @@
 import ClerkUser from "../models/clerkUserModel.js";
 import { Webhook } from "svix";
 
+const getClerkUsers = async (req, res, next) => {
+    try {
+        const getClerkUsers = await ClerkUser.find();
+        return res.json(getClerkUsers);
+    } catch (error) {
+        next(error);
+    }
+};
+
 const clerkWebhook = async (req, res) => {
     try {
         const payloadString = req.body.toString();
@@ -39,4 +48,4 @@ const clerkWebhook = async (req, res) => {
     }
 };
 
-export { clerkWebhook };
+export { clerkWebhook, getClerkUsers };
