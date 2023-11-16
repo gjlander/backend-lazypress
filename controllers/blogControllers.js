@@ -3,7 +3,7 @@ import BlogModel from "../models/blogModel.js";
 
 const allBlogs = async (req, res, next) => {
     try {
-        const getBlogs = await BlogModel.find().populate("user");
+        const getBlogs = await BlogModel.find().populate("clerkUser");
         return res.json(getBlogs);
     } catch (error) {
         next(error);
@@ -12,8 +12,8 @@ const allBlogs = async (req, res, next) => {
 
 const createBlog = async (req, res, next) => {
     try {
-        const { navBar, hero, cards, user } = req.body;
-        if (!navBar || !hero || !cards || !user)
+        const { navBar, hero, cards, clerkUser } = req.body;
+        if (!navBar || !hero || !cards || !clerkUser)
             throw new ErrorStatus("Missing required fields", 400);
 
         const newBlog = await BlogModel.create({
@@ -24,7 +24,7 @@ const createBlog = async (req, res, next) => {
                     cards,
                 },
             },
-            user,
+            clerkUser,
         });
 
         return res.status(201).json(newBlog);
@@ -40,7 +40,7 @@ const oneBlog = async (req, res, next) => {
         if (!id.match(/^[a-f\d]{24}$/i))
             throw new ErrorStatus("Invalid Id", 400);
 
-        const findBlog = await BlogModel.findById(id).populate("user");
+        const findBlog = await BlogModel.findById(id).populate("clerkUser");
 
         return res.json(findBlog);
     } catch (error) {
@@ -72,7 +72,7 @@ const editBlog = async (req, res, next) => {
                 },
             },
             { new: true, runValidators: true }
-        ).populate("user");
+        ).populate("clerkUser");
 
         if (!updatedBlog)
             throw new ErrorStatus(
@@ -93,7 +93,9 @@ const findBlogsFromUser = async (req, res, next) => {
         if (!id.match(/^[a-f\d]{24}$/i))
             throw new ErrorStatus("Invalid Id", 400);
 
-        const findBlog = await BlogModel.find({ user: id }).populate("user");
+        const findBlog = await BlogModel.find({ clerkUser: id }).populate(
+            "clerkUser"
+        );
 
         return res.json(findBlog);
     } catch (error) {

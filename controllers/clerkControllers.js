@@ -17,20 +17,23 @@ const clerkWebhook = async (req, res) => {
 
         const wh = new Webhook(process.env.CLERK_WEBHOOK_SECRET_KEY);
         const evt = wh.verify(payloadString, svixHeaders);
-        const { id, ...attributes } = evt.data;
+        const { id, ...info } = evt.data;
         // Handle the webhooks
         const eventType = evt.type;
         console.log("webHook event type:", eventType);
+        console.log(info);
         if (eventType === "user.created") {
             console.log(`User ${id} was ${eventType}`);
 
-            const firstName = attributes.first_name;
-            const lastName = attributes.last_name;
+            const firstName = info.first_name;
+            const lastName = info.last_name;
+            const username = info.username;
 
             const user = new ClerkUser({
                 clerkUserId: id,
-                firstName: firstName,
-                lastName: lastName,
+                firstName,
+                lastName,
+                username,
             });
 
             await user.save();
