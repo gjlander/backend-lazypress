@@ -16,7 +16,7 @@ app.use(cors());
 
 app.get("/", (req, res) => res.json(`You've made it to LazyPress's backend`));
 
-app.route("/api/webhook")
+app.route("/clerk")
     .get(getClerkUsers)
     .post(bodyParser.raw({ type: "application/json" }), clerkWebhook);
 
