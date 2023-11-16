@@ -29,9 +29,10 @@ const blogSchema = new Schema({
     //         ],
     //     },
     // },
-    user: {
+    //updated to reflect clerk user authentication in place
+    clerkUser: {
         type: Schema.Types.ObjectId,
-        ref: "User",
+        ref: "ClerkUser",
         required: true,
     },
 });

@@ -9,6 +9,8 @@ import {
 
 const userRouter = express.Router();
 
+userRouter.use(express.json());
+
 userRouter.route("/").get(allUsers).post(createUser);
 userRouter
     .route("/:id")
