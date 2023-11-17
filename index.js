@@ -10,6 +10,7 @@ import bodyParser from "body-parser";
 
 const app = express();
 const port = process.env.PORT || 24601;
+
 app.use(cors());
 
 // app.use(express.json());
