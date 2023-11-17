@@ -90,12 +90,13 @@ const findBlogsFromUser = async (req, res, next) => {
     try {
         const { id } = req.params;
 
-        if (!id.match(/^[a-f\d]{24}$/i))
-            throw new ErrorStatus("Invalid Id", 400);
+        // if (!id.match(/^[a-f\d]{24}$/i))
+        //     throw new ErrorStatus("Invalid Id", 400);
 
-        const findBlog = await BlogModel.find({ clerkUser: id }).populate(
-            "clerkUser"
-        );
+        const findBlog = await BlogModel.find({ clerkUserId: id });
+        // .populate(
+        //     "clerkUser"
+        // );
 
         return res.json(findBlog);
     } catch (error) {

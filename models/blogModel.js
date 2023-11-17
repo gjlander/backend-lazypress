@@ -35,6 +35,10 @@ const blogSchema = new Schema({
         ref: "ClerkUser",
         required: true,
     },
+    clerkUserId: {
+        type: String,
+        required: true,
+    },
 });
 
 export default model("Blog", blogSchema);
