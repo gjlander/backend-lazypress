@@ -8,6 +8,7 @@ const blogSchema = new Schema({
             navBar: [String],
             hero: [heroSchema],
             blogPages: [blogPageSchema],
+            footer: [String],
         },
     },
     dashboard: {

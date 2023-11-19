@@ -54,20 +54,20 @@ const editBlog = async (req, res, next) => {
         if (!id.match(/^[a-f\d]{24}$/i))
             throw new ErrorStatus("Invalid Id", 400);
 
-        const { navBar, hero, cards } = req.body;
-        if (!navBar && !hero && !cards)
-            throw new ErrorStatus("Please provide at least one field", 400);
+        const { pages, dashboard, clerkUser, clerkUserId } = req.body;
+        if (!pages || !dashboard || !clerkUser || !clerkUserId)
+            throw new ErrorStatus(
+                "All fields must be present to properly update document",
+                400
+            );
 
         const updatedBlog = await BlogModel.findByIdAndUpdate(
             id,
             {
-                pages: {
-                    home: {
-                        navBar,
-                        hero,
-                        cards,
-                    },
-                },
+                pages,
+                dashboard,
+                clerkUser,
+                clerkUserId,
             },
             { new: true, runValidators: true }
         ).populate("clerkUser");
