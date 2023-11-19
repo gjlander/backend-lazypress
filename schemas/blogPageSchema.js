@@ -1,6 +1,8 @@
 import { Schema } from "mongoose";
+import cardSchema from "./cardSchema.js";
 
-const cardSchema = new Schema({
+const blogPageSchema = new Schema({
+    card: cardSchema,
     imgUrl: {
         type: String,
         maxLength: 510,
@@ -11,6 +13,7 @@ const cardSchema = new Schema({
     },
     title: { type: String, maxLength: 100 },
     text: { type: String, maxLength: 255 },
+    button: String,
 });
 
-export default cardSchema;
+export default blogPageSchema;
