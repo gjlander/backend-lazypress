@@ -13,7 +13,7 @@ const blogPageSchema = new Schema({
     },
     title: { type: String, maxLength: 100 },
     text: { type: String, maxLength: 255 },
-    buttons: [String],
+    button: String,
 });
 
 export default blogPageSchema;
