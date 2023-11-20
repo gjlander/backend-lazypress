@@ -1,8 +1,11 @@
 import { Schema } from "mongoose";
-import cardSchema from "./cardSchema.js";
+// import cardSchema from "./cardSchema.js";
 
 const blogPageSchema = new Schema({
-    card: cardSchema,
+    //instead of nested object we will keep properties at top level and name them with card eg. cardTitle, cardImgUrl
+    // card: {
+    //     type: cardSchema,
+    // },
     imgUrl: {
         type: String,
         maxLength: 510,
