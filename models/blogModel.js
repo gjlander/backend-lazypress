@@ -1,14 +1,16 @@
 import { Schema, model } from "mongoose";
 import heroSchema from "../schemas/heroSchema.js";
 import blogPageSchema from "../schemas/blogPageSchema.js";
+import navBarSchema from "../schemas/navBarSchema.js";
+import footerSchema from "../schemas/footerSchema.js";
 
 const blogSchema = new Schema({
     pages: {
         home: {
-            navBar: [String],
+            navBar: [navBarSchema],
             hero: [heroSchema],
             blogPages: [blogPageSchema],
-            footer: [String],
+            footer: [footerSchema],
         },
     },
     dashboard: {
