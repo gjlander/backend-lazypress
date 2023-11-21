@@ -7,6 +7,8 @@ import {
     oneBlog,
     editBlog,
     findBlogsFromUser,
+    getClerkAuth,
+    clerkPostTest,
 } from "../controllers/blogControllers.js";
 
 const blogRouter = express.Router();
@@ -19,12 +21,7 @@ blogRouter.route("/:id").get(oneBlog).put(editBlog);
 blogRouter.route("/user/:id").get(findBlogsFromUser);
 blogRouter
     .route("/protected/endpoint")
-    .get(ClerkExpressRequireAuth(), (req, res) => {
-        res.json(req.auth);
-    })
-    .post(ClerkExpressRequireAuth(), (req, res) => {
-        // const { pages, dashboard, clerkUser, clerkUserId } = req.body;
-        res.json(req.body);
-    });
+    .get(ClerkExpressRequireAuth(), getClerkAuth)
+    .post(ClerkExpressRequireAuth(), clerkPostTest);
 
 export default blogRouter;
