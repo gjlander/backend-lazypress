@@ -4,16 +4,13 @@ import "./db/mongooseClient.js";
 import userRouter from "./routes/userRoutes.js";
 import blogRouter from "./routes/blogRoutes.js";
 import errorHandler from "./middlewares/errorHandler.js";
-
 import { clerkWebhook, getClerkUsers } from "./controllers/clerkControllers.js";
 import bodyParser from "body-parser";
 
 const app = express();
 const port = process.env.PORT || 24601;
 
-app.use(cors());
-
-// app.use(express.json());
+app.use(cors({ exposedHeaders: "Authorization" }));
 
 app.get("/", (req, res) => res.json(`You've made it to LazyPress's backend`));
 

@@ -70,7 +70,7 @@ const editBlog = async (req, res, next) => {
                 clerkUserId,
             },
             { new: true, runValidators: true }
-        ).populate("clerkUser");
+        );
 
         if (!updatedBlog)
             throw new ErrorStatus(
@@ -83,6 +83,43 @@ const editBlog = async (req, res, next) => {
         next(error);
     }
 };
+
+// const editBlog = async (req, res, next) => {
+//     try {
+//         const { id } = req.params;
+
+//         if (!id.match(/^[a-f\d]{24}$/i))
+//             throw new ErrorStatus("Invalid Id", 400);
+
+//         const { pages, dashboard, clerkUser, clerkUserId } = req.body;
+//         if (!pages || !dashboard || !clerkUser || !clerkUserId)
+//             throw new ErrorStatus(
+//                 "All fields must be present to properly update document",
+//                 400
+//             );
+
+//         const updatedBlog = await BlogModel.findByIdAndUpdate(
+//             id,
+//             {
+//                 pages,
+//                 dashboard,
+//                 clerkUser,
+//                 clerkUserId,
+//             },
+//             { new: true, runValidators: true }
+//         );
+
+//         if (!updatedBlog)
+//             throw new ErrorStatus(
+//                 `Blog with id of ${id} could not be found`,
+//                 404
+//             );
+
+//         return res.json(updatedBlog);
+//     } catch (error) {
+//         next(error);
+//     }
+// };
 
 const findBlogsFromUser = async (req, res, next) => {
     try {
@@ -101,5 +138,20 @@ const findBlogsFromUser = async (req, res, next) => {
         next(error);
     }
 };
+const getClerkAuth = async (req, res) => {
+    res.json(req.auth);
+};
+const clerkPostTest = async (req, res) => {
+    // const { pages, dashboard, clerkUser, clerkUserId } = req.body;
+    res.json(req.body);
+};
 
-export { allBlogs, createBlog, oneBlog, editBlog, findBlogsFromUser };
+export {
+    allBlogs,
+    createBlog,
+    oneBlog,
+    editBlog,
+    findBlogsFromUser,
+    getClerkAuth,
+    clerkPostTest,
+};
