@@ -66,7 +66,7 @@ const editBlog = async (req, res, next) => {
         if (userId !== clerkUserId)
             throw new ErrorStatus(
                 "You are not authorized to make changes to this site",
-                401
+                403
             );
 
         const updatedBlog = await BlogModel.findByIdAndUpdate(
@@ -110,6 +110,70 @@ const findBlogsFromUser = async (req, res, next) => {
         next(error);
     }
 };
+
+const addBlogPost = async (req, res, next) => {
+    try {
+        const { id } = req.params;
+        // const { userId } = req.auth;
+        const { imgUrl, title, text, button } = req.body;
+
+        // if (!userId) throw new ErrorStatus("Missing userId", 400);
+
+        if (!id.match(/^[a-f\d]{24}$/i))
+            throw new ErrorStatus("Invalid Id", 400);
+
+        if (!imgUrl || !title || !text || !button)
+            throw new ErrorStatus(
+                "All fields must be present to make new blog page.",
+                400
+            );
+        // if (userId !== clerkUserId)
+        //     throw new ErrorStatus(
+        //         "You are not authorized to make changes to this site",
+        //         401
+        //     );
+
+        const parentBlog = await BlogModel.findById(id);
+        const childPages = parentBlog.pages.home.blogPages;
+        childPages.push({ imgUrl, title, text, button });
+
+        await parentBlog.save();
+
+        return res.status(201).json(childPages);
+    } catch (error) {
+        next(error);
+    }
+};
+
+const deleteBlogPage = async (req, res, next) => {
+    try {
+        const { id } = req.params;
+        // const { userId } = req.auth;
+        const { pageId } = req.body;
+
+        // if (!userId) throw new ErrorStatus("Missing userId", 400);
+
+        if (!id.match(/^[a-f\d]{24}$/i))
+            throw new ErrorStatus("Invalid Id", 400);
+
+        // if (userId !== clerkUserId)
+        //     throw new ErrorStatus(
+        //         "You are not authorized to make changes to this site",
+        //         403
+        //     );
+
+        const parentBlog = await BlogModel.findById(id);
+        const childPage = parentBlog.pages.home.blogPages.id(pageId);
+        childPage.deleteOne();
+
+        await parentBlog.save();
+
+        return res.json(`Successfully deleted blogPage ${pageId}`);
+    } catch (error) {
+        next(error);
+    }
+};
+
 const getClerkAuth = async (req, res) => {
     const { userId } = req.auth;
     res.json(userId);
@@ -125,6 +189,8 @@ export {
     oneBlog,
     editBlog,
     findBlogsFromUser,
+    addBlogPost,
+    deleteBlogPage,
     getClerkAuth,
     clerkPostTest,
 };

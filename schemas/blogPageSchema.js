@@ -2,7 +2,8 @@ import { Schema } from "mongoose";
 import cardSchema from "./cardSchema.js";
 
 const blogPageSchema = new Schema({
-    card: cardSchema,
+    //card no longer used
+    // card: cardSchema,
     imgUrl: {
         type: String,
         maxLength: 510,

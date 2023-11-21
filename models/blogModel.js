@@ -4,33 +4,36 @@ import blogPageSchema from "../schemas/blogPageSchema.js";
 import navBarSchema from "../schemas/navBarSchema.js";
 import footerSchema from "../schemas/footerSchema.js";
 
-const blogSchema = new Schema({
-    pages: {
-        home: {
-            navBar: [navBarSchema],
-            hero: [heroSchema],
-            blogPages: [blogPageSchema],
-            footer: [footerSchema],
+const blogSchema = new Schema(
+    {
+        pages: {
+            home: {
+                navBar: [navBarSchema],
+                hero: [heroSchema],
+                blogPages: [blogPageSchema],
+                footer: [footerSchema],
+            },
+        },
+        dashboard: {
+            deployed: {
+                type: Boolean,
+                default: false,
+            },
+            siteUrl: String,
+            previewUrl: String,
+        },
+        //updated to reflect clerk user authentication in place
+        clerkUser: {
+            type: Schema.Types.ObjectId,
+            ref: "ClerkUser",
+            required: true,
+        },
+        clerkUserId: {
+            type: String,
+            required: true,
         },
     },
-    dashboard: {
-        deployed: {
-            type: Boolean,
-            default: false,
-        },
-        siteUrl: String,
-        previewUrl: String,
-    },
-    //updated to reflect clerk user authentication in place
-    clerkUser: {
-        type: Schema.Types.ObjectId,
-        ref: "ClerkUser",
-        required: true,
-    },
-    clerkUserId: {
-        type: String,
-        required: true,
-    },
-});
+    { timestamps: true }
+);
 
 export default model("Blog", blogSchema);

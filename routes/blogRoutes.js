@@ -7,6 +7,8 @@ import {
     oneBlog,
     editBlog,
     findBlogsFromUser,
+    addBlogPost,
+    deleteBlogPage,
     getClerkAuth,
     clerkPostTest,
 } from "../controllers/blogControllers.js";
@@ -19,6 +21,8 @@ blogRouter.route("/").get(allBlogs).post(createBlog);
 blogRouter.route("/:id").get(oneBlog).put(ClerkExpressRequireAuth(), editBlog);
 //updated to get based on clerkId
 blogRouter.route("/user/:id").get(findBlogsFromUser);
+blogRouter.route("/blogPages/:id").post(addBlogPost).delete(deleteBlogPage);
+
 blogRouter
     .route("/protected/endpoint")
     .get(ClerkExpressRequireAuth(), getClerkAuth)
