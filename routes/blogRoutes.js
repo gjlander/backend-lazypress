@@ -16,7 +16,7 @@ const blogRouter = express.Router();
 blogRouter.use(express.json());
 
 blogRouter.route("/").get(allBlogs).post(createBlog);
-blogRouter.route("/:id").get(oneBlog).put(editBlog);
+blogRouter.route("/:id").get(oneBlog).put(ClerkExpressRequireAuth(), editBlog);
 //updated to get based on clerkId
 blogRouter.route("/user/:id").get(findBlogsFromUser);
 blogRouter
