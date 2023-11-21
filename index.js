@@ -7,15 +7,26 @@ import errorHandler from "./middlewares/errorHandler.js";
 
 import { clerkWebhook, getClerkUsers } from "./controllers/clerkControllers.js";
 import bodyParser from "body-parser";
+import { ClerkExpressRequireAuth } from "@clerk/clerk-sdk-node";
 
 const app = express();
 const port = process.env.PORT || 24601;
 
-app.use(cors());
+app.use(cors({ exposedHeaders: "Authorization" }));
 
 // app.use(express.json());
 
 app.get("/", (req, res) => res.json(`You've made it to LazyPress's backend`));
+
+app.get(
+    "/protected-endpoint",
+    ClerkExpressRequireAuth({
+        // ...options
+    }),
+    (req, res) => {
+        res.json(req.auth);
+    }
+);
 
 app.route("/clerk")
     .get(getClerkUsers)
