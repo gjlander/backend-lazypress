@@ -1,5 +1,5 @@
 import { Schema } from "mongoose";
-import cardSchema from "./cardSchema.js";
+// import cardSchema from "./cardSchema.js";
 
 const blogPageSchema = new Schema({
     //card no longer used
@@ -15,6 +15,8 @@ const blogPageSchema = new Schema({
     title: { type: String, maxLength: 100 },
     text: { type: String, maxLength: 255 },
     button: String,
+    ingList: [String],
+    steps: [String],
 });
 
 export default blogPageSchema;
