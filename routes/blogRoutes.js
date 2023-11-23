@@ -7,8 +7,10 @@ import {
     oneBlog,
     editBlog,
     findBlogsFromUser,
-    addBlogPost,
+    addBlogPage,
     deleteBlogPage,
+    addHero,
+    deleteHero,
     getClerkAuth,
     clerkPostTest,
 } from "../controllers/blogControllers.js";
@@ -21,7 +23,8 @@ blogRouter.route("/").get(allBlogs).post(createBlog);
 blogRouter.route("/:id").get(oneBlog).put(ClerkExpressRequireAuth(), editBlog);
 //updated to get based on clerkId
 blogRouter.route("/user/:id").get(findBlogsFromUser);
-blogRouter.route("/blogPages/:id").post(addBlogPost).delete(deleteBlogPage);
+blogRouter.route("/blogPages/:id").post(addBlogPage).delete(deleteBlogPage);
+blogRouter.route("/hero/:id").post(addHero).delete(deleteHero);
 
 blogRouter
     .route("/protected/endpoint")

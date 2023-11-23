@@ -111,7 +111,7 @@ const findBlogsFromUser = async (req, res, next) => {
     }
 };
 
-const addBlogPost = async (req, res, next) => {
+const addBlogPage = async (req, res, next) => {
     try {
         const { id } = req.params;
         // const { userId } = req.auth;
@@ -174,6 +174,69 @@ const deleteBlogPage = async (req, res, next) => {
     }
 };
 
+const addHero = async (req, res, next) => {
+    try {
+        const { id } = req.params;
+        // const { userId } = req.auth;
+        const { imgUrl, title, text, button } = req.body;
+
+        // if (!userId) throw new ErrorStatus("Missing userId", 400);
+
+        if (!id.match(/^[a-f\d]{24}$/i))
+            throw new ErrorStatus("Invalid Id", 400);
+
+        if (!imgUrl || !title || !text || !button)
+            throw new ErrorStatus(
+                "All fields must be present to make new hero banner.",
+                400
+            );
+        // if (userId !== clerkUserId)
+        //     throw new ErrorStatus(
+        //         "You are not authorized to make changes to this site",
+        //         401
+        //     );
+
+        const parentBlog = await BlogModel.findById(id);
+        const childHeroes = parentBlog.pages.home.hero;
+        childHeroes.push({ imgUrl, title, text, button });
+
+        await parentBlog.save();
+
+        return res.status(201).json(childHeroes);
+    } catch (error) {
+        next(error);
+    }
+};
+
+const deleteHero = async (req, res, next) => {
+    try {
+        const { id } = req.params;
+        // const { userId } = req.auth;
+        const { heroId } = req.body;
+
+        // if (!userId) throw new ErrorStatus("Missing userId", 400);
+
+        if (!id.match(/^[a-f\d]{24}$/i))
+            throw new ErrorStatus("Invalid Id", 400);
+
+        // if (userId !== clerkUserId)
+        //     throw new ErrorStatus(
+        //         "You are not authorized to make changes to this site",
+        //         403
+        //     );
+
+        const parentBlog = await BlogModel.findById(id);
+        const childHero = parentBlog.pages.home.hero.id(heroId);
+        childHero.deleteOne();
+
+        await parentBlog.save();
+
+        return res.json(`Successfully deleted hero: ${heroId}`);
+    } catch (error) {
+        next(error);
+    }
+};
+
 const getClerkAuth = async (req, res) => {
     const { userId } = req.auth;
     res.json(userId);
@@ -189,8 +252,10 @@ export {
     oneBlog,
     editBlog,
     findBlogsFromUser,
-    addBlogPost,
+    addBlogPage,
     deleteBlogPage,
+    addHero,
+    deleteHero,
     getClerkAuth,
     clerkPostTest,
 };
