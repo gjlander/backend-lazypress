@@ -236,6 +236,21 @@ const deleteHero = async (req, res, next) => {
         next(error);
     }
 };
+const singlePage = async (req, res, next) => {
+    try {
+        const { blogId, pageId } = req.params;
+
+        if (!blogId.match(/^[a-f\d]{24}$/i) || !pageId.match(/^[a-f\d]{24}$/i))
+            throw new ErrorStatus("Invalid Id", 400);
+
+        const parentBlog = await BlogModel.findById(blogId);
+        const childPage = parentBlog.pages.home.blogPages.id(pageId);
+
+        return res.json(childPage);
+    } catch (error) {
+        next(error);
+    }
+};
 
 const getClerkAuth = async (req, res) => {
     const { userId } = req.auth;
@@ -256,6 +271,7 @@ export {
     deleteBlogPage,
     addHero,
     deleteHero,
+    singlePage,
     getClerkAuth,
     clerkPostTest,
 };
