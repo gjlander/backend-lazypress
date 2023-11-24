@@ -1,0 +1,2763 @@
+[
+    {
+        "title": "Spaghetti Bolognese",
+        "category": "Beef",
+        "region": "Italian",
+        "ingList": [
+            {
+                "ing": "onions",
+                "amount": "2"
+            },
+            {
+                "ing": "olive oil",
+                "amount": "1tbsp"
+            },
+            {
+                "ing": "garlic",
+                "amount": "1 clove"
+            },
+            {
+                "ing": "lean minced beef",
+                "amount": "500g"
+            },
+            {
+                "ing": "mushrooms",
+                "amount": "90g"
+            },
+            {
+                "ing": "dried oregano",
+                "amount": "1tsp"
+            },
+            {
+                "ing": "tomatoes",
+                "amount": "400g can"
+            },
+            {
+                "ing": "hot beef stock",
+                "amount": "300ml"
+            },
+            {
+                "ing": "tomato puree",
+                "amount": "1tbsp"
+            },
+            {
+                "ing": "worcestershire sauce",
+                "amount": "1tbsp"
+            },
+            {
+                "ing": "spaghetti",
+                "amount": "350g"
+            },
+            {
+                "ing": "parmesan",
+                "amount": "Topping"
+            }
+        ],
+        "steps": [
+            "Put the onion and oil in a large pan and fry over a fairly high heat for 3-4 mins. Add the garlic and mince and fry until they both brown. Add the mushrooms and herbs, and cook for another couple of mins.",
+            "",
+            "Stir in the tomatoes, beef stock, tomato ketchup or purée, Worcestershire sauce and seasoning. Bring to the boil, then reduce the heat, cover and simmer, stirring occasionally, for 30 mins.",
+            "",
+            "Meanwhile, cook the spaghetti in a large pan of boiling, salted water, according to packet instructions. Drain well, run hot water through it, put it back in the pan and add a dash of olive oil, if you like, then stir in the meat sauce. Serve in hot bowls and hand round Parmesan cheese, for sprinkling on top."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/sutysw1468247559.jpg",
+        "tags": ["Pasta", "Meat"]
+    },
+    {
+        "title": "Spicy Arrabiata Penne",
+        "category": "Vegetarian",
+        "region": "Italian",
+        "ingList": [
+            {
+                "ing": "penne rigate",
+                "amount": "1 pound"
+            },
+            {
+                "ing": "olive oil",
+                "amount": "1/4 cup"
+            },
+            {
+                "ing": "garlic",
+                "amount": "3 cloves"
+            },
+            {
+                "ing": "chopped tomatoes",
+                "amount": "1 tin "
+            },
+            {
+                "ing": "red chile flakes",
+                "amount": "1/2 teaspoon"
+            },
+            {
+                "ing": "italian seasoning",
+                "amount": "1/2 teaspoon"
+            },
+            {
+                "ing": "basil",
+                "amount": "6 leaves"
+            },
+            {
+                "ing": "Parmigiano-Reggiano",
+                "amount": "spinkling"
+            }
+        ],
+        "steps": [
+            "Bring a large pot of water to a boil. Add kosher salt to the boiling water, then add the pasta. Cook according to the package instructions, about 9 minutes.",
+            "In a large skillet over medium-high heat, add the olive oil and heat until the oil starts to shimmer. Add the garlic and cook, stirring, until fragrant, 1 to 2 minutes. Add the chopped tomatoes, red chile flakes, Italian seasoning and salt and pepper to taste. Bring to a boil and cook for 5 minutes. Remove from the heat and add the chopped basil.",
+            "Drain the pasta and add it to the sauce. Garnish with Parmigiano-Reggiano flakes and more basil and serve warm."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg",
+        "tags": ["Pasta", "Curry"]
+    },
+    {
+        "title": "Smoky Lentil Chili with Squash",
+        "category": "Vegetarian",
+        "region": "British",
+        "ingList": [
+            {
+                "ing": "Olive Oil",
+                "amount": "1 tbls"
+            },
+            {
+                "ing": "Onion",
+                "amount": "1"
+            },
+            {
+                "ing": "Leek",
+                "amount": "1 chopped"
+            },
+            {
+                "ing": "Garlic",
+                "amount": "3 cloves"
+            },
+            {
+                "ing": "Cumin",
+                "amount": "4 tsp ground "
+            },
+            {
+                "ing": "Coriander",
+                "amount": "2 tsp ground"
+            },
+            {
+                "ing": "Smoked Paprika",
+                "amount": "1 tsp"
+            },
+            {
+                "ing": "Cinnamon",
+                "amount": "1/2 tsp"
+            },
+            {
+                "ing": "Chili Powder",
+                "amount": "1 tsp"
+            },
+            {
+                "ing": "Cocoa",
+                "amount": "1 tsp"
+            },
+            {
+                "ing": "Dried Oregano",
+                "amount": "1/2 tsp"
+            },
+            {
+                "ing": "Diced Tomatoes",
+                "amount": "1 can"
+            },
+            {
+                "ing": "Water",
+                "amount": "3 cups"
+            },
+            {
+                "ing": "Carrots",
+                "amount": "3 chopped"
+            },
+            {
+                "ing": "Brown Lentils",
+                "amount": "1 1/2 cups"
+            },
+            {
+                "ing": "Sea Salt",
+                "amount": "1 tsp"
+            },
+            {
+                "ing": "Squash",
+                "amount": "1 Small"
+            },
+            {
+                "ing": "Cashews",
+                "amount": "1 Cup"
+            },
+            {
+                "ing": "Apple Cider Vinegar",
+                "amount": "1 tsp"
+            }
+        ],
+        "steps": [
+            "Begin by roasting the squash. Slice it into thin crescents and drizzle with a little oil and sprinkle with sea salt. I added a fresh little sage I had in the fridge, but it’s unnecessary. Roast the squash a 205 C (400 F) for 20-30 minutes, flipping halfway through, until soft and golden. Let cool and chop into cubes.",
+            "Meanwhile, rinse the lentils and cover them with water. Bring them to the boil then turn down to a simmer and let cook (uncovered) for 20-30 minutes, or until tender. Drain and set aside.",
+            "While the lentils are cooking heat the 1 Tbsp. of oil on low in a medium pot. Add the onions and leeks and sauté for 5 or so minutes, or until they begin to soften. Add the garlic next along with the cumin and coriander, cooking for a few more minutes. Add the remaining spices – paprika, cinnamon, chilli, cocoa, Worcestershire sauce, salt, and oregano. Next add the can of tomatoes, the water or stock, and carrots. Let simmer, covered, for 20 minutes or until the veg is tender and the mixture has thickened up. You’ll need to check on the pot periodically for a stir and a top of of liquid if needed.",
+            "Add the lentils and chopped roasted squash. Let cook for 10 more minutes to heat through.",
+            "Serve with sliced jalapeno, lime wedges, cilantro, green onions, and cashew sour cream.",
+            "",
+            "SIMPLE CASHEW SOUR CREAM",
+            "",
+            "1 Cup Raw Unsalted Cashews",
+            "Pinch Sea Salt",
+            "1 tsp. Apple Cider Vinegar",
+            "Water",
+            "",
+            "Bring some water to the boil, and use it to soak the cashews for at least four hours. Alternatively, you can use cold water and let the cashews soak overnight, but I’m forgetful/lazy, so often use the boil method which is much faster.",
+            "After the cashews have soaked, drain them and add to a high speed blender. Begin to puree, slowly adding about 1/2 cup fresh water, until a creamy consistency is reached. You may need to add less or more water to reach the desired consistency.",
+            "Add a pinch of sea salt and vinegar (or lemon juice)."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/uwxqwy1483389553.jpg",
+        "tags": ["Pulse"]
+    },
+    {
+        "title": "Sticky Toffee Pudding Ultimate",
+        "category": "Dessert",
+        "region": "British",
+        "ingList": [
+            {
+                "ing": "Medjool dates",
+                "amount": "225g"
+            },
+            {
+                "ing": "water",
+                "amount": "175ml Boiling"
+            },
+            {
+                "ing": "vanilla extract",
+                "amount": "1 tsp"
+            },
+            {
+                "ing": "self-raising flour",
+                "amount": "175g"
+            },
+            {
+                "ing": "bicarbonate of soda",
+                "amount": "1 tsp"
+            },
+            {
+                "ing": "eggs",
+                "amount": "2"
+            },
+            {
+                "ing": "butter",
+                "amount": "85g"
+            },
+            {
+                "ing": "demerara sugar",
+                "amount": "140g"
+            },
+            {
+                "ing": "black treacle",
+                "amount": "2 tbsp"
+            },
+            {
+                "ing": "milk",
+                "amount": "100ml"
+            },
+            {
+                "ing": "ice cream",
+                "amount": "1 scoop"
+            },
+            {
+                "ing": "muscovado sugar",
+                "amount": "175g"
+            },
+            {
+                "ing": "butter",
+                "amount": "50g"
+            },
+            {
+                "ing": "double cream",
+                "amount": "225ml"
+            },
+            {
+                "ing": "black treacle",
+                "amount": "1 tbsp"
+            }
+        ],
+        "steps": [
+            "Stone and chop the dates quite small, put them in a bowl, then pour the boiling water over. Leave for about 30 mins until cool and well-soaked, then mash a bit with a fork. Stir in the vanilla extract. Butter and flour seven mini pudding tins (each about 200ml/7fl oz) and sit them on a baking sheet. Heat oven to 180C/fan 160C/gas 4.",
+            "While the dates are soaking, make the puddings. Mix the flour and bicarbonate of soda together and beat the eggs in a separate bowl. Beat the butter and sugar together in a large bowl for a few mins until slightly creamy (the mixture will be grainy from the sugar). Add the eggs a little at a time, beating well between additions. Beat in the black treacle then, using a large metal spoon, gently fold in one-third of the flour, then half the milk, being careful not to overbeat. Repeat until all the flour and milk is used. Stir the soaked dates into the pudding batter. The mix may look a little curdled at this point and will be like a soft, thick batter. Spoon it evenly between the tins and bake for 20-25 mins, until risen and firm.",
+            "Meanwhile, put the sugar and butter for the sauce in a medium saucepan with half the cream. Bring to the boil over a medium heat, stirring all the time, until the sugar has completely dissolved. Stir in the black treacle, turn up the heat slightly and let the mixture bubble away for 2-3 mins until it is a rich toffee colour, stirring occasionally to make sure it doesn’t burn. Take the pan off the heat and beat in the rest of the cream.",
+            "Remove the puddings from the oven. Leave in the tins for a few mins, then loosen them well from the sides of the tins with a small palette knife before turning them out. You can serve them now with the sauce drizzled over, but they’ll be even stickier if left for a day or two coated in the sauce. To do this, pour about half the sauce into one or two ovenproof serving dishes. Sit the upturned puddings on the sauce, then pour the rest of the sauce over them. Cover with a loose tent of foil so that the sauce doesn’t smudge (no need to chill).",
+            "When ready to serve, heat oven to 180C/fan 160C/gas 4. Warm the puddings through, still covered, for 15-20 mins or until the sauce is bubbling. Serve them on their own, or with cream or custard."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/xrptpq1483909204.jpg",
+        "tags": ["Pudding", "Desert", "Cake", "Dairy"]
+    },
+    {
+        "title": "Spicy North African Potato Salad",
+        "category": "Vegetarian",
+        "region": "Moroccan",
+        "ingList": [
+            {
+                "ing": "Small Potatoes",
+                "amount": "650g/1lb 8 oz"
+            },
+            {
+                "ing": "Harissa Spice",
+                "amount": "1 tsp"
+            },
+            {
+                "ing": "olive oil",
+                "amount": "2 tsp"
+            },
+            {
+                "ing": "Lemon",
+                "amount": "juice of half"
+            },
+            {
+                "ing": "Spring onions",
+                "amount": "4"
+            },
+            {
+                "ing": "Rocket",
+                "amount": "150g/6oz"
+            },
+            {
+                "ing": "Feta",
+                "amount": "80g/3oz"
+            },
+            {
+                "ing": "Mint",
+                "amount": "20 chopped"
+            },
+            {
+                "ing": "Pine nuts",
+                "amount": "2 tablespoons"
+            },
+            {
+                "ing": "Salt",
+                "amount": "Pinch"
+            },
+            {
+                "ing": "Pepper",
+                "amount": "Pinch"
+            }
+        ],
+        "steps": [
+            "Cook potatoes - place potatoes in a pot of cold water, and bring to the boil. Boil 20 minutes, or until potatoes are tender. You know they are cooked when you can stick a knife in them and the knife goes straight through.",
+            "Combine harissa spice, olive oil, salt and pepper and lemon juice in a small bowl and whisk until combined.",
+            "Once potatoes are cooked, drain water and roughly chop potatoes in half.",
+            "Add harissa mix and spring onions/green onions to potatoes and stir.",
+            "In a large salad bowl, lay out arugula/rocket.",
+            "Top with potato mix and toss.",
+            "Add fetta, mint and sprinkle over pine nuts.",
+            "Adjust salt and pepper to taste."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/urtwux1486983078.jpg",
+        "tags": ["Vegetarian", "Spicy"]
+    },
+    {
+        "title": "Stovetop Eggplant With Harissa, Chickpeas, and Cumin Yogurt",
+        "category": "Vegetarian",
+        "region": "American",
+        "ingList": [
+            {
+                "ing": "Olive Oil",
+                "amount": "4 tablespoons"
+            },
+            {
+                "ing": "Egg Plants",
+                "amount": "6 small"
+            },
+            {
+                "ing": "Harissa",
+                "amount": "½ tablespoon"
+            },
+            {
+                "ing": "Chickpeas",
+                "amount": "1 can"
+            },
+            {
+                "ing": "Cherry Tomatoes",
+                "amount": "2 cups halved"
+            },
+            {
+                "ing": "Greek yogurt",
+                "amount": "1 1/2 cups"
+            },
+            {
+                "ing": "Ground cumin",
+                "amount": "1 tablespoon"
+            },
+            {
+                "ing": "Parsley",
+                "amount": "½ cup "
+            }
+        ],
+        "steps": [
+            "Heat the oil in a 12-inch skillet over high heat until shimmering. Add the eggplants and lower the heat to medium. Season with salt and pepper as you rotate the eggplants, browning them on all sides. Continue to cook, turning regularly, until a fork inserted into the eggplant meets no resistance (you may have to stand them up on their fat end to finish cooking the thickest parts), about 20 minutes, lowering the heat and sprinkling water into the pan as necessary if the eggplants threaten to burn or smoke excessively.",
+            "",
+            "2.",
+            "Mix the harissa, chickpeas and tomatoes together, then add to the eggplants. Cook until the tomatoes have blistered and broken down, about 5 minutes more. Season with salt and pepper and add water as necessary to thin to a saucy consistency. Meanwhile, combine the yogurt and cumin in a serving bowl. Season with salt and pepper.",
+            "",
+            "3.",
+            "Top the eggplant mixture with the parsley, drizzle with more extra virgin olive oil, and serve with the yogurt on the side."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/yqwtvu1487426027.jpg",
+        "tags": ["Vegetarian"]
+    },
+    {
+        "title": "Salmon Prawn Risotto",
+        "category": "Seafood",
+        "region": "Italian",
+        "ingList": [
+            {
+                "ing": "butter",
+                "amount": "50g/2oz"
+            },
+            {
+                "ing": "onion",
+                "amount": "1 finely chopped "
+            },
+            {
+                "ing": "rice",
+                "amount": "150g"
+            },
+            {
+                "ing": "white wine",
+                "amount": "125ml "
+            },
+            {
+                "ing": "vegetable stock",
+                "amount": "1 litre hot"
+            },
+            {
+                "ing": "lemon",
+                "amount": "The juice and zest of one"
+            },
+            {
+                "ing": "King Prawns",
+                "amount": "240g large"
+            },
+            {
+                "ing": "salmon",
+                "amount": "150g"
+            },
+            {
+                "ing": "asparagus",
+                "amount": "100g tips blanched briefly in boiling water"
+            },
+            {
+                "ing": "black pepper",
+                "amount": "ground"
+            },
+            {
+                "ing": "Parmesan",
+                "amount": "50g shavings"
+            }
+        ],
+        "steps": [
+            "Melt the butter in a thick-based pan and gently cook the onion without colour until it is soft.",
+            "Add the rice and stir to coat all the grains in the butter",
+            "Add the wine and cook gently stirring until it is absorbed",
+            "Gradually add the hot stock, stirring until each addition is absorbed. Keep stirring until the rice is tender",
+            "Season with the lemon juice and zest, and pepper to taste. (there will probably be sufficient saltiness from the salmon to not need to add salt) Stir gently to heat through",
+            "Serve scattered with the Parmesan and seasonal vegetables.",
+            "Grill the salmon and gently place onto the risotto with the prawns and asparagus"
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/xxrxux1503070723.jpg",
+        "tags": ["Fish"]
+    },
+    {
+        "title": "Salted Caramel Cheescake",
+        "category": "Dessert",
+        "region": "American",
+        "ingList": [
+            {
+                "ing": "Digestive Biscuits",
+                "amount": "250g"
+            },
+            {
+                "ing": "Pretzels",
+                "amount": "75g"
+            },
+            {
+                "ing": "Butter",
+                "amount": "135g"
+            },
+            {
+                "ing": "Cream Cheese",
+                "amount": "450g"
+            },
+            {
+                "ing": "Vanilla Extract",
+                "amount": "1tsp"
+            },
+            {
+                "ing": "Icing Sugar",
+                "amount": "100g "
+            },
+            {
+                "ing": "Caramel",
+                "amount": "150g"
+            },
+            {
+                "ing": "Sea Salt",
+                "amount": "1tsp"
+            },
+            {
+                "ing": "Double Cream",
+                "amount": "300ml "
+            },
+            {
+                "ing": "Caramel Sauce",
+                "amount": "drizzle"
+            },
+            {
+                "ing": "Toffee Popcorn",
+                "amount": "Top"
+            },
+            {
+                "ing": "Pretzels",
+                "amount": "Top"
+            }
+        ],
+        "steps": [
+            "1) Blitz the biscuits and the pretzels in a food processor and mix the biscuits with the melted butter. Spread on the bottom of an 8″/20cm Deep Springform Tin and press down firmly. Leave to set in the fridge whilst you make the rest!",
+            "",
+            "2) Using an electric mixer, I use my KitchenAid with the whisk attachment, whisk together the cream cheese, vanilla, and icing sugar until smooth and then add the caramel and whisk again until smooth and lump free – this could take a couple of minutes, I whisk it at half speed so not too quick or slow!",
+            "",
+            "3) Pour in the double cream & Salt flakes and continue to whisk for a couple of minutes until its very thick and mousse like (I mix it on a medium speed, level 6/10) – Now this could take up to 5 minutes depending on your mixer, but you seriously have to stick at it – it will hold itself completely when finished mixing (like a meringue does!) If you don’t mix it enough it will not set well enough, but don’t get impatient and whisk it really quick because that’ll make it split! Spread over the biscuit base and leave to set in the fridge overnight.",
+            "",
+            "4) Remove the Cheesecake from the tin carefully and decorate the cheesecake – I drizzled over some of the spare caramel, and then some Toffee Popcorn and more Pretzels!"
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/xqrwyr1511133646.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Seafood fideuà",
+        "category": "Seafood",
+        "region": "Spanish",
+        "ingList": [
+            {
+                "ing": "Mussels",
+                "amount": "400g"
+            },
+            {
+                "ing": "Prawns",
+                "amount": "8"
+            },
+            {
+                "ing": "Saffron",
+                "amount": "2 pinches"
+            },
+            {
+                "ing": "Vermicelli",
+                "amount": "350g"
+            },
+            {
+                "ing": "Olive Oil",
+                "amount": "5 tblsp "
+            },
+            {
+                "ing": "Onions",
+                "amount": "1 large"
+            },
+            {
+                "ing": "Garlic",
+                "amount": "3 cloves"
+            },
+            {
+                "ing": "Paprika",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Monkfish",
+                "amount": "1 tail"
+            },
+            {
+                "ing": "Baby Squid",
+                "amount": "4"
+            },
+            {
+                "ing": "Fish Stock",
+                "amount": "650ml"
+            },
+            {
+                "ing": "Tomatoes",
+                "amount": "2 large"
+            },
+            {
+                "ing": "Lemon",
+                "amount": "Juice of 1"
+            },
+            {
+                "ing": "Parsley",
+                "amount": "Topping"
+            }
+        ],
+        "steps": [
+            "Boil the kettle. Empty the mussels into a colander and run under cold water. Throw away any with broken shells. Pick through the shells, tapping each one on the side of the sink – they should be closed or should slowly close when tapped – if they stay open, throw them away. If any of the shells still have barnacles or stringy beards attached, pull them off with a cutlery knife and rinse the shells well. Keep in the colander, covered with a cold, damp cloth, until you’re ready to cook. Peel the prawn shells on the body section only – leave the heads and tails intact. Score down the backs and pull out any gritty entrails. Chill until you’re ready to cook.",
+            "Put the saffron in a small cup, cover with 50ml kettle-hot water and set aside for 10 mins. If using vermicelli, put in a bowl and crush to little pieces (about 1cm long) with your hands.",
+            "Heat the oil in a large frying pan with at least a 3cm lip, or a 40cm paella pan. Add the onion and stir around the pan for 5 mins until soft. Add the garlic and cook for 1 min more, then tip in the vermicelli and cook for 5 mins, stirring from time to time, until the vermicelli is toasted brown. Stir in the paprika.",
+            "Keeping the heat moderate, stir through the monkfish, squid and saffron with its water, seasoning well. Spread the ingredients out in an even layer, then pour over the hot stock and scatter the tomatoes on top. Bring to a simmer, then cover the whole dish with a tight-fitting lid (or foil). Turn the heat to medium and cook for 6 mins.",
+            "Uncover and stir to incorporate the dry top layer of pasta. Push the mussels into the pasta so the hinges are buried in the bottom of the dish, and they stand straight up. Arrange the prawns on top, cover tightly and cook for another 6 mins or until the mussels are open, the prawns are pink and the pasta is cooked through. Leave to simmer for another 2-3 mins to cook off most of the remaining liquid (leave a little in the pan to prevent the pasta from sticking together). Allow to sit for 2-3 mins, then squeeze over the lemon juice and arrange the wedges on top. Scatter with parsley before serving."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/wqqvyq1511179730.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Spinach & Ricotta Cannelloni",
+        "category": "Vegetarian",
+        "region": "Italian",
+        "ingList": [
+            {
+                "ing": "Olive Oil",
+                "amount": "3 tbsp"
+            },
+            {
+                "ing": "Garlic",
+                "amount": "8 cloves chopped"
+            },
+            {
+                "ing": "Caster Sugar",
+                "amount": "3 tbsp"
+            },
+            {
+                "ing": "Red Wine Vinegar",
+                "amount": "2 tblsp "
+            },
+            {
+                "ing": "Chopped Tomatoes",
+                "amount": "3 400g Cans"
+            },
+            {
+                "ing": "Basil Leaves",
+                "amount": "Bunch"
+            },
+            {
+                "ing": "Mascarpone",
+                "amount": "2 tubs"
+            },
+            {
+                "ing": "Milk",
+                "amount": "3 tbsp"
+            },
+            {
+                "ing": "Parmesan",
+                "amount": "85g"
+            },
+            {
+                "ing": "Mozzarella",
+                "amount": "2 sliced"
+            },
+            {
+                "ing": "Spinach",
+                "amount": "1kg"
+            },
+            {
+                "ing": "Parmesan",
+                "amount": "100g "
+            },
+            {
+                "ing": "Ricotta",
+                "amount": "3 tubs"
+            },
+            {
+                "ing": "Nutmeg",
+                "amount": "pinch"
+            },
+            {
+                "ing": "Cannellini Beans",
+                "amount": "400g"
+            }
+        ],
+        "steps": [
+            "First make the tomato sauce. Heat the oil in a large pan and fry the garlic for 1 min. Add the sugar, vinegar, tomatoes and some seasoning and simmer for 20 mins, stirring occasionally, until thick. Add the basil and divide the sauce between 2 or more shallow ovenproof dishes (see Tips for freezing, below). Set aside. Make a sauce by beating the mascarpone with the milk until smooth, season, then set aside.",
+            "",
+            "Put the spinach in a large colander and pour over a kettle of boiling water to wilt it (you may need to do this in batches). When cool enough to handle squeeze out the excess water. Roughly chop the spinach and mix in a large bowl with 100g Parmesan and ricotta. Season well with salt, pepper and the nutmeg.",
+            "",
+            "Heat oven to 200C/180C fan/gas 6. Using a piping bag or plastic food bag with the corner snipped off, squeeze the filling into the cannelloni tubes. Lay the tubes, side by side, on top of the tomato sauce and spoon over the mascarpone sauce. Top with Parmesan and mozzarella. You can now freeze the cannelloni, uncooked, or you can cook it first and then freeze. Bake for 30-35 mins until golden and bubbling. Remove from oven and let stand for 5 mins before serving."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/wspuvp1511303478.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Squash linguine",
+        "category": "Vegetarian",
+        "region": "Italian",
+        "ingList": [
+            {
+                "ing": "Butternut Squash",
+                "amount": "350g"
+            },
+            {
+                "ing": "Garlic",
+                "amount": "3 parts "
+            },
+            {
+                "ing": "Olive Oil",
+                "amount": "3 tbs"
+            },
+            {
+                "ing": "Linguine Pasta",
+                "amount": "350g"
+            },
+            {
+                "ing": "Sage",
+                "amount": "Small bunch"
+            }
+        ],
+        "steps": [
+            "Heat oven to 200C/180C fan/gas 6. Put the squash and garlic on a baking tray and drizzle with the olive oil. Roast for 35-40 mins until soft. Season.",
+            "Cook the pasta according to pack instructions. Drain, reserving the water. Use a stick blender to whizz the squash with 400ml cooking water. Heat some oil in a frying pan, fry the sage until crisp, then drain on kitchen paper. Tip the pasta and sauce into the pan and warm through. Scatter with sage."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/wxswxy1511452625.jpg",
+        "tags": ["Pasta", "Light"]
+    },
+    {
+        "title": "Spanish Tortilla",
+        "category": "Vegetarian",
+        "region": "Spanish",
+        "ingList": [
+            {
+                "ing": "Onion",
+                "amount": "1 sliced"
+            },
+            {
+                "ing": "Olive Oil",
+                "amount": "4 tbsp"
+            },
+            {
+                "ing": "Butter",
+                "amount": "25g"
+            },
+            {
+                "ing": "Potatoes",
+                "amount": "400g"
+            },
+            {
+                "ing": "Garlic",
+                "amount": "6 cloves"
+            },
+            {
+                "ing": "Eggs",
+                "amount": "8"
+            },
+            {
+                "ing": "Parsley",
+                "amount": "Handful"
+            },
+            {
+                "ing": "Baguette",
+                "amount": "1"
+            },
+            {
+                "ing": "Vine Tomatoes",
+                "amount": "4"
+            },
+            {
+                "ing": "Olive Oil",
+                "amount": "drizzle"
+            }
+        ],
+        "steps": [
+            "Put a large non-stick frying pan on a low heat. Cook the onion slowly in the oil and butter until soft but not brown – this should take about 15 mins. Add the potatoes, cover the pan and cook for a further 15-20 mins, stirring occasionally to make sure they fry evenly.",
+            "When the potatoes are soft and the onion is shiny, crush 2 garlic cloves and stir in, followed by the beaten eggs.",
+            "Put the lid back on the pan and leave the tortilla to cook gently. After 20 mins, the edges and base should be golden, the top set but the middle still a little wobbly. To turn it over, slide it onto a plate and put another plate on top, turn the whole thing over and slide it back into the pan to finish cooking. Once cooked, transfer to a plate and serve the tortilla warm or cold, scattered with the chopped parsley.",
+            "To accompany, take slices of warmed baguette, stab all over with a fork and rub with the remaining garlic, pile on grated tomatoes and season with sea salt and a drizzle of olive oil."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/quuxsx1511476154.jpg",
+        "tags": ["Egg", "Light"]
+    },
+    {
+        "title": "Steak and Kidney Pie",
+        "category": "Beef",
+        "region": "British",
+        "ingList": [
+            {
+                "ing": "Puff Pastry",
+                "amount": "300g"
+            },
+            {
+                "ing": "Egg White",
+                "amount": "Beaten"
+            },
+            {
+                "ing": "Egg Yolks",
+                "amount": "Beaten"
+            },
+            {
+                "ing": "Vegetable Oil",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Beef",
+                "amount": "70 ml "
+            },
+            {
+                "ing": "Lamb Kidney",
+                "amount": "200g"
+            },
+            {
+                "ing": "Onions",
+                "amount": "2 chopped"
+            },
+            {
+                "ing": "Plain Flour",
+                "amount": "30g"
+            },
+            {
+                "ing": "Beef Stock",
+                "amount": "85 ml "
+            },
+            {
+                "ing": "Salt",
+                "amount": "pinch"
+            },
+            {
+                "ing": "Pepper",
+                "amount": "pinch"
+            },
+            {
+                "ing": "Worcestershire Sauce",
+                "amount": "Dash"
+            }
+        ],
+        "steps": [
+            "Preheat the oven to 220C/425F/Gas 7",
+            "Heat the vegetable oil in a large frying pan, and brown the beef all over. (You may need to do this in batches.) Set aside, then brown the kidneys on both sides in the same pan. Add the onions and cook for 3-4 minutes.",
+            "Return the beef to the pan, sprinkle flour over and coat the meat and onions",
+            "Add the stock to the pan, stir well and bring to the boil.",
+            "Turn the heat down and simmer for 1½ hours without a lid. If the liquid evaporates too much, add more stock.",
+            "Remove from the heat. Add salt, pepper and Worcestershire sauce and allow to cool completely. Place the cooked meat mixture into a pie dish.",
+            "Roll out the pastry to 5mm/¼in thick and 5cm/2in larger than the dish you are using.",
+            "Using a rolling pin, lift the pastry and place it over the top of the pie dish. Trim and crimp the edges with your fingers and thumb.",
+            "Brush the surface with the beaten egg mixture and bake for 30-40 minutes until golden-brown and puffed.",
+            "Serve with creamy mash and steamed vegetables to soak up the gravy."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/qysyss1511558054.jpg",
+        "tags": ["Pie"]
+    },
+    {
+        "title": "Sticky Toffee Pudding",
+        "category": "Dessert",
+        "region": "British",
+        "ingList": [
+            {
+                "ing": "Butter",
+                "amount": "100g "
+            },
+            {
+                "ing": "Muscovado Sugar",
+                "amount": "175g"
+            },
+            {
+                "ing": "Eggs",
+                "amount": "2 large"
+            },
+            {
+                "ing": "Self-raising Flour",
+                "amount": "225g"
+            },
+            {
+                "ing": "Baking Powder",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Bicarbonate Of Soda",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Black Treacle",
+                "amount": "3 tbs"
+            },
+            {
+                "ing": "Milk",
+                "amount": "275ml"
+            },
+            {
+                "ing": "Double Cream",
+                "amount": "to serve"
+            },
+            {
+                "ing": "Butter",
+                "amount": "100g "
+            },
+            {
+                "ing": "Muscovado Sugar",
+                "amount": "125g"
+            },
+            {
+                "ing": "Black Treacle",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Double Cream",
+                "amount": "300ml "
+            },
+            {
+                "ing": "Vanilla Extract",
+                "amount": "1 tsp "
+            }
+        ],
+        "steps": [
+            "Preheat the oven to 180C/160C Fan/Gas 4. Butter a wide shallow 1.7-litre/3-pint ovenproof dish.",
+            "Put the butter, sugar, eggs, flour, baking powder, bicarbonate of soda and treacle into a mixing bowl. Beat using an electric handheld whisk for about 30 seconds or until combined. Pour in the milk gradually and whisk again until smooth. Pour into the prepared dish. Bake for 35–40 minutes or until well risen and springy in the centre.",
+            "To make the sauce, put all the ingredients into a saucepan and stir over a low heat until the sugar has dissolved and the butter has melted. Bring to the boil, stirring for a minute.",
+            "To serve, pour half the sauce over the pudding in the baking dish. Serve with the cream or ice cream."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/xqqqtu1511637379.jpg",
+        "tags": ["Pudding", "Cake", "Desert"]
+    },
+    {
+        "title": "Spotted Dick",
+        "category": "Dessert",
+        "region": "British",
+        "ingList": [
+            {
+                "ing": "Self-raising Flour",
+                "amount": "250g"
+            },
+            {
+                "ing": "Salt",
+                "amount": "pinch"
+            },
+            {
+                "ing": "Suet",
+                "amount": "125g"
+            },
+            {
+                "ing": "Currants",
+                "amount": "175g"
+            },
+            {
+                "ing": "Caster Sugar",
+                "amount": "80g"
+            },
+            {
+                "ing": "Lemon",
+                "amount": "Zest of 1"
+            },
+            {
+                "ing": "Orange",
+                "amount": "Zest of 1"
+            },
+            {
+                "ing": "Milk",
+                "amount": "150ml"
+            },
+            {
+                "ing": "Custard",
+                "amount": "to serve"
+            }
+        ],
+        "steps": [
+            "Put the flour and salt in a bowl. Add the suet, currants, sugar, lemon and orange zest.",
+            "Pour in 150ml milk and mix to a firm but moist dough, adding the extra milk if necessary.",
+            "Shape into a fat roll about 20cm long. Place on a large rectangle of baking parchment. Wrap loosely to allow for the pudding to rise and tie the ends with string like a Christmas cracker.",
+            "Place a steamer over a large pan of boiling water, add the pudding to the steamer, cover and steam for 1 1/2 hours. Top up the pan with water from time to time.",
+            "Remove from the steamer and allow to cool slightly before unwrapping. Serve sliced with custard."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/xqvyqr1511638875.jpg",
+        "tags": ["Fruity", "Pudding", "Desert"]
+    },
+    {
+        "title": "Summer Pudding",
+        "category": "Dessert",
+        "region": "British",
+        "ingList": [
+            {
+                "ing": "Strawberries",
+                "amount": "300g"
+            },
+            {
+                "ing": "Blackberries",
+                "amount": "250g"
+            },
+            {
+                "ing": "Redcurrants",
+                "amount": "100g "
+            },
+            {
+                "ing": "Raspberries",
+                "amount": "500g"
+            },
+            {
+                "ing": "Caster Sugar",
+                "amount": "175g"
+            },
+            {
+                "ing": "Bread",
+                "amount": "7 Slices"
+            }
+        ],
+        "steps": [
+            "Bring out the juices: Wash fruit and gently dry on kitchen paper – keep strawberries separate. Put sugar and 3 tbsp water into a large pan. Gently heat until sugar dissolves – stir a few times. Bring to a boil for 1 min, then tip in the fruit (not strawberries). Cook for 3 mins over a low heat, stirring 2-3 times. The fruit will be softened, mostly intact and surrounded by dark red juice. Put a sieve over a bowl and tip in the fruit and juice.",
+            "Line the bowl with cling film and prepare the bread: Line the 1.25-litre basin with cling film as this will help you to turn out the pudding. Overlap two pieces of cling film in the middle of the bowl as it’s easier than trying to get one sheet to stick to all of the curves. Let the edges overhang by about 15cm. Cut the crusts off the bread. Cut 4 pieces of bread in half, a little on an angle, to give 2 lopsided rectangles per piece. Cut 2 slices into 4 triangles each and leave the final piece whole.",
+            "Build the pud: Dip the whole piece of bread into the juice for a few secs just to coat. Push this into the bottom of the basin. Now dip the wonky rectangular pieces one at a time and press around the basin’s sides so that they fit together neatly, alternately placing wide and narrow ends up. If you can’t quite fit the last piece of bread in it doesn’t matter, just trim into a triangle, dip in juice and slot in. Now spoon in the softened fruit, adding the strawberries here and there as you go.",
+            "Let flavours mingle then serve: Dip the bread triangles in juice and place on top – trim off overhang with scissors. Keep leftover juice for later. Bring cling film up and loosely seal. Put a side plate on top and weight down with cans. Chill for 6 hrs or overnight. To serve, open out cling film then put a serving plate upside-down on top and flip over. serve with leftover juice, any extra berries and cream."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/rsqwus1511640214.jpg",
+        "tags": ["Summer"]
+    },
+    {
+        "title": "Summer Pistou",
+        "category": "Vegetarian",
+        "region": "French",
+        "ingList": [
+            {
+                "ing": "Rapeseed Oil",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Leek",
+                "amount": "2 finely chopped"
+            },
+            {
+                "ing": "Courgettes",
+                "amount": "1 large"
+            },
+            {
+                "ing": "Vegetable Stock",
+                "amount": "1L"
+            },
+            {
+                "ing": "Cannellini Beans",
+                "amount": "400g"
+            },
+            {
+                "ing": "Green Beans",
+                "amount": "200g"
+            },
+            {
+                "ing": "Tomatoes",
+                "amount": "3 chopped"
+            },
+            {
+                "ing": "Garlic Clove",
+                "amount": "3 chopped"
+            },
+            {
+                "ing": "Basil",
+                "amount": "Small pack"
+            },
+            {
+                "ing": "Parmesan",
+                "amount": "40g"
+            }
+        ],
+        "steps": [
+            "Heat the oil in a large pan and fry the leeks and courgette for 5 mins to soften. Pour in the stock, add three-quarters of the haricot beans with the green beans, half the tomatoes, and simmer for 5-8 mins until the vegetables are tender.",
+            "Meanwhile, blitz the remaining beans and tomatoes, the garlic and basil in a food processor (or in a bowl with a stick blender) until smooth, then stir in the Parmesan. Stir the sauce into the soup, cook for 1 min, then ladle half into bowls or pour into a flask for a packed lunch. Chill the remainder. Will keep for a couple of days."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/rqtxvr1511792990.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Split Pea Soup",
+        "category": "Side",
+        "region": "Canadian",
+        "ingList": [
+            {
+                "ing": "Ham",
+                "amount": "1kg"
+            },
+            {
+                "ing": "Peas",
+                "amount": "200g (soaked overnight)"
+            },
+            {
+                "ing": "Onions",
+                "amount": "2 chopped"
+            },
+            {
+                "ing": "Carrots",
+                "amount": "2 chopped"
+            },
+            {
+                "ing": "Bay Leaves",
+                "amount": "2"
+            },
+            {
+                "ing": "Celery",
+                "amount": "1 chopped"
+            },
+            {
+                "ing": "Frozen Peas",
+                "amount": "300g"
+            },
+            {
+                "ing": "Bread",
+                "amount": "to serve"
+            }
+        ],
+        "steps": [
+            "Put the gammon in a very large pan with 2 litres water and bring to the boil. Remove from the heat and drain off the water – this helps to get rid of some of the saltiness. Recover with 2 litres cold water and bring to the boil again. Put everything but the frozen peas into the pan and bring to the boil. Reduce to a simmer and cook for 1½-2½ hrs, topping up the water as and when you need to, to a similar level it started at. As the ham cooks and softens, you can halve it if you want, so it is all submerged under the liquid. When the ham is tender enough to pull into shreds, it is ready.",
+            "Lift out the ham, peel off and discard the skin. While it is still hot (wear a clean pair of rubber gloves), shred the meat. Remove bay from the soup and stir in the frozen peas. Simmer for 1 min, then blend until smooth. Add a splash of water if too thick, and return to the pan to heat through if it has cooled, or if you are making ahead.",
+            "When you are ready to serve, mix the hot soup with most of the ham – gently reheat if made ahead. Serve in bowls with the remaining ham scattered on top, and eat with crusty bread and butter."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/xxtsvx1511814083.jpg",
+        "tags": ["Soup", "Warm"]
+    },
+    {
+        "title": "Sugar Pie",
+        "category": "Dessert",
+        "region": "Canadian",
+        "ingList": [
+            {
+                "ing": "Brown Sugar",
+                "amount": "2 cups "
+            },
+            {
+                "ing": "Butter",
+                "amount": "¼ cup"
+            },
+            {
+                "ing": "Eggs",
+                "amount": "2"
+            },
+            {
+                "ing": "Vanilla Extract",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Salt",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Plain Flour",
+                "amount": "½ cup "
+            },
+            {
+                "ing": "Milk",
+                "amount": "1 1/2 cups "
+            }
+        ],
+        "steps": [
+            "Preheat oven to 350 degrees F (175 degrees C). Grease a 9-inch pie dish.",
+            "Place the brown sugar and butter in a mixing bowl, and beat them together with an electric mixer until creamy and very well combined, without lumps. Beat in eggs, one at a time, incorporating the first egg before adding the next one. Add the vanilla extract and salt; beat the flour in, a little at a time, and then the milk, making a creamy batter. Pour the batter into the prepared pie dish.",
+            "Bake in the preheated oven for 35 minutes; remove pie, and cover the rim with aluminum foil to prevent burning. Return to oven, and bake until the middle sets and the top forms a crusty layer, about 15 more minutes. Let the pie cool to room temperature, then refrigerate for at least 1 hour before serving."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/yrstur1511816601.jpg",
+        "tags": ["Pie", "Desert"]
+    },
+    {
+        "title": "Steak Diane",
+        "category": "Beef",
+        "region": "French",
+        "ingList": [
+            {
+                "ing": "Canola Oil",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Beef Fillet",
+                "amount": "4"
+            },
+            {
+                "ing": "Beef Stock",
+                "amount": "1 1/2 cup "
+            },
+            {
+                "ing": "Butter",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Garlic",
+                "amount": "2 cloves minced"
+            },
+            {
+                "ing": "Challots",
+                "amount": "1 medium finely diced"
+            },
+            {
+                "ing": "Mushrooms",
+                "amount": "4 oz "
+            },
+            {
+                "ing": "Brandy",
+                "amount": "¼ cup"
+            },
+            {
+                "ing": "Heavy Cream",
+                "amount": "¼ cup"
+            },
+            {
+                "ing": "Dijon Mustard",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Worcestershire Sauce",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Tabasco Sauce",
+                "amount": "Dash"
+            },
+            {
+                "ing": "Parsley",
+                "amount": "1 tbs minced"
+            },
+            {
+                "ing": "Chives",
+                "amount": "1 tbs minced"
+            },
+            {
+                "ing": "Salt",
+                "amount": "to taste"
+            },
+            {
+                "ing": "Pepper",
+                "amount": "to taste"
+            }
+        ],
+        "steps": [
+            "Heat oil in a 12\" skillet over medium-high heat. Season steaks with salt and pepper, and add to skillet; cook, turning once, until browned on both sides and cooked to desired doneness, about 4 to 5 minutes for medium-rare. Transfer steaks to a plate, and set aside.",
+            "Return skillet to high heat, and add stock; cook until reduced until to 1⁄2 cup, about 10 minutes. Pour into a bowl, and set aside. Return skillet to heat, and add butter; add garlic and shallots, and cook, stirring, until soft, about 2 minutes. Add mushrooms, and cook, stirring, until they release any liquid and it evaporates and mushrooms begin to brown, about 2 minutes. Add cognac, and light with a match to flambée; cook until flame dies down. Stir in reserved stock, cream, Dijon, Worcestershire, and hot sauce, and then return steaks to skillet; cook, turning in sauce, until warmed through and sauce is thickened, about 4 minutes. Transfer steak to serving plates and stir parsley and chives into sauce; pour sauce over steaks to serve."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/vussxq1511882648.jpg",
+        "tags": ["DateNight", "Expensive", "Meat", "MainMeal", "Cheasy"]
+    },
+    {
+        "title": "Saltfish and Ackee",
+        "category": "Seafood",
+        "region": "Jamaican",
+        "ingList": [
+            {
+                "ing": "Salt Cod",
+                "amount": "450g"
+            },
+            {
+                "ing": "Ackee",
+                "amount": "400g"
+            },
+            {
+                "ing": "Onion",
+                "amount": "1 chopped"
+            },
+            {
+                "ing": "Paprika",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Curry Powder",
+                "amount": "2 tsp"
+            },
+            {
+                "ing": "Jerusalem Artichokes",
+                "amount": "2 tsp"
+            },
+            {
+                "ing": "Hotsauce",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Red Pepper",
+                "amount": "1 sliced"
+            },
+            {
+                "ing": "Yellow Pepper",
+                "amount": "1 sliced"
+            },
+            {
+                "ing": "Tomatoes",
+                "amount": "200g"
+            },
+            {
+                "ing": "Salt",
+                "amount": "to taste"
+            },
+            {
+                "ing": "Pepper",
+                "amount": "to taste"
+            },
+            {
+                "ing": "Self-raising Flour",
+                "amount": "250g"
+            },
+            {
+                "ing": "Suet",
+                "amount": "30g"
+            },
+            {
+                "ing": "Salt",
+                "amount": "pinch"
+            },
+            {
+                "ing": "Olive Oil",
+                "amount": "for frying"
+            }
+        ],
+        "steps": [
+            "For the saltfish, soak the salt cod overnight, changing the water a couple of times.",
+            "Drain, then put the cod in a large pan of fresh water and bring to the boil. Drain again, add fresh water and bring to the boil again.",
+            "Simmer for about five minutes, or until cooked through, then drain and flake the fish into large pieces. Discard any skin or bones.",
+            "For the dumplings, mix the flour and suet with a pinch of salt and 250ml/9fl oz water to make a dough.",
+            "Wrap the mixture in clingfilm and leave in the fridge to rest.",
+            "Open the can of ackee, drain and rinse, then set aside.",
+            "Heat a tablespoon of olive oil in a pan and fry the onion until softened but not brown.",
+            "Add the spices, seasoning, pepper sauce and sliced peppers and continue to fry until the peppers are tender.",
+            "Add the chopped tomatoes, then the salt cod and mix together. Lastly stir in the ackee very gently and leave to simmer until ready to serve.",
+            "When you’re almost ready to eat, heat about 1cm/½in vegetable oil in a frying pan and heat until just smoking.",
+            "Shape the dumpling mix into plum-size balls and shallow-fry until golden-brown. (CAUTION: hot oil can be dangerous. Do not leave the pan unattended.)",
+            "Drain the dumplings on kitchen paper and serve with the saltfish and ackee."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/vytypy1511883765.jpg",
+        "tags": ["Speciality"]
+    },
+    {
+        "title": "Sweet and Sour Pork",
+        "category": "Pork",
+        "region": "Chinese",
+        "ingList": [
+            {
+                "ing": "Pork",
+                "amount": "200g"
+            },
+            {
+                "ing": "Egg",
+                "amount": "1"
+            },
+            {
+                "ing": "Water",
+                "amount": "Dash"
+            },
+            {
+                "ing": "Salt",
+                "amount": "1/2 tsp"
+            },
+            {
+                "ing": "Sugar",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Soy Sauce",
+                "amount": "10g"
+            },
+            {
+                "ing": "Starch",
+                "amount": "10g"
+            },
+            {
+                "ing": "Tomato Puree",
+                "amount": "30g"
+            },
+            {
+                "ing": "Vinegar",
+                "amount": "10g"
+            },
+            {
+                "ing": "Coriander",
+                "amount": "Dash"
+            }
+        ],
+        "steps": [
+            "Preparation",
+            "1. Crack the egg into a bowl. Separate the egg white and yolk.",
+            "",
+            "Sweet and Sour Pork",
+            "2. Slice the pork tenderloin into strips.",
+            "",
+            "3. Prepare the marinade using a pinch of salt, one teaspoon of starch, two teaspoons of light soy sauce, and an egg white.",
+            "",
+            "4. Marinade the pork strips for about 20 minutes.",
+            "",
+            "5. Put the remaining starch in a bowl. Add some water and vinegar to make a starchy sauce.",
+            "",
+            "Sweet and Sour Pork",
+            "Cooking Instructions",
+            "1. Pour the cooking oil into a wok and heat to 190°C (375°F). Add the marinated pork strips and fry them until they turn brown. Remove the cooked pork from the wok and place on a plate.",
+            "",
+            "2. Leave some oil in the wok. Put the tomato sauce and white sugar into the wok, and heat until the oil and sauce are fully combined.",
+            "",
+            "3. Add some water to the wok and thoroughly heat the sweet and sour sauce before adding the pork strips to it.",
+            "",
+            "4. Pour in the starchy sauce. Stir-fry all the ingredients until the pork and sauce are thoroughly mixed together.",
+            "",
+            "5. Serve on a plate and add some coriander for decoration."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/1529442316.jpg",
+        "tags": ["Sweet"]
+    },
+    {
+        "title": "Szechuan Beef",
+        "category": "Beef",
+        "region": "Chinese",
+        "ingList": [
+            {
+                "ing": "Beef",
+                "amount": "1/2 lb"
+            },
+            {
+                "ing": "Salt",
+                "amount": "1/2 tsp"
+            },
+            {
+                "ing": "Sesame Seed Oil",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Pepper",
+                "amount": "1 pinch"
+            },
+            {
+                "ing": "Egg White",
+                "amount": "1"
+            },
+            {
+                "ing": "Starch",
+                "amount": "3 tbs"
+            },
+            {
+                "ing": "Oil",
+                "amount": "4 tbs"
+            },
+            {
+                "ing": "Ginger",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Garlic",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Onion",
+                "amount": "3/4 cup "
+            },
+            {
+                "ing": "Carrots",
+                "amount": "1/2 cup "
+            },
+            {
+                "ing": "Green Pepper",
+                "amount": "3/4 cup "
+            },
+            {
+                "ing": "Celery",
+                "amount": "1 cup "
+            },
+            {
+                "ing": "Mushrooms",
+                "amount": "1 cup "
+            },
+            {
+                "ing": "Cooking wine",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Water",
+                "amount": "1 cup "
+            },
+            {
+                "ing": "Oyster Sauce",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Hotsauce",
+                "amount": "1/2 tsp"
+            },
+            {
+                "ing": "Sugar",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Soy Sauce",
+                "amount": "1 tbs"
+            }
+        ],
+        "steps": [
+            "STEP 1 - MARINATING THE BEEF",
+            "In a bowl, add the beef, salt, sesame seed oil, white pepper, egg white, 2 Tablespoon of corn starch and 1 Tablespoon of oil.",
+            "STEP 2 - STIR FRY",
+            "First Cook the beef by adding 2 Tablespoon of oil until the beef is golden brown.",
+            "Set the beef aside",
+            "In a wok add 1 Tablespoon of oil, minced ginger, minced garlic and stir-fry for few seconds.",
+            "Next add all of the vegetables and then add sherry cooking wine and 1 cup of water.",
+            "To make the sauce add oyster sauce, hot pepper sauce, and sugar.",
+            "add the cooked beef and 1 spoon of soy sauce",
+            "To thicken the sauce, whisk together 1 Tablespoon of cornstarch and 2 Tablespoon of water in a bowl and slowly add to your stir-fry until it's the right thickness."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/1529443236.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Shrimp Chow Fun",
+        "category": "Seafood",
+        "region": "Chinese",
+        "ingList": [
+            {
+                "ing": "Rice Stick Noodles",
+                "amount": "1/2 bag"
+            },
+            {
+                "ing": "Prawns",
+                "amount": "8 oz "
+            },
+            {
+                "ing": "Egg",
+                "amount": "1/2 "
+            },
+            {
+                "ing": "Pepper",
+                "amount": "pinch"
+            },
+            {
+                "ing": "Sesame Seed Oil",
+                "amount": "2 tsp"
+            },
+            {
+                "ing": "Cornstarch",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Oil",
+                "amount": "4 tbs"
+            },
+            {
+                "ing": "Minced Garlic",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Ginger",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Onion",
+                "amount": "1/2 cup "
+            },
+            {
+                "ing": "Bean Sprouts",
+                "amount": "1 cup "
+            },
+            {
+                "ing": "Spring Onions",
+                "amount": "1/2 cup "
+            },
+            {
+                "ing": "Cooking wine",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Oyster Sauce",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Sugar",
+                "amount": "1/2 tbs"
+            },
+            {
+                "ing": "Vinegar",
+                "amount": "1/2 tbs"
+            },
+            {
+                "ing": "Soy Sauce",
+                "amount": "1 tbs"
+            }
+        ],
+        "steps": [
+            "STEP 1 - SOAK THE RICE NOODLES",
+            "Soak the rice noodles overnight untill they are soft",
+            "STEP 2 - BOIL THE RICE NOODLES",
+            "Boil the noodles for 10-15 minutes and then rinse with cold water to stop the cooking process of the noodles.",
+            "STEP 3 -MARINATING THE SHRIMP",
+            "In a bowl add the shrimp, egg, 1 pinch of white pepper, 1 Teaspoon of sesame seed oil, 1 Tablespoon corn starch and 1 tablespoon of oil",
+            "Mix together well",
+            "STEP 4 - STIR FRY",
+            "In a wok add 2 Tablespoons of oil, shrimp and stir fry them until it is golden brown",
+            "Set the shrimp aside",
+            "Add 1 Tablespoon of oil to the work and then add minced garlic, ginger and all of the vegetables.",
+            "Add the noodles to the wok",
+            "Next add sherry cooking wine, oyster sauce, sugar, vinegar, sesame seed oil, 1 pinch white pepper, and soy sauce",
+            "Add back in the shrimp",
+            "To thicken the sauce, whisk together 1 Tablespoon of corn starch and 2 Tablespoon of water in a bowl and slowly add to your stir-fry until it's the right thickness."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/1529445434.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Salmon Avocado Salad",
+        "category": "Seafood",
+        "region": "British",
+        "ingList": [
+            {
+                "ing": "Salmon",
+                "amount": "400g"
+            },
+            {
+                "ing": "Avocado",
+                "amount": "3"
+            },
+            {
+                "ing": "Cucumber",
+                "amount": "1"
+            },
+            {
+                "ing": "Spinach",
+                "amount": "400g"
+            },
+            {
+                "ing": "Mint",
+                "amount": "4 tbs"
+            },
+            {
+                "ing": "Lime",
+                "amount": "zest and juice of 1"
+            },
+            {
+                "ing": "Honey",
+                "amount": "2 tsp"
+            },
+            {
+                "ing": "Olive Oil",
+                "amount": "3 tbs"
+            }
+        ],
+        "steps": [
+            "Season the salmon, then rub with oil. Mix the dressing ingredients together. Halve, stone, peel and slice the avocados. Halve and quarter the cucumber lengthways, then cut into slices. Divide salad, avocado and cucumber between four plates, then drizzle with half the dressing.",
+            "",
+            "Heat a non-stick pan. Add the salmon and fry for 3-4 mins on each side until crisp but still moist inside. Put a salmon fillet on top of each salad and drizzle over the remaining dressing. Serve warm."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/1549542994.jpg",
+        "tags": [
+            "Paleo",
+            "Keto",
+            "LowCarbs",
+            "Salad",
+            "Alcoholic",
+            "Halloween",
+            ""
+        ]
+    },
+    {
+        "title": "Salmon Eggs Eggs Benedict",
+        "category": "Breakfast",
+        "region": "American",
+        "ingList": [
+            {
+                "ing": "Eggs",
+                "amount": "4"
+            },
+            {
+                "ing": "White Wine Vinegar",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "English Muffins",
+                "amount": "2"
+            },
+            {
+                "ing": "Butter",
+                "amount": "To serve"
+            },
+            {
+                "ing": "Smoked Salmon",
+                "amount": "8 slices"
+            },
+            {
+                "ing": "Lemon Juice",
+                "amount": "2 tsp"
+            },
+            {
+                "ing": "White Wine Vinegar",
+                "amount": "2 tsp"
+            },
+            {
+                "ing": "Egg",
+                "amount": "3 Yolkes"
+            },
+            {
+                "ing": "Unsalted Butter",
+                "amount": "125g"
+            }
+        ],
+        "steps": [
+            "First make the Hollandaise sauce. Put the lemon juice and vinegar in a small bowl, add the egg yolks and whisk with a balloon whisk until light and frothy. Place the bowl over a pan of simmering water and whisk until mixture thickens. Gradually add the butter, whisking constantly until thick – if it looks like it might be splitting, then whisk off the heat for a few mins. Season and keep warm.",
+            "",
+            "To poach the eggs, bring a large pan of water to the boil and add the vinegar. Lower the heat so that the water is simmering gently. Stir the water so you have a slight whirlpool, then slide in the eggs one by one. Cook each for about 4 mins, then remove with a slotted spoon.",
+            "",
+            "Lightly toast and butter the muffins, then put a couple of slices of salmon on each half. Top each with an egg, spoon over some Hollandaise and garnish with chopped chives."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/1550440197.jpg",
+        "tags": ["Bun", "Brunch"]
+    },
+    {
+        "title": "Shakshuka",
+        "category": "Vegetarian",
+        "region": "Egyptian",
+        "ingList": [
+            {
+                "ing": "Olive Oil",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Red Onions",
+                "amount": "2 chopped"
+            },
+            {
+                "ing": "Red Chilli",
+                "amount": "1 finely chopped "
+            },
+            {
+                "ing": "Garlic",
+                "amount": "1 clove"
+            },
+            {
+                "ing": "Coriander",
+                "amount": "Chopped"
+            },
+            {
+                "ing": "Cherry Tomatoes",
+                "amount": "800g"
+            },
+            {
+                "ing": "Caster Sugar",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Eggs",
+                "amount": "4"
+            },
+            {
+                "ing": "Feta",
+                "amount": "Spinkling"
+            }
+        ],
+        "steps": [
+            "Heat the oil in a frying pan that has a lid, then soften the onions, chilli, garlic and coriander stalks for 5 mins until soft. Stir in the tomatoes and sugar, then bubble for 8-10 mins until thick. Can be frozen for 1 month.",
+            "",
+            "Using the back of a large spoon, make 4 dips in the sauce, then crack an egg into each one. Put a lid on the pan, then cook over a low heat for 6-8 mins, until the eggs are done to your liking. Scatter with the coriander leaves and serve with crusty bread."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/g373701551450225.jpg",
+        "tags": ["Egg", "Brunch", "Breakfast"]
+    },
+    {
+        "title": "Smoked Haddock Kedgeree",
+        "category": "Breakfast",
+        "region": "Indian",
+        "ingList": [
+            {
+                "ing": "Butter",
+                "amount": "50g"
+            },
+            {
+                "ing": "Onion",
+                "amount": "1 chopped"
+            },
+            {
+                "ing": "Cardamom",
+                "amount": "3 Pods"
+            },
+            {
+                "ing": "Turmeric",
+                "amount": "1/4 tsp"
+            },
+            {
+                "ing": "Cinnamon Stick",
+                "amount": "1 small"
+            },
+            {
+                "ing": "Bay Leaf",
+                "amount": "Sprigs of fresh"
+            },
+            {
+                "ing": "Basmati Rice",
+                "amount": "450g"
+            },
+            {
+                "ing": "Chicken Stock",
+                "amount": "1 Litre"
+            },
+            {
+                "ing": "Smoked Haddock",
+                "amount": "750g"
+            },
+            {
+                "ing": "Eggs",
+                "amount": "3"
+            },
+            {
+                "ing": "Parsley",
+                "amount": "3 tblsp chopped"
+            },
+            {
+                "ing": "Lemon",
+                "amount": "1 chopped"
+            }
+        ],
+        "steps": [
+            "Melt 50g butter in a large saucepan (about 20cm across), add 1 finely chopped medium onion and cook gently over a medium heat for 5 minutes, until softened but not browned.",
+            "",
+            "Stir in 3 split cardamom pods, ¼ tsp turmeric, 1 small cinnamon stick and 2 bay leaves, then cook for 1 minute.",
+            "",
+            "Tip in 450g basmati rice and stir until it is all well coated in the spicy butter.",
+            "",
+            "Pour in 1 litre chicken or fish stock, add ½ teaspoon salt and bring to the boil, stir once to release any rice from the bottom of the pan. Cover with a close-fitting lid, reduce the heat to low and leave to cook very gently for 12 minutes.",
+            "",
+            "Meanwhile, bring some water to the boil in a large shallow pan. Add 750g un-dyed smoked haddock fillet and simmer for 4 minutes, until the fish is just cooked. Lift it out onto a plate and leave until cool enough to handle.",
+            "",
+            "Hard-boil 3 eggs for 8 minutes.",
+            "",
+            "Flake the fish, discarding any skin and bones. Drain the eggs, cool slightly, then peel and chop.",
+            "",
+            "Uncover the rice and remove the bay leaves, cinnamon stick and cardamom pods if you wish to. Gently fork in the fish and the chopped eggs, cover again and return to the heat for 2-3 minutes, or until the fish has heated through.",
+            "",
+            "Gently stir in almost all the 3 tbsp chopped fresh parsley, and season with a little salt and black pepper to taste. Serve scattered with the remaining parsley and garnished with 1 lemon, cut into wedges."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/1550441275.jpg",
+        "tags": ["Brunch", "Fish", "Fusion"]
+    },
+    {
+        "title": "Stamppot",
+        "category": "Pork",
+        "region": "Dutch",
+        "ingList": [
+            {
+                "ing": "Potatoes",
+                "amount": "1.5kg"
+            },
+            {
+                "ing": "Bay Leaf",
+                "amount": "2 leaves"
+            },
+            {
+                "ing": "Shallots",
+                "amount": "2"
+            },
+            {
+                "ing": "Butter",
+                "amount": "3 tbs"
+            },
+            {
+                "ing": "Kale",
+                "amount": "750g"
+            },
+            {
+                "ing": "Sausages",
+                "amount": "2"
+            },
+            {
+                "ing": "Milk",
+                "amount": "500ml"
+            },
+            {
+                "ing": "Nutmeg",
+                "amount": "Grated"
+            },
+            {
+                "ing": "Salt",
+                "amount": "Pinch"
+            },
+            {
+                "ing": "Pepper",
+                "amount": "Pinch"
+            }
+        ],
+        "steps": [
+            "",
+            "Wash and peel the potatoes and cut into similarly sized pieces for even cooking.",
+            "",
+            "In a large soup pot, boil the potatoes and the bay leaves in salted water for 20 minutes. Discard the bay leaves.",
+            "",
+            "If you're not using a bag of ready-cut curly kale, wash the bunches thoroughly under cool running water to get rid of all soil—you wouldn't want that gritty texture in your finished dish. Trim any coarse stems and discard any brown leaves. With a sharp knife, cut the curly kale into thin strips.",
+            "",
+            "Peel and chop the shallots.",
+            "",
+            "In a frying pan or skillet, melt 1 tbsp. of butter and saute the shallots for a few minutes before adding the curly kale and 2 tbsp. of water. Season and cook for about 10 minutes, or until tender.",
+            "",
+            "Warm the milk on the stove or in the microwave.",
+            "",
+            "Drain, shake and dry the potatoes with kitchen towels before mashing with a potato masher or ricer. Working quickly, add the warm milk and the remaining butter. Season to taste with nutmeg, salt, and pepper. ",
+            "",
+            "Mix the cooked curly kale through the cooked mashed potato mixture.",
+            "",
+            "Top with slices of the smoked sausage and serve hot with your favorite mustard or gravy.",
+            "",
+            "Serve and enjoy!"
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/hyarod1565090529.jpg",
+        "tags": ["Savory", "Breakfast"]
+    },
+    {
+        "title": "Snert (Dutch Split Pea Soup)",
+        "category": "Side",
+        "region": "Dutch",
+        "ingList": [
+            {
+                "ing": "Water",
+                "amount": "2L"
+            },
+            {
+                "ing": "Peas",
+                "amount": "300g"
+            },
+            {
+                "ing": "Pork",
+                "amount": "100g "
+            },
+            {
+                "ing": "Vegetable Stock Cube",
+                "amount": "1"
+            },
+            {
+                "ing": "Celery",
+                "amount": "2"
+            },
+            {
+                "ing": "Carrots",
+                "amount": "2"
+            },
+            {
+                "ing": "Potatoes",
+                "amount": "1 large"
+            },
+            {
+                "ing": "Onion",
+                "amount": "1 small"
+            },
+            {
+                "ing": "Leek",
+                "amount": "1 small"
+            },
+            {
+                "ing": "Celeriac",
+                "amount": "1 cup "
+            },
+            {
+                "ing": "Sausages",
+                "amount": "1 pound"
+            }
+        ],
+        "steps": [
+            "Gather the ingredients.",
+            "",
+            "In a large soup pot, bring water, split peas, pork belly or bacon, pork chop, and bouillon cube to a boil. Reduce the heat to a simmer, cover and let cook for 45 minutes, stirring occasionally and skimming off any foam that rises to the top. ",
+            "",
+            "Remove the pork chop, debone, and thinly slice the meat. Set aside.",
+            "",
+            "Add the celery, carrots, potato, onion, leek, and celeriac to the soup. Return to the boil, reduce the heat to a simmer and let cook, uncovered, for another 30 minutes, adding a little extra water if the ingredients start to stick to the bottom of the pot.",
+            "",
+            "Add the smoked sausage for the last 15 minutes of cooking time. When the vegetables are tender, remove the bacon and smoked sausage, slice thinly and set aside.",
+            "",
+            "If you prefer a smooth consistency, purée the soup with a stick blender. Season to taste with salt and pepper. Add the meat back to the soup, setting some slices of rookworst aside.",
+            "",
+            "Serve in heated bowls or soup plates, garnished with slices of rookworst and chopped celery leaf.",
+            "",
+            "Enjoy!"
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/9ptx0a1565090843.jpg",
+        "tags": ["Soup", "Cake"]
+    },
+    {
+        "title": "Spaghetti alla Carbonara",
+        "category": "Pasta",
+        "region": "Italian",
+        "ingList": [
+            {
+                "ing": "Spaghetti",
+                "amount": "320g"
+            },
+            {
+                "ing": "Egg Yolks",
+                "amount": "6"
+            },
+            {
+                "ing": "Salt",
+                "amount": "As required"
+            },
+            {
+                "ing": "Bacon",
+                "amount": "150g"
+            },
+            {
+                "ing": "Pecorino",
+                "amount": "50g"
+            },
+            {
+                "ing": "Black Pepper",
+                "amount": "As required"
+            }
+        ],
+        "steps": [
+            "STEP 1",
+            "Put a large saucepan of water on to boil.",
+            "",
+            "STEP 2",
+            "Finely chop the 100g pancetta, having first removed any rind. Finely grate 50g pecorino cheese and 50g parmesan and mix them together.",
+            "",
+            "STEP 3",
+            "Beat the 3 large eggs in a medium bowl and season with a little freshly grated black pepper. Set everything aside.",
+            "",
+            "STEP 4",
+            "Add 1 tsp salt to the boiling water, add 350g spaghetti and when the water comes back to the boil, cook at a constant simmer, covered, for 10 minutes or until al dente (just cooked).",
+            "",
+            "STEP 5",
+            "Squash 2 peeled plump garlic cloves with the blade of a knife, just to bruise it.",
+            "",
+            "STEP 6",
+            "While the spaghetti is cooking, fry the pancetta with the garlic. Drop 50g unsalted butter into a large frying pan or wok and, as soon as the butter has melted, tip in the pancetta and garlic.",
+            "",
+            "STEP 7",
+            "Leave to cook on a medium heat for about 5 minutes, stirring often, until the pancetta is golden and crisp. The garlic has now imparted its flavour, so take it out with a slotted spoon and discard.",
+            "",
+            "STEP 8",
+            "Keep the heat under the pancetta on low. When the pasta is ready, lift it from the water with a pasta fork or tongs and put it in the frying pan with the pancetta. Don’t worry if a little water drops in the pan as well (you want this to happen) and don’t throw the pasta water away yet.",
+            "",
+            "STEP 9",
+            "Mix most of the cheese in with the eggs, keeping a small handful back for sprinkling over later.",
+            "",
+            "STEP 10",
+            "Take the pan of spaghetti and pancetta off the heat. Now quickly pour in the eggs and cheese. Using the tongs or a long fork, lift up the spaghetti so it mixes easily with the egg mixture, which thickens but doesn’t scramble, and everything is coated.",
+            "",
+            "STEP 11",
+            "Add extra pasta cooking water to keep it saucy (several tablespoons should do it). You don’t want it wet, just moist. Season with a little salt, if needed.",
+            "",
+            "STEP 12",
+            "Use a long-pronged fork to twist the pasta on to the serving plate or bowl. Serve immediately with a little sprinkling of the remaining cheese and a grating of black pepper. If the dish does get a little dry before serving, splash in some more hot pasta water and the glossy sauciness will be revived."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg",
+        "tags": ["Pasta", "BBQ", "Breakfast"]
+    },
+    {
+        "title": "Soy-Glazed Meatloaves with Wasabi Mashed Potatoes & Roasted Carrots",
+        "category": "Beef",
+        "region": "American",
+        "ingList": [
+            {
+                "ing": "Potatoes",
+                "amount": "5"
+            },
+            {
+                "ing": "Carrots",
+                "amount": "12 ounces"
+            },
+            {
+                "ing": "Scallions",
+                "amount": "1"
+            },
+            {
+                "ing": "Garlic",
+                "amount": "2 cloves"
+            },
+            {
+                "ing": "Bread",
+                "amount": "1 Slice"
+            },
+            {
+                "ing": "Garlic Powder",
+                "amount": "1"
+            },
+            {
+                "ing": "Soy Sauce",
+                "amount": "2"
+            },
+            {
+                "ing": "Ground Beef",
+                "amount": "1"
+            },
+            {
+                "ing": "Vegetable Oil",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Sugar",
+                "amount": "2 tsp"
+            },
+            {
+                "ing": "Butter",
+                "amount": "2 tbsp"
+            }
+        ],
+        "steps": [
+            "1. Preheat oven to 425 degrees. Wash and dry all produce. Dice potatoes into 1/2-inch pieces. Trim, peel, and cut carrots on a diagonal into 1/2-inch-thick pieces. Trim and thinly slice scallions, separating whites from greens; finely chop whites. Peel and finely chop garlic.",
+            "",
+            "2. In a medium bowl, soak bread with 2 TBSP water (4 TBSP for 4 servings); break up with your hands until pasty. Stir in beef, sriracha, scallion whites, half the garlic, salt (we used 3/4 tsp kosher salt; 11/2 tsp for 4), and pepper. Form into two 1-inch-tall loaves (four loaves for 4). Place on one side of a baking sheet. Toss carrots on empty side of same sheet with a drizzle of oil, salt, and pepper. (For 4, spread meatloaves out across whole sheet and add carrots to a second sheet.) Bake for 20 minutes (we'll glaze the meatloaves then).",
+            "",
+            "3. Meanwhile, place potatoes in a medium pot with enough salted water to cover by 2 inches. Bring to a boil and cook until very",
+            "tender, 12-15 minutes. Reserve 1/2 cup potato cooking liquid, then drain. While potatoes cook, in a small bowl, combine soy sauce, garlic powder, 1/4 cup ketchup (1/2 cup for 4 servings), and 2 tsp sugar (4 tsp for 4).",
+            "",
+            "4. Once meatloaves and carrots have baked 20 minutes, remove from oven. Spoon half the ketchup glaze over meatloaves (save",
+            "the rest for serving); return to oven until carrots are browned and tender, meatloaves are cooked through, and glaze is tacky, 4-5 minutes more.",
+            "",
+            "5. Meanwhile, melt 2 TBSP butter (4 TBSP for 4 servings) in pot used for potatoes over medium heat. Add remaining garlic and cook",
+            "until fragrant, 30 seconds. Add potatoes and 1/4 tsp wasabi. Mash, adding splashes of reserved potato cooking liquid as necessary until smooth. Season with salt and pepper. (If you like things spicy, stir in more wasabi!)",
+            "",
+            "6. Divide meatloaves, mashed potatoes, and roasted carrots between plates. Sprinkle with scallion greens and serve with remaining ketchup glaze on the side for dipping."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/o2wb6p1581005243.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Skillet Apple Pork Chops with Roasted Sweet Potatoes & Zucchini",
+        "category": "Pork",
+        "region": "American",
+        "ingList": [
+            {
+                "ing": "Potatoes",
+                "amount": "2"
+            },
+            {
+                "ing": "Apples",
+                "amount": "1"
+            },
+            {
+                "ing": "Garlic",
+                "amount": "2 cloves"
+            },
+            {
+                "ing": "Lemon",
+                "amount": "1"
+            },
+            {
+                "ing": "Pork",
+                "amount": "2"
+            },
+            {
+                "ing": "Zucchini",
+                "amount": "1"
+            },
+            {
+                "ing": "Chicken Stock",
+                "amount": "1"
+            },
+            {
+                "ing": "Vegetable Oil",
+                "amount": "1 tbsp"
+            },
+            {
+                "ing": "Sugar",
+                "amount": "1 1/2 tsp "
+            },
+            {
+                "ing": "Butter",
+                "amount": "2 tbsp"
+            }
+        ],
+        "steps": [
+            "",
+            "Serves 2",
+            "",
+            "",
+            "1. ",
+            "",
+            "Adjust racks to top and middle positions and preheat oven to 450 degrees. Wash and dry all produce. Dice sweet potatoes into 1/2-inch pieces. Toss on a baking sheet with a drizzle of oil, salt, and pepper. Roast on top rack for 12 minutes (we'll roast the zucchini then). ",
+            "",
+            "",
+            "2. ",
+            "",
+            "Meanwhile, halve and core apple; thinly slice into half-moons. Peel and finely chop garlic. Quarter lemon. Trim and halve zucchini lengthwise; cut crosswise into 1/2-inch-thick half-moons. Toss on a second baking sheet with a drizzle of oil and a pinch of salt and pepper. Set aside. ",
+            "",
+            "",
+            "3. ",
+            "",
+            "Pat pork dry with paper towels and season all over with salt and pepper. Heat a drizzle of oil in a large pan over medium-high heat. Add pork and cook until browned and cooked through, 4-5 minutes per side. Turn off heat; transfer to a plate. ",
+            "",
+            "",
+            "4. ",
+            "",
+            "Once sweet potatoes have roasted 12 minutes, transfer baking sheet with zucchini to middle rack and continue roasting until both veggies are browned and softened, 12-15 minutes more. ",
+            "",
+            "",
+            "5. ",
+            "",
+            "Meanwhile, melt 1 TBSP butter (2 TBSP for 4 servings) in pan used for pork over medium-high heat. Add apple and season with salt and pepper. Cook, scraping up any browned bits from bottom of pan, until apple is slightly softened, 2-3 minutes. Add garlic; cook until fragrant, 30 seconds. Add 1/z cup water (3/4 cup for 4), stock concentrate, and 11/2 tsp sugar (3 tsp for 4). Cook, stirring, until sauce has thickened and apple is very tender, 3-5 minutes. Season with salt and pepper. ",
+            "",
+            "",
+            "6. ",
+            "",
+            "Remove pan with apple from heat; stir in 1 TBSP butter (2 TBSP for 4 servings) and a squeeze of lemon juice. Divide pork, zucchini, and sweet potatoes between plates. Top pork with glazed apple sauce. Top zucchini with a squeeze of lemon juice. "
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/h3ijwo1581013377.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Strawberry Rhubarb Pie",
+        "category": "Dessert",
+        "region": "British",
+        "ingList": [
+            {
+                "ing": "Flour",
+                "amount": "350g"
+            },
+            {
+                "ing": "Salt",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Sugar",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Butter",
+                "amount": "1 cup "
+            },
+            {
+                "ing": "Water",
+                "amount": "1/2 cup "
+            },
+            {
+                "ing": "Rhubarb",
+                "amount": "450g"
+            },
+            {
+                "ing": "Strawberries",
+                "amount": "450g"
+            },
+            {
+                "ing": "Cornstarch",
+                "amount": "3 tbs"
+            },
+            {
+                "ing": "Sugar",
+                "amount": "150g"
+            },
+            {
+                "ing": "Cinnamon",
+                "amount": "1/4 tsp"
+            },
+            {
+                "ing": "Lemon Juice",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Unsalted Butter",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Milk",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Sugar",
+                "amount": "Spinkling"
+            }
+        ],
+        "steps": [
+            "Pie Crust:  In a food processor, place the flour, salt, and sugar and process until combined. Add the butter and process until the mixture resembles coarse",
+            "",
+            "meal (about 15 seconds). Pour 1/4 cup (60 ml) water in a slow, steady stream, through the feed tube until the dough just holds together when pinched. If necessary, add more water. Do not process more than 30 seconds.",
+            "Turn the dough onto your work surface and gather into a ball. Divide the dough in half, flattening each half into a disk, cover with plastic wrap, and refrigerate for about one hour before using. This will chill the butter and relax the gluten in the flour. ",
+            "",
+            "After the dough has chilled sufficiently, remove one portion of the dough from the fridge and place it on a lightly floured surface.  Roll the pastry into a 12 inch (30 cm) circle. (To prevent the pastry from sticking to the counter and to ensure uniform thickness, keep lifting up and turning the pastry a quarter turn as you roll (always roll from the center of the pastry outwards).)  Fold the dough in half and gently transfer to a 9 inch (23 cm) pie pan. Brush off any excess flour and trim any overhanging pastry to an edge of 1/2 inch (1.5 cm). Refrigerate the pastry, covered with plastic wrap, while you make the filling. ",
+            "",
+            "Remove the second round of pastry and roll it into a 13 inch (30 cm) circle. Using a pastry wheel or pizza cutter, cut the pastry into about 3/4 inch (2 cm) strips. Place the strips of pastry on a parchment paper-lined baking sheet, cover with plastic wrap, and place in the refrigerator for about 10 minutes. ",
+            "",
+            "Make the Strawberry Rhubarb Filling: Place the cut strawberries and rhubarb in a large bowl. In a small bowl mix together the cornstarch, sugar, and ground cinnamon. ",
+            "",
+            "Remove the chilled pie crust from the fridge. Sprinkle about 2 tablespoons of the sugar mixture over the bottom of the pastry crust. Add the remaining sugar mixture to the strawberries and rhubarb and gently toss to combine. Pour the fruit mixture into the prepared pie shell. Sprinkle the fruit with about 1 teaspoon of lemon juice and dot with 2 tablespoons of butter.",
+            "",
+            "Remove the lattice pastry from the refrigerator and, starting at the center with the longest strips and working outwards, place half the strips, spacing about 1 inch (2.5 cm) apart, on top of the filling. (Use the shortest pastry strips at the outer edges.) Then, gently fold back, about halfway, every other strip of pastry. Take another strip of pastry and place it perpendicular on top of the first strips of pastry. Unfold the bottom strips of pastry and then fold back the strips that weren't folded back the first time. Lay another strip of pastry perpendicular on top of the filling and then continue with the remaining strips. Trim the edges of the pastry strips, leaving a 1 inch (2.5 cm) overhang. Seal the edges of the pastry strips by folding them under the bottom pastry crust and flute the edges of the pastry. Brush the lattice pastry with milk and sprinkle with a little sugar. Cover and place in the refrigerator while you preheat the oven to 400 degrees F (205 degrees C) and place the oven rack in the lower third of the oven. Put a baking sheet, lined with aluminum foil, on the oven rack (to catch any spills.)",
+            "",
+            "Place the pie plate on the hot baking sheet and bake the pie for about 35 minutes and then, if the edges of the pie are browning too much, cover with a foil ring. Continue to bake the pie for about another 10 minutes or until the crust is a golden brown color and the fruit juices begin to bubble.",
+            "",
+            "Remove the pie from the oven and place on a wire rack to cool for several hours. Serve at room temperature with softly whipped cream or vanilla ice cream. Leftovers can be stored in the refrigerator for about 3 days. Reheat before serving. This pie can be frozen.",
+            "",
+            "Makes one 9 inch (23 cm) pie."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/178z5o1585514569.jpg",
+        "tags": ["Pudding", "Pie", "Baking", "Fruity", "Glazed"]
+    },
+    {
+        "title": "Stuffed Lamb Tomatoes",
+        "category": "Lamb",
+        "region": "Greek",
+        "ingList": [
+            {
+                "ing": "Tomatoes",
+                "amount": "4 large"
+            },
+            {
+                "ing": "Sugar",
+                "amount": "Pinch"
+            },
+            {
+                "ing": "Olive Oil",
+                "amount": "4 tbs"
+            },
+            {
+                "ing": "Onion",
+                "amount": "1 chopped"
+            },
+            {
+                "ing": "Garlic Clove",
+                "amount": "2 finely chopped"
+            },
+            {
+                "ing": "Lamb",
+                "amount": "200g"
+            },
+            {
+                "ing": "Cinnamon",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Tomato Puree",
+                "amount": "2 tbs chopped"
+            },
+            {
+                "ing": "Rice",
+                "amount": "50g"
+            },
+            {
+                "ing": "Chicken Stock",
+                "amount": "100ml"
+            },
+            {
+                "ing": "Dill",
+                "amount": "4 tbs"
+            },
+            {
+                "ing": "Chopped Parsley",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Mint",
+                "amount": "1 tbs"
+            }
+        ],
+        "steps": [
+            "Heat oven to 180C/160C fan/gas 4. Slice the tops off the tomatoes and reserve. Scoop out most of the pulp with a teaspoon, being careful not to break the skin. Finely chop the pulp, and keep any juices. Sprinkle the insides of the tomatoes with a little sugar to take away the acidity, then place them on a baking tray.",
+            "",
+            "Heat 2 tbsp olive oil in a large frying pan, add the onion and garlic, then gently cook for about 10 mins until soft but not coloured. Add the lamb, cinnamon and tomato purée, turn up the heat, then fry until the meat is browned. Add the tomato pulp and juice, the rice and the stock. Season generously. Bring to the boil, then simmer for 15 mins or until the rice is tender and the liquid has been absorbed. Set aside to cool a little, then stir in the herbs.",
+            "",
+            "Stuff the tomatoes up to the brim, top tomatoes with their lids, drizzle with 2 tbsp more olive oil, sprinkle 3 tbsp water into the tray, then bake for 35 mins. Serve with salad and crusty bread, hot or cold."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/u55lbp1585564013.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Sledz w Oleju (Polish Herrings)",
+        "category": "Seafood",
+        "region": "Polish",
+        "ingList": [
+            {
+                "ing": "Herring",
+                "amount": "8"
+            },
+            {
+                "ing": "Onion",
+                "amount": "1 sliced"
+            },
+            {
+                "ing": "Olive Oil",
+                "amount": "1/2 cup "
+            },
+            {
+                "ing": "Allspice",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Pepper",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Bay Leaf",
+                "amount": "1"
+            }
+        ],
+        "steps": [
+            "Soak herring in cold water for at least 1 hour. If very salty, repeat, changing the water each time.",
+            "",
+            "Drain thoroughly and slice herring into bite-size pieces.",
+            "",
+            "Place in a jar large enough to accommodate the pieces and cover with oil, allspice, peppercorns, and bay leaf. Close the jar.",
+            "",
+            "Refrigerate for 2 to 3 days before eating. This will keep refrigerated up to 2 weeks.",
+            "",
+            "Serve with finely chopped onion or onion slices, lemon, and parsley or dill."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/7ttta31593350374.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Shawarma",
+        "category": "Chicken",
+        "region": "Egyptian",
+        "ingList": [
+            {
+                "ing": "Chicken Thighs",
+                "amount": "1 kg"
+            },
+            {
+                "ing": "Coriander",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Cumin",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Cardamom",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Cayenne Pepper",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Paprika",
+                "amount": "2 tsp"
+            },
+            {
+                "ing": "Lemon Juice",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Olive Oil",
+                "amount": "3 tbs"
+            },
+            {
+                "ing": "Greek Yogurt",
+                "amount": "1 cup "
+            },
+            {
+                "ing": "Garlic Clove",
+                "amount": "1"
+            },
+            {
+                "ing": "Cumin",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Lemon Juice",
+                "amount": "Splash"
+            },
+            {
+                "ing": "Lettuce",
+                "amount": "Sliced"
+            },
+            {
+                "ing": "Tomato",
+                "amount": "Sliced"
+            },
+            {
+                "ing": "Pita Bread",
+                "amount": "6"
+            }
+        ],
+        "steps": [
+            "Combine the marinade ingredients in a large ziplock bag (or bowl).",
+            "Add the chicken and use your hands to make sure each piece is coated. If using a ziplock bag, I find it convenient to close the bag then massage the bag to disperse the rub all over each chicken piece.",
+            "Marinate overnight or up to 24 hours.",
+            "Combine the Yoghurt Sauce ingredients in a bowl and mix. Cover and put in the fridge until required (it will last for 3 days in the fridge).",
+            "Heat grill/BBQ (or large heavy based pan on stove) on medium high. You should not need to oil it because the marinade has oil in it and also thigh fillets have fat. But if you are worried then oil your hotplate/grill. (See notes for baking)",
+            "Place chicken on the grill and cook the first side for 4 to 5 minutes until nicely charred, then turn and cook the other side for 3 to 4 minutes (the 2nd side takes less time).",
+            "Remove chicken from the grill and cover loosely with foil. Set aside to rest for 5 minutes.",
+            "TO SERVE",
+            "Slice chicken and pile onto platter alongside flatbreads, Salad and the Yoghurt Sauce.",
+            "To make a wrap, get a piece of flatbread and smear with Yoghurt Sauce. Top with a bit of lettuce and tomato and Chicken Shawarma. Roll up and enjoy!"
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/kcv6hj1598733479.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Spring onion and prawn empanadas",
+        "category": "Seafood",
+        "region": "Portuguese",
+        "ingList": [
+            {
+                "ing": "Spring Onions",
+                "amount": "1  bunch"
+            },
+            {
+                "ing": "Olive Oil",
+                "amount": "Dash"
+            },
+            {
+                "ing": "Red Chilli",
+                "amount": "1 finely sliced"
+            },
+            {
+                "ing": "Garlic",
+                "amount": "1 clove"
+            },
+            {
+                "ing": "Prawns",
+                "amount": "350g"
+            },
+            {
+                "ing": "Feta",
+                "amount": "75g"
+            },
+            {
+                "ing": "Butter",
+                "amount": "15g"
+            },
+            {
+                "ing": "Plain Flour",
+                "amount": "250g"
+            },
+            {
+                "ing": "Egg",
+                "amount": "1 Seperated"
+            },
+            {
+                "ing": "White Wine Vinegar",
+                "amount": "1/2 tsp"
+            }
+        ],
+        "steps": [
+            "STEP 1",
+            "",
+            "To make the dough, rub the butter into the flour and then add the egg white and half the yolk (keep the rest), vinegar, a pinch of salt and enough cold water to make a soft dough. Knead on a floured surface until smooth and then wrap and rest for 30 minutes.",
+            "",
+            "STEP 2",
+            "",
+            "Heat the oven to 180c/fan 160c/gas 4. Trim the green ends of the spring onions and then finely slice the rest. Heat a little oil in a pan and fry them gently until soft but not browned. Add the chilli and garlic, stir and then add the prawns and cook until they are opaque. Season well. Scoop out the prawns and bubble the juices until they thicken, then add back the prawns.",
+            "",
+            "STEP 3",
+            "",
+            "Divide the empanada dough into eight balls and roll out to thin circles on a floured surface. Put some filling on one half of the dough, sprinkle the feta on top and fold the other half over. Trim the edge and then fold and crimp the dough together so the empanada is tightly sealed, put it on an oiled baking sheet either on its side or sitting on its un-crimped edge like a cornish pasty. Repeat with the remaining dough and mixture. Mix the leftover egg yolk with a splash of water and brush the top of the empanadas.",
+            "",
+            "STEP 4",
+            "",
+            "Bake for 30 minutes or until golden and slightly crisp around the edges."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/1c5oso1614347493.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Seri muka kuih",
+        "category": "Dessert",
+        "region": "Malaysian",
+        "ingList": [
+            {
+                "ing": "Rice",
+                "amount": "400g"
+            },
+            {
+                "ing": "Coconut Milk",
+                "amount": "150ml"
+            },
+            {
+                "ing": "Water",
+                "amount": "100ml"
+            },
+            {
+                "ing": "Salt",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Corn Flour",
+                "amount": "5 tbs"
+            },
+            {
+                "ing": "Flour",
+                "amount": "3 tbs"
+            },
+            {
+                "ing": "Eggs",
+                "amount": "3"
+            },
+            {
+                "ing": "Coconut Cream",
+                "amount": "200ml"
+            },
+            {
+                "ing": "Sugar",
+                "amount": "140g"
+            }
+        ],
+        "steps": [
+            "Soak glutinous rice with water for at least 1 ½ hours prior to using. Drain.",
+            "Prepare a 9-inch round or square cake pan and spray with cooking spray or line with plastic wrap.",
+            "Mix coconut milk, water, salt and the rice. Pour it into cake pan, topped with the pandan knots.",
+            "Steam for 30 minutes.",
+            "After 30 minutes, fluff up the rice and remove pandan knots. Then, using a greased spatula, flatten the steamed rice. Make sure there are no holes/air bubbles and gaps in the rice, especially the sides.",
+            "Steam for another 10 minutes.",
+            "",
+            "Combine pandan juice, coconut milk, all purpose flour, cornflour, and sugar. Mix well.",
+            "Add eggs and whisk well then strain into a medium sized metal bowl or pot.",
+            "Place pandan mixture over simmering water (double boiler or bain-marie)",
+            "Stir continuously and cook till custard starts to thicken. (15 minutes)",
+            "Pour pandan custard into glutinous rice layer, give it a little tap (for air bubbles) and continue to steam for 30 minutes.",
+            "Remove kuih seri muka from the steamer and allow to cool completely before cutting into rectangles or diamond shapes."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/6ut2og1619790195.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Sushi",
+        "category": "Seafood",
+        "region": "Japanese",
+        "ingList": [
+            {
+                "ing": "Sushi Rice",
+                "amount": "300ml "
+            },
+            {
+                "ing": "Rice wine",
+                "amount": "100ml"
+            },
+            {
+                "ing": "Caster Sugar",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Mayonnaise",
+                "amount": "3 tbs"
+            },
+            {
+                "ing": "Rice wine",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Soy Sauce",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Cucumber",
+                "amount": "1"
+            }
+        ],
+        "steps": [
+            "STEP 1",
+            "TO MAKE SUSHI ROLLS: Pat out some rice. Lay a nori sheet on the mat, shiny-side down. Dip your hands in the vinegared water, then pat handfuls of rice on top in a 1cm thick layer, leaving the furthest edge from you clear.",
+            "",
+            "STEP 2",
+            "Spread over some Japanese mayonnaise. Use a spoon to spread out a thin layer of mayonnaise down the middle of the rice.",
+            "",
+            "STEP 3",
+            "Add the filling. Get your child to top the mayonnaise with a line of their favourite fillings – here we’ve used tuna and cucumber.",
+            "",
+            "STEP 4",
+            "Roll it up. Lift the edge of the mat over the rice, applying a little pressure to keep everything in a tight roll.",
+            "",
+            "STEP 5",
+            "Stick down the sides like a stamp. When you get to the edge without any rice, brush with a little water and continue to roll into a tight roll.",
+            "",
+            "STEP 6",
+            "Wrap in cling film. Remove the mat and roll tightly in cling film before a grown-up cuts the sushi into thick slices, then unravel the cling film.",
+            "",
+            "STEP 7",
+            "TO MAKE PRESSED SUSHI: Layer over some smoked salmon. Line a loaf tin with cling film, then place a thin layer of smoked salmon inside on top of the cling film.",
+            "",
+            "STEP 8",
+            "Cover with rice and press down. Press about 3cm of rice over the fish, fold the cling film over and press down as much as you can, using another tin if you have one.",
+            "",
+            "STEP 9",
+            "Tip it out like a sandcastle. Turn block of sushi onto a chopping board. Get a grown-up to cut into fingers, then remove the cling film.",
+            "",
+            "STEP 10",
+            "TO MAKE SUSHI BALLS: Choose your topping. Get a small square of cling film and place a topping, like half a prawn or a small piece of smoked salmon, on it. Use damp hands to roll walnut-sized balls of rice and place on the topping.",
+            "",
+            "STEP 11",
+            "Make into tight balls. Bring the corners of the cling film together and tighten into balls by twisting it up, then unwrap and serve."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/g046bb1663960946.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Stuffed Bell Peppers with Quinoa and Black Beans",
+        "category": "Vegetarian",
+        "region": "Mexican",
+        "ingList": [
+            {
+                "ing": "Green Pepper",
+                "amount": "4 whole"
+            },
+            {
+                "ing": "Olive Oil",
+                "amount": "1 tablespoon"
+            },
+            {
+                "ing": "Onion",
+                "amount": "1 small finely diced"
+            },
+            {
+                "ing": "Garlic",
+                "amount": "2 cloves minced"
+            },
+            {
+                "ing": "Quinoa",
+                "amount": "1 cups"
+            },
+            {
+                "ing": "Black Beans",
+                "amount": "1 can "
+            },
+            {
+                "ing": "Sweetcorn",
+                "amount": "1 cup "
+            },
+            {
+                "ing": "Diced Tomatoes",
+                "amount": "1 can "
+            },
+            {
+                "ing": "Cumin",
+                "amount": "1 teaspoon"
+            },
+            {
+                "ing": "Chili Powder",
+                "amount": "½ tsp"
+            },
+            {
+                "ing": "Smoked Paprika",
+                "amount": "½ tsp"
+            },
+            {
+                "ing": "Salt",
+                "amount": "To taste"
+            },
+            {
+                "ing": "Pepper",
+                "amount": "To taste"
+            },
+            {
+                "ing": "Shredded Mexican Cheese",
+                "amount": "1 1/2 cup "
+            },
+            {
+                "ing": "Cilantro",
+                "amount": "Chopped"
+            }
+        ],
+        "steps": [
+            "1. Preheat your oven to 375°F (190°C). Lightly grease a 9x13-inch baking dish or a similar-sized casserole dish.",
+            "2. Place the bell pepper halves in the prepared baking dish, cut side up. Bake for 15-20 minutes, or until slightly softened.",
+            "3. While the bell peppers are baking, prepare the filling. In a large skillet, heat the olive oil over medium heat. Add the chopped onion, and cook for 3-4 minutes, until softened. Add the garlic, and cook for another 1 minute, until fragrant.",
+            "4. Stir in the cooked quinoa, black beans, corn, diced tomatoes, ground cumin, chili powder, smoked paprika, salt, and pepper. Cook for 5-7 minutes, until heated through. Remove the skillet from heat, and stir in 1 cup of the shredded cheese, if using.",
+            "5. Remove the bell peppers from the oven, and carefully stuff each pepper half with the quinoa and black bean mixture. Top the stuffed peppers with the remaining 1/2 cup of shredded cheese, if using.",
+            "6. Return the stuffed peppers to the oven, and bake for another 15-20 minutes, until the cheese is melted and the peppers are tender.",
+            "7. Remove from the oven, and allow the stuffed peppers to cool for 5 minutes before serving. Garnish with fresh chopped cilantro."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/b66myb1683207208.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Strawberries Romanoff",
+        "category": "Dessert",
+        "region": "Russian",
+        "ingList": [
+            {
+                "ing": "Strawberries",
+                "amount": "2 pint "
+            },
+            {
+                "ing": "Sugar",
+                "amount": "4 tbs"
+            },
+            {
+                "ing": "Grand Marnier",
+                "amount": "4 tbs"
+            },
+            {
+                "ing": "Cream",
+                "amount": "1 cup "
+            },
+            {
+                "ing": "Sour Cream",
+                "amount": "1/4 cup"
+            }
+        ],
+        "steps": [
+            "In a medium bowl, combine hulled and quartered strawberries, 4 Tbsp sugar and 4 Tbsp liqueur, stir to combine then cover and refrigerate at least 1 hour and up to 2 hours, stirring once or twice.",
+            "",
+            "Two photos of cut strawberries in a bowl with one having sugar being added to the bowl Two photos of cut up strawberries for Strawberry Romanoff ",
+            "",
+            "Just before serving, in a large mixing bowl, combine 1 cup cold heavy cream and 1/4 cup powdered sugar, and beat with an electric mixer until stiff peaks form. Using a spatula, fold in 1/4 cup sour cream just until well blended.",
+            "",
+            "To serve, stir strawberries then divide between 6 serving glasses or bowls. You can spoon a little syrup over the berries if you like. You can also use this syrup to soak a cake. Spoon cream over strawberries, dividing evenly. You can also use an ice cream scoop with trigger release for a nice rounded puff of cream. Serve right away or chill and enjoy within 2 hours of assembly.",
+            "",
+            ""
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/oe8rg51699014028.jpg",
+        "tags": ["fruity"]
+    }
+]
