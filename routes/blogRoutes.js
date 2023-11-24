@@ -14,6 +14,7 @@ import {
     singlePage,
     getClerkAuth,
     clerkPostTest,
+    migrateMeals,
 } from "../controllers/blogControllers.js";
 
 const blogRouter = express.Router();
@@ -29,6 +30,8 @@ blogRouter.route("/:blogId/:pageId").get(singlePage);
 //didn't end up needing them, but hey, I learned something
 blogRouter.route("/blogPages/:id").post(addBlogPage).delete(deleteBlogPage);
 blogRouter.route("/hero/:id").post(addHero).delete(deleteHero);
+
+blogRouter.route("/migrate/:id").post(migrateMeals);
 
 blogRouter
     .route("/protected/endpoint")

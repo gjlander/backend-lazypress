@@ -1,0 +1,2997 @@
+[
+    {
+        "title": "Chocolate Gateau",
+        "category": "Dessert",
+        "region": "French",
+        "ingList": [
+            {
+                "ing": "Plain chocolate",
+                "amount": "250g"
+            },
+            {
+                "ing": "Butter",
+                "amount": "175g"
+            },
+            {
+                "ing": "Milk",
+                "amount": "2 tablespoons"
+            },
+            {
+                "ing": "Eggs",
+                "amount": "5"
+            },
+            {
+                "ing": "Granulated Sugar",
+                "amount": "175g"
+            },
+            {
+                "ing": "Flour",
+                "amount": "125g"
+            }
+        ],
+        "steps": [
+            "Preheat the oven to 180°C/350°F/Gas Mark 4. Grease and line the base of an 8 in round spring form cake tin with baking parchment",
+            "Break the chocolate into a heatproof bowl and place over a saucepan of gently simmering water and stir until it melts. (or melt in the microwave for 2-3 mins stirring occasionally)",
+            "Place the butter and sugar in a mixing bowl and cream together with a wooden spoon until light and fluffy. Gradually beat in the eggs, adding a little flour if the mixture begins to curdle. Fold in the remaining flour with the cooled, melted chocolate and milk. Mix until smooth.",
+            "Spread the mixture into the cake tin and bake for 50-55 mins or until firm in the centre and a skewer comes out cleanly. Cool for 10 minutes, then turn out and cool completely."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/tqtywx1468317395.jpg",
+        "tags": ["Cake", "Chocolate", "Desert", "Pudding"]
+    },
+    {
+        "title": "Chicken Enchilada Casserole",
+        "category": "Chicken",
+        "region": "Mexican",
+        "ingList": [
+            {
+                "ing": "Enchilada sauce",
+                "amount": "14 oz jar"
+            },
+            {
+                "ing": "shredded Monterey Jack cheese",
+                "amount": "3 Cups"
+            },
+            {
+                "ing": "corn tortillas",
+                "amount": "6"
+            },
+            {
+                "ing": "chicken breasts",
+                "amount": "2"
+            }
+        ],
+        "steps": [
+            "Cut each chicken breast in about 3 pieces, so that it cooks faster and put it in a small pot. Pour Enchilada sauce over it and cook covered on low to medium heat until chicken is cooked through, about 20 minutes. No water is needed, the chicken will cook in the Enchilada sauce. Make sure you stir occasionally so that it doesn't stick to the bottom.",
+            "Remove chicken from the pot and shred with two forks.",
+            "Preheat oven to 375 F degrees.",
+            "Start layering the casserole. Start with about ¼ cup of the leftover Enchilada sauce over the bottom of a baking dish. I used a longer baking dish, so that I can put 2 corn tortillas across. Place 2 tortillas on the bottom, top with ⅓ of the chicken and ⅓ of the remaining sauce. Sprinkle with ⅓ of the cheese and repeat starting with 2 more tortillas, then chicken, sauce, cheese. Repeat with last layer with the remaining ingredients, tortillas, chicken, sauce and cheese.",
+            "Bake for 20 to 30 minutes uncovered, until bubbly and cheese has melted and started to brown on top.",
+            "Serve warm."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/qtuwxu1468233098.jpg",
+        "tags": ["Casserole", "Cheasy", "Meat"]
+    },
+    {
+        "title": "Cream Cheese Tart",
+        "category": "Starter",
+        "region": "Unknown",
+        "ingList": [
+            {
+                "ing": "Flour",
+                "amount": "250g"
+            },
+            {
+                "ing": "Butter",
+                "amount": "125g"
+            },
+            {
+                "ing": "Egg",
+                "amount": "1"
+            },
+            {
+                "ing": "Salt",
+                "amount": "Pinch"
+            },
+            {
+                "ing": "Cheese",
+                "amount": "300g"
+            },
+            {
+                "ing": "Milk",
+                "amount": "100ml milk"
+            },
+            {
+                "ing": "Eggs",
+                "amount": "3"
+            },
+            {
+                "ing": "Parmesan Cheese",
+                "amount": "100g"
+            },
+            {
+                "ing": "Plum tomatoes",
+                "amount": "350g"
+            },
+            {
+                "ing": "White Vinegar",
+                "amount": "3tbsp"
+            },
+            {
+                "ing": "Honey",
+                "amount": "1 tbsp"
+            },
+            {
+                "ing": "Basil",
+                "amount": "Topping"
+            }
+        ],
+        "steps": [
+            "Crust: make a dough from 250g flour (I like mixing different flours like plain and wholegrain spelt flour), 125g butter, 1 egg and a pinch of salt, press it into a tart form and place it in the fridge. Filling: stir 300g cream cheese and 100ml milk until smooth, add in 3 eggs, 100g grated parmesan cheese and season with salt, pepper and nutmeg. Take the crust out of the fridge and prick the bottom with a fork. Pour in the filling and bake at 175 degrees C for about 25 minutes. Cover the tart with some aluminium foil after half the time. In the mean time, slice about 350g mini tomatoes. In a small pan heat 3tbsp olive oil, 3tbsp white vinegar, 1 tbsp honey, salt and pepper and combine well. Pour over the tomato slices and mix well. With a spoon, place the tomato slices on the tart, avoiding too much liquid on it. Decorate with basil leaves and enjoy"
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/wurrux1468416624.jpg",
+        "tags": ["Tart", "Savory"]
+    },
+    {
+        "title": "Christmas Pudding Flapjack",
+        "category": "Dessert",
+        "region": "British",
+        "ingList": [
+            {
+                "ing": "salted butter",
+                "amount": "250g"
+            },
+            {
+                "ing": "dark soft brown sugar",
+                "amount": "225g"
+            },
+            {
+                "ing": "golden syrup",
+                "amount": "150g"
+            },
+            {
+                "ing": "orange",
+                "amount": "Zest of 1"
+            },
+            {
+                "ing": "rolled oats",
+                "amount": "500g"
+            },
+            {
+                "ing": "Christmas pudding",
+                "amount": "250g"
+            }
+        ],
+        "steps": [
+            "Preheat the oven to 180°C/fan 160°C/gas mark 4 and grease and line a 25cm x 20cm tin. Melt the butter, sugar, syrup and orange zest in a large saucepan over a medium heat. The aim is to dissolve all the ingredients so that they are smooth, but to not lose any volume through boiling so be careful not to overheat.",
+            "",
+            "Add the oats and stir well until evenly coated. Stir through the leftover Christmas pudding and tip into the prepared tin. Use a spoon to flatten the top and bake for 40 minutes until the edges start to brown. Whilst still warm in the tin, score into 12 squares. Allow to cool completely before cutting along the scores.",
+            "",
+            "Keeps for 5 days in an air tight tin or freeze for up to 1 month."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/vvusxs1483907034.jpg",
+        "tags": ["Snack", "Cake"]
+    },
+    {
+        "title": "Chicken Handi",
+        "category": "Chicken",
+        "region": "Indian",
+        "ingList": [
+            {
+                "ing": "Chicken",
+                "amount": "1.2 kg"
+            },
+            {
+                "ing": "Onion",
+                "amount": "5 thinly sliced"
+            },
+            {
+                "ing": "Tomatoes",
+                "amount": "2 finely chopped"
+            },
+            {
+                "ing": "Garlic",
+                "amount": "8 cloves chopped"
+            },
+            {
+                "ing": "Ginger paste",
+                "amount": "1 tbsp"
+            },
+            {
+                "ing": "Vegetable oil",
+                "amount": "¼ cup"
+            },
+            {
+                "ing": "Cumin seeds",
+                "amount": "2 tsp"
+            },
+            {
+                "ing": "Coriander seeds",
+                "amount": "3 tsp"
+            },
+            {
+                "ing": "Turmeric powder",
+                "amount": "1 tsp"
+            },
+            {
+                "ing": "Chilli powder",
+                "amount": "1 tsp"
+            },
+            {
+                "ing": "Green chilli",
+                "amount": "2"
+            },
+            {
+                "ing": "Yogurt",
+                "amount": "1 cup"
+            },
+            {
+                "ing": "Cream",
+                "amount": "¾ cup"
+            },
+            {
+                "ing": "fenugreek",
+                "amount": "3 tsp Dried"
+            },
+            {
+                "ing": "Garam masala",
+                "amount": "1 tsp"
+            },
+            {
+                "ing": "Salt",
+                "amount": "To taste"
+            }
+        ],
+        "steps": [
+            "Take a large pot or wok, big enough to cook all the chicken, and heat the oil in it. Once the oil is hot, add sliced onion and fry them until deep golden brown. Then take them out on a plate and set aside.",
+            "To the same pot, add the chopped garlic and sauté for a minute. Then add the chopped tomatoes and cook until tomatoes turn soft. This would take about 5 minutes.",
+            "Then return the fried onion to the pot and stir. Add ginger paste and sauté well.",
+            "Now add the cumin seeds, half of the coriander seeds and chopped green chillies. Give them a quick stir.",
+            "Next goes in the spices – turmeric powder and red chilli powder. Sauté the spices well for couple of minutes.",
+            "Add the chicken pieces to the wok, season it with salt to taste and cook the chicken covered on medium-low heat until the chicken is almost cooked through. This would take about 15 minutes. Slowly sautéing the chicken will enhance the flavor, so do not expedite this step by putting it on high heat.",
+            "When the oil separates from the spices, add the beaten yogurt keeping the heat on lowest so that the yogurt doesn’t split. Sprinkle the remaining coriander seeds and add half of the dried fenugreek leaves. Mix well.",
+            "Finally add the cream and give a final mix to combine everything well.",
+            "Sprinkle the remaining kasuri methi and garam masala and serve the chicken handi hot with naan or rotis. Enjoy!"
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Chicken Alfredo Primavera",
+        "category": "Chicken",
+        "region": "Italian",
+        "ingList": [
+            {
+                "ing": "Butter",
+                "amount": "2 tablespoons"
+            },
+            {
+                "ing": "Olive Oil",
+                "amount": "3 tablespoons"
+            },
+            {
+                "ing": "Chicken",
+                "amount": "5 boneless"
+            },
+            {
+                "ing": "Salt",
+                "amount": "1 teaspoon"
+            },
+            {
+                "ing": "Squash",
+                "amount": "1 cut into 1/2-inch cubes"
+            },
+            {
+                "ing": "Broccoli",
+                "amount": "1 Head chopped"
+            },
+            {
+                "ing": "mushrooms",
+                "amount": "8-ounce sliced"
+            },
+            {
+                "ing": "Pepper",
+                "amount": "1 red"
+            },
+            {
+                "ing": "onion",
+                "amount": "1 chopped"
+            },
+            {
+                "ing": "garlic",
+                "amount": "3 cloves"
+            },
+            {
+                "ing": "red pepper flakes",
+                "amount": "1/2 teaspoon"
+            },
+            {
+                "ing": "white wine",
+                "amount": "1/2 cup"
+            },
+            {
+                "ing": "milk",
+                "amount": "1/2 cup"
+            },
+            {
+                "ing": "heavy cream",
+                "amount": "1/2 cup"
+            },
+            {
+                "ing": "Parmesan cheese",
+                "amount": "1 cup grated"
+            },
+            {
+                "ing": "bowtie pasta",
+                "amount": "16 ounces"
+            },
+            {
+                "ing": "Salt",
+                "amount": "pinch"
+            },
+            {
+                "ing": "Pepper",
+                "amount": "pinch "
+            },
+            {
+                "ing": "Parsley",
+                "amount": "chopped"
+            }
+        ],
+        "steps": [
+            "Heat 1 tablespoon of butter and 2 tablespoons of olive oil in a large skillet over medium-high heat. Season both sides of each chicken breast with seasoned salt and a pinch of pepper. Add the chicken to the skillet and cook for 5-7 minutes on each side, or until cooked through.  While the chicken is cooking, bring a large pot of water to a boil. Season the boiling water with a few generous pinches of kosher salt. Add the pasta and give it a stir. Cook, stirring occasionally, until al dente, about 12 minutes. Reserve 1/2 cup of  pasta water before draining the pasta.  Remove the chicken from the pan and transfer it to a cutting board; allow it to rest. Turn the heat down to medium and dd the remaining 1 tablespoon of butter and olive oil to the same pan you used to cook the chicken. Add the veggies (minus the garlic) and red pepper flakes to the pan and stir to coat with the oil and butter (refrain from seasoning with salt until the veggies are finished browning). Cook, stirring often, until the veggies are tender, about 5 minutes. Add the garlic and a generous pinch of salt and pepper to the pan and cook for 1 minute.  Deglaze the pan with the white wine. Continue to cook until the wine has reduced by half, about 3 minutes. Stir in the milk, heavy cream, and reserved pasta water. Bring the mixture to a gentle boil and allow to simmer and reduce for 2-3 minutes. Turn off the heat and add the Parmesan cheese and cooked pasta. Season with salt and pepper to taste. Garnish with Parmesan cheese and chopped parsley, if desired. "
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/syqypv1486981727.jpg",
+        "tags": ["Pasta", "Meat", "Dairy"]
+    },
+    {
+        "title": "Chicken Fajita Mac and Cheese",
+        "category": "Chicken",
+        "region": "American",
+        "ingList": [
+            {
+                "ing": "macaroni",
+                "amount": "500g"
+            },
+            {
+                "ing": "chicken stock",
+                "amount": "2 cups"
+            },
+            {
+                "ing": "heavy cream",
+                "amount": "1/2 cup"
+            },
+            {
+                "ing": "fajita seasoning",
+                "amount": "1 packet"
+            },
+            {
+                "ing": "salt",
+                "amount": "1 tsp"
+            },
+            {
+                "ing": "chicken breast",
+                "amount": "3 diced"
+            },
+            {
+                "ing": "olive oil",
+                "amount": "2 tbsp"
+            },
+            {
+                "ing": "onion",
+                "amount": "1 small finely diced"
+            },
+            {
+                "ing": "red pepper",
+                "amount": "2 finely diced"
+            },
+            {
+                "ing": "garlic",
+                "amount": "2 cloves minced"
+            },
+            {
+                "ing": "cheddar cheese",
+                "amount": "1 cup"
+            },
+            {
+                "ing": "parsley",
+                "amount": "garnish chopped"
+            }
+        ],
+        "steps": [
+            "Fry your onion, peppers and garlic in olive oil until nicely translucent. Make a well in your veg and add your chicken. Add your seasoning and salt. Allow to colour slightly.",
+            "Add your cream, stock and macaroni.",
+            "Cook on low for 20 minutes. Add your cheeses, stir to combine.",
+            "Top with roasted peppers and parsley."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg",
+        "tags": ["Pasta", "Cheasy", "Meat"]
+    },
+    {
+        "title": "Cajun spiced fish tacos",
+        "category": "Seafood",
+        "region": "Mexican",
+        "ingList": [
+            {
+                "ing": "cajun",
+                "amount": "2 tbsp"
+            },
+            {
+                "ing": "cayenne pepper",
+                "amount": "1 tsp"
+            },
+            {
+                "ing": "white fish",
+                "amount": "4 fillets"
+            },
+            {
+                "ing": "vegetable oil",
+                "amount": "1 tsp"
+            },
+            {
+                "ing": "flour tortilla",
+                "amount": "8"
+            },
+            {
+                "ing": "avocado",
+                "amount": "1 sliced"
+            },
+            {
+                "ing": "little gem lettuce",
+                "amount": "2 shredded"
+            },
+            {
+                "ing": "spring onion",
+                "amount": "4 shredded"
+            },
+            {
+                "ing": "salsa",
+                "amount": "1 x 300ml"
+            },
+            {
+                "ing": "sour cream",
+                "amount": "1 pot"
+            },
+            {
+                "ing": "lemon",
+                "amount": "1"
+            },
+            {
+                "ing": "garlic",
+                "amount": "1 clove finely chopped"
+            }
+        ],
+        "steps": [
+            "Cooking in a cajun spice and cayenne pepper marinade makes this fish super succulent and flavoursome. Top with a zesty dressing and serve in a tortilla for a quick, fuss-free main that's delightfully summery.",
+            "",
+            "On a large plate, mix the cajun spice and cayenne pepper with a little seasoning and use to coat the fish all over.",
+            "",
+            "Heat a little oil in a frying pan, add in the fish and cook over a medium heat until golden. Reduce the heat and continue frying until the fish is cooked through, about 10 minutes. Cook in batches if you don’t have enough room in the pan.",
+            "",
+            "Meanwhile, prepare the dressing by combining all the ingredients with a little seasoning.",
+            "Soften the tortillas by heating in the microwave for 5-10 seconds. Pile high with the avocado, lettuce and spring onion, add a spoonful of salsa, top with large flakes of fish and drizzle over the dressing."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+        "tags": ["Spicy", "Fish"]
+    },
+    {
+        "title": "Crock Pot Chicken Baked Tacos",
+        "category": "Chicken",
+        "region": "Mexican",
+        "ingList": [
+            {
+                "ing": "Chicken Breasts",
+                "amount": "4 - 6"
+            },
+            {
+                "ing": "Vinaigrette Dressing",
+                "amount": "1 bottle"
+            },
+            {
+                "ing": "Cumin",
+                "amount": "1½ tablespoon"
+            },
+            {
+                "ing": "Smoked Paprika",
+                "amount": "1 tablespoon"
+            },
+            {
+                "ing": "Garlic",
+                "amount": "1 teaspoon"
+            },
+            {
+                "ing": "Refried Beans",
+                "amount": "1 can"
+            },
+            {
+                "ing": "Hard Taco Shells",
+                "amount": "12"
+            },
+            {
+                "ing": "Shredded Mexican Cheese",
+                "amount": "2 cups"
+            },
+            {
+                "ing": "Grape Tomatoes",
+                "amount": "Halved"
+            },
+            {
+                "ing": "Jalapeno",
+                "amount": "Sliced and Seeded"
+            },
+            {
+                "ing": "Avocado",
+                "amount": "Peeled and Sliced"
+            },
+            {
+                "ing": "Green Salsa",
+                "amount": "2 tablespoons"
+            },
+            {
+                "ing": "Sour Cream",
+                "amount": "3 tablespoons"
+            },
+            {
+                "ing": "Milk",
+                "amount": "1 tablespoon"
+            }
+        ],
+        "steps": [
+            "Put the uncooked chicken breasts in the crock pot. Pour the full bottle of salad dressing over the chicken. Sprinkle the rest of the ingredients over the top and mix them in a bit with a spoon.",
+            "Cover your crock pot with the lid and cook on high for 4 hours.",
+            "Remove all the chicken breasts from the crock pot and let cool.",
+            "Shred the chicken breasts and move to a glass bowl.",
+            "Pour most of the liquid over the shredded chicken.",
+            "FOR THE TACOS:",
+            "Make the guacamole sauce by mixing the avocado and green salsa together. Pour the guacamole mixture through a strainer until smooth and transfer to a squeeze bottle. Cut the tip off the lid of the squeeze bottle to make the opening more wide if needed.",
+            "Make the sour cream sauce by mixing the sour cream and milk together until you get a more liquid sour cream sauce. Transfer to a squeeze bottle.",
+            "In a 9x 13 glass baking dish, fill all 12+ tacos with a layer of refried beans, cooked chicken and shredded cheese.",
+            "Bake at 450 for 10-15 minutes just until the cheese is melted and bubbling.",
+            "Out of the oven top all the tacos with the sliced grape tomaotes, jalapeno and cilantro.",
+            "Finish with a drizzle of guacamole and sour cream.",
+            "Enjoy!"
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/ypxvwv1505333929.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Chicken Karaage",
+        "category": "Chicken",
+        "region": "Japanese",
+        "ingList": [
+            {
+                "ing": "Chicken thigh",
+                "amount": "450 grams Boneless skin"
+            },
+            {
+                "ing": "Ginger",
+                "amount": "1 tablespoon"
+            },
+            {
+                "ing": "Garlic",
+                "amount": "1 clove"
+            },
+            {
+                "ing": "Soy sauce",
+                "amount": "2 tablespoons"
+            },
+            {
+                "ing": "Sake",
+                "amount": "1 tablespoon"
+            },
+            {
+                "ing": "Granulated sugar",
+                "amount": "2 teaspoon"
+            },
+            {
+                "ing": "Potato starch",
+                "amount": "1/3 cup"
+            },
+            {
+                "ing": "Vegetable oil",
+                "amount": "1/3 cup"
+            },
+            {
+                "ing": "Lemon",
+                "amount": "1/3 cup"
+            }
+        ],
+        "steps": [
+            "Add the ginger, garlic, soy sauce, sake and sugar to a bowl and whisk to combine. Add the chicken, then stir to coat evenly. Cover and refrigerate for at least 1 hour.",
+            "",
+            "Add 1 inch of vegetable oil to a heavy bottomed pot and heat until the oil reaches 360 degrees F. Line a wire rack with 2 sheets of paper towels and get your tongs out. Put the potato starch in a bowl",
+            "",
+            "Add a handful of chicken to the potato starch and toss to coat each piece evenly.",
+            "",
+            "Fry the karaage in batches until the exterior is a medium brown and the chicken is cooked through. Transfer the fried chicken to the paper towel lined rack. If you want the karaage to stay crispy longer, you can fry the chicken a second time, until it's a darker color after it's cooled off once. Serve with lemon wedges."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/tyywsw1505930373.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Coq au vin",
+        "category": "Chicken",
+        "region": "French",
+        "ingList": [
+            {
+                "ing": "Olive Oil",
+                "amount": "1½ tbsp"
+            },
+            {
+                "ing": "Bacon",
+                "amount": "3 rashers (100g) chopped dry-cured"
+            },
+            {
+                "ing": "Shallots",
+                "amount": "12 small"
+            },
+            {
+                "ing": "Chicken Legs",
+                "amount": "2 (460g)"
+            },
+            {
+                "ing": "Chicken Thighs",
+                "amount": "4 (650g)"
+            },
+            {
+                "ing": "Chicken Breasts",
+                "amount": "2 (280g)"
+            },
+            {
+                "ing": "Garlic",
+                "amount": "3 finely chopped"
+            },
+            {
+                "ing": "Brandy",
+                "amount": "3 tbsp"
+            },
+            {
+                "ing": "Red Wine",
+                "amount": "600ml"
+            },
+            {
+                "ing": "Chicken Stock",
+                "amount": "150ml"
+            },
+            {
+                "ing": "tomato puree",
+                "amount": "2 tsp"
+            },
+            {
+                "ing": "thyme",
+                "amount": "3 sprigs"
+            },
+            {
+                "ing": "Rosemary",
+                "amount": "2 sprigs"
+            },
+            {
+                "ing": "bay leaves",
+                "amount": "2"
+            },
+            {
+                "ing": "parsley",
+                "amount": "garnish"
+            },
+            {
+                "ing": "chestnut mushroom",
+                "amount": "250g"
+            },
+            {
+                "ing": "plain flour",
+                "amount": "2 tbsp"
+            },
+            {
+                "ing": "butter",
+                "amount": "1 tsp"
+            }
+        ],
+        "steps": [
+            "Heat 1 tbsp of the oil in a large, heavy-based saucepan or flameproof dish. Tip in the bacon and fry until crisp. Remove and drain on kitchen paper. Add the shallots to the pan and fry, stirring or shaking the pan often, for 5-8 mins until well browned all over. Remove and set aside with the bacon.",
+            "Pat the chicken pieces dry with kitchen paper. Pour the remaining oil into the pan, then fry half the chicken pieces, turning regularly, for 5-8 mins until well browned. Remove, then repeat with the remaining chicken. Remove and set aside.",
+            "Scatter in the garlic and fry briefly, then, with the heat medium-high, pour in the brandy or Cognac, stirring the bottom of the pan to deglaze. The alcohol should sizzle and start to evaporate so there is not much left.",
+            "Return the chicken legs and thighs to the pan along with any juices, then pour in a little of the wine, stirring the bottom of the pan again. Stir in the rest of the wine, the stock and tomato purée, drop in the bouquet garni, season with pepper and a pinch of salt, then return the bacon and shallots to the pan. Cover, lower the heat to a gentle simmer, add the chicken breasts and cook for 50 mins-1hr.",
+            "Just before ready to serve, heat the oil for the mushrooms in a large non-stick frying pan. Add the mushrooms and fry over a high heat for a few mins until golden. Remove and keep warm.",
+            "Lift the chicken, shallots and bacon from the pan and transfer to a warmed serving dish. Remove the bouquet garni. To make the thickener, mix the flour, olive oil and butter in a small bowl using the back of a teaspoon. Bring the wine mixture to a gentle boil, then gradually drop in small pieces of the thickener, whisking each piece in using a wire whisk. Simmer for 1-2 mins. Scatter the mushrooms over the chicken, then pour over the wine sauce. Garnish with chopped parsley."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/qstyvs1505931190.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Chilli prawn linguine",
+        "category": "Pasta",
+        "region": "Italian",
+        "ingList": [
+            {
+                "ing": "Linguine Pasta",
+                "amount": "280g"
+            },
+            {
+                "ing": "Sugar Snap Peas",
+                "amount": "200g"
+            },
+            {
+                "ing": "Olive Oil",
+                "amount": "2 tblsp "
+            },
+            {
+                "ing": "Garlic Clove",
+                "amount": "2 cloves chopped"
+            },
+            {
+                "ing": "Red Chilli",
+                "amount": "1 large"
+            },
+            {
+                "ing": "King Prawns",
+                "amount": "24 Skinned"
+            },
+            {
+                "ing": "Cherry Tomatoes",
+                "amount": "12"
+            },
+            {
+                "ing": "Basil Leaves",
+                "amount": "Handful"
+            },
+            {
+                "ing": "Lettuce",
+                "amount": "Leaves"
+            },
+            {
+                "ing": "Bread",
+                "amount": "to serve"
+            },
+            {
+                "ing": "Fromage Frais",
+                "amount": "2 tbsp"
+            },
+            {
+                "ing": "Lime",
+                "amount": "Grated Zest of 2"
+            },
+            {
+                "ing": "Caster Sugar",
+                "amount": "2 tsp"
+            }
+        ],
+        "steps": [
+            "Mix the dressing ingredients in a small bowl and season with salt and pepper. Set aside.",
+            "",
+            "Cook the pasta according to the packet instructions. Add the sugar snap peas for the last minute or so of cooking time.",
+            "",
+            "Meanwhile, heat the oil in a wok or large frying pan, toss in the garlic and chilli and cook over a fairly gentle heat for about 30 seconds without letting the garlic brown. Tip in the prawns and cook over a high heat, stirring frequently, for about 3 minutes until they turn pink.",
+            "",
+            "Add the tomatoes and cook, stirring occasionally, for 3 minutes until they just start to soften. Drain the pasta and sugar snaps well, then toss into the prawn mixture. Tear in the basil leaves, stir, and season with salt and pepper.",
+            "",
+            "Serve with salad leaves drizzled with the lime dressing, and warm crusty bread."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/usywpp1511189717.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Clam chowder",
+        "category": "Starter",
+        "region": "American",
+        "ingList": [
+            {
+                "ing": "Clams",
+                "amount": "1½ kg"
+            },
+            {
+                "ing": "Butter",
+                "amount": "50g"
+            },
+            {
+                "ing": "Bacon",
+                "amount": "150g"
+            },
+            {
+                "ing": "Onion",
+                "amount": "1 finely chopped "
+            },
+            {
+                "ing": "Thyme",
+                "amount": "sprigs of fresh"
+            },
+            {
+                "ing": "Bay Leaf",
+                "amount": "1"
+            },
+            {
+                "ing": "Plain Flour",
+                "amount": "1 tbls"
+            },
+            {
+                "ing": "Milk",
+                "amount": "150ml"
+            },
+            {
+                "ing": "Double Cream",
+                "amount": "150ml"
+            },
+            {
+                "ing": "Potatoes",
+                "amount": "2 medium"
+            },
+            {
+                "ing": "Parsley",
+                "amount": "Chopped"
+            }
+        ],
+        "steps": [
+            "Rinse the clams in several changes of cold water and drain well. Tip the clams into a large pan with 500ml of water. Cover, bring to the boil and simmer for 2 mins until the clams have just opened. Tip the contents of the pan into a colander over a bowl to catch the clam stock. When cool enough to handle, remove the clams from their shells – reserving a handful of empty shells for presentation if you want. Strain the clam stock into a jug, leaving any grit in the bottom of the bowl. You should have around 800ml stock.",
+            "Heat the butter in the same pan and sizzle the bacon for 3-4 mins until it starts to brown. Stir in the onion, thyme and bay and cook everything gently for 10 mins until the onion is soft and golden. Scatter over the flour and stir in to make a sandy paste, cook for 2 mins more, then gradually stir in the clam stock then the milk and the cream.",
+            "Throw in the potatoes, bring everything to a simmer and leave to bubble away gently for 10 mins or until the potatoes are cooked. Use a fork to crush a few of the potato chunks against the side of the pan to help thicken – you still want lots of defined chunks though. Stir through the clam meat and the few clam shells, if you've gone down that route, and simmer for a minute to reheat. Season with plenty of black pepper and a little salt, if needed, then stir through the parsley just before ladling into bowls or hollowed-out crusty rolls."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/rvtvuw1511190488.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Creamy Tomato Soup",
+        "category": "Starter",
+        "region": "British",
+        "ingList": [
+            {
+                "ing": "Olive Oil",
+                "amount": "3 tbsp"
+            },
+            {
+                "ing": "Onions",
+                "amount": "2 chopped"
+            },
+            {
+                "ing": "Celery",
+                "amount": "2 sticks"
+            },
+            {
+                "ing": "Carrots",
+                "amount": "300g"
+            },
+            {
+                "ing": "Potatoes",
+                "amount": "500g"
+            },
+            {
+                "ing": "Bay Leaf",
+                "amount": "4"
+            },
+            {
+                "ing": "Tomato Puree",
+                "amount": "5 tblsp "
+            },
+            {
+                "ing": "Sugar",
+                "amount": "2 tblsp "
+            },
+            {
+                "ing": "White Vinegar",
+                "amount": "2 tblsp "
+            },
+            {
+                "ing": "Chopped Tomatoes",
+                "amount": "1½ kg"
+            },
+            {
+                "ing": "Passata",
+                "amount": "500g"
+            },
+            {
+                "ing": "Vegetable Stock Cube",
+                "amount": "3"
+            },
+            {
+                "ing": "Whole Milk",
+                "amount": "400ml"
+            }
+        ],
+        "steps": [
+            "Put the oil, onions, celery, carrots, potatoes and bay leaves in a big casserole dish, or two saucepans. Fry gently until the onions are softened – about 10-15 mins. Fill the kettle and boil it.",
+            "Stir in the tomato purée, sugar, vinegar, chopped tomatoes and passata, then crumble in the stock cubes. Add 1 litre boiling water and bring to a simmer. Cover and simmer for 15 mins until the potato is tender, then remove the bay leaves. Purée with a stick blender (or ladle into a blender in batches) until very smooth. Season to taste and add a pinch more sugar if it needs it. The soup can now be cooled and chilled for up to 2 days, or frozen for up to 3 months.",
+            "To serve, reheat the soup, stirring in the milk – try not to let it boil. Serve in small bowls with cheesy sausage rolls."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/stpuws1511191310.jpg",
+        "tags": ["Baking"]
+    },
+    {
+        "title": "Chicken & mushroom Hotpot",
+        "category": "Chicken",
+        "region": "British",
+        "ingList": [
+            {
+                "ing": "Butter",
+                "amount": "50g"
+            },
+            {
+                "ing": "Onion",
+                "amount": "1 chopped"
+            },
+            {
+                "ing": "Mushrooms",
+                "amount": "100g "
+            },
+            {
+                "ing": "Plain Flour",
+                "amount": "40g"
+            },
+            {
+                "ing": "Chicken Stock Cube",
+                "amount": "1"
+            },
+            {
+                "ing": "Nutmeg",
+                "amount": "pinch"
+            },
+            {
+                "ing": "Mustard Powder",
+                "amount": "pinch"
+            },
+            {
+                "ing": "Chicken",
+                "amount": "250g"
+            },
+            {
+                "ing": "Sweetcorn",
+                "amount": "2 Handfuls"
+            },
+            {
+                "ing": "Potatoes",
+                "amount": "2 large"
+            },
+            {
+                "ing": "Butter",
+                "amount": "1 knob"
+            }
+        ],
+        "steps": [
+            "Heat oven to 200C/180C fan/gas 6. Put the butter in a medium-size saucepan and place over a medium heat. Add the onion and leave to cook for 5 mins, stirring occasionally. Add the mushrooms to the saucepan with the onions.",
+            "",
+            "Once the onion and mushrooms are almost cooked, stir in the flour – this will make a thick paste called a roux. If you are using a stock cube, crumble the cube into the roux now and stir well. Put the roux over a low heat and stir continuously for 2 mins – this will cook the flour and stop the sauce from having a floury taste.",
+            "",
+            "Take the roux off the heat. Slowly add the fresh stock, if using, or pour in 500ml water if you’ve used a stock cube, stirring all the time. Once all the liquid has been added, season with pepper, a pinch of nutmeg and mustard powder. Put the saucepan back onto a medium heat and slowly bring it to the boil, stirring all the time. Once the sauce has thickened, place on a very low heat. Add the cooked chicken and vegetables to the sauce and stir well. Grease a medium-size ovenproof pie dish with a little butter and pour in the chicken and mushroom filling.",
+            "",
+            "Carefully lay the potatoes on top of the hot-pot filling, overlapping them slightly, almost like a pie top.",
+            "",
+            "Brush the potatoes with a little melted butter and cook in the oven for about 35 mins. The hot-pot is ready once the potatoes are cooked and golden brown."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Chicken Couscous",
+        "category": "Chicken",
+        "region": "Moroccan",
+        "ingList": [
+            {
+                "ing": "Olive Oil",
+                "amount": "1 tbsp"
+            },
+            {
+                "ing": "Onion",
+                "amount": "1 chopped"
+            },
+            {
+                "ing": "Chicken Breast",
+                "amount": "200g"
+            },
+            {
+                "ing": "Ginger",
+                "amount": "pinch"
+            },
+            {
+                "ing": "Harissa Spice",
+                "amount": "2 tblsp "
+            },
+            {
+                "ing": "Dried Apricots",
+                "amount": "10"
+            },
+            {
+                "ing": "Chickpeas",
+                "amount": "220g"
+            },
+            {
+                "ing": "Couscous",
+                "amount": "200g"
+            },
+            {
+                "ing": "Chicken Stock",
+                "amount": "200ml"
+            },
+            {
+                "ing": "Coriander",
+                "amount": "Handful"
+            }
+        ],
+        "steps": [
+            "Heat the olive oil in a large frying pan and cook the onion for 1-2 mins just until softened. Add the chicken and fry for 7-10 mins until cooked through and the onions have turned golden. Grate over the ginger, stir through the harissa to coat everything and cook for 1 min more.",
+            "",
+            "Tip in the apricots, chickpeas and couscous, then pour over the stock and stir once. Cover with a lid or tightly cover the pan with foil and leave for about 5 mins until the couscous has soaked up all the stock and is soft. Fluff up the couscous with a fork and scatter over the coriander to serve. Serve with extra harissa, if you like."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/qxytrx1511304021.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Chocolate Avocado Mousse",
+        "category": "Dessert",
+        "region": "British",
+        "ingList": [
+            {
+                "ing": "Banana",
+                "amount": "1"
+            },
+            {
+                "ing": "Cacao",
+                "amount": "3 tbsp"
+            },
+            {
+                "ing": "Avocado",
+                "amount": "1"
+            },
+            {
+                "ing": "Honey",
+                "amount": "2 tblsp "
+            },
+            {
+                "ing": "Lemon Juice",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Vanilla",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Water",
+                "amount": "2 tbsp"
+            },
+            {
+                "ing": "Sea Salt",
+                "amount": "pinch"
+            }
+        ],
+        "steps": [
+            "1. Blend all the mousse ingredients together in your food processor until smooth. Add the cacao powder first and, as you blend, have all the ingredients to hand in order to adjust the ratios slightly as the size of avocados and bananas varies so much. The perfect ratio in order to avoid the dish tasting too much of either is to use equal amounts of both.",
+            "",
+            "2. Taste and add a few drops of stevia if you feel you need more sweetness.",
+            "",
+            "3. Fill little cups or shot glasses with the mousse, sprinkle with the cacao powder or nibs and serve.",
+            "",
+            "Tip If you don’t have a frozen banana to hand you can just use a normal one and then chill the mousse before serving for a cooling dessert."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/uttuxy1511382180.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Choc Chip Pecan Pie",
+        "category": "Dessert",
+        "region": "American",
+        "ingList": [
+            {
+                "ing": "Plain Flour",
+                "amount": "300g"
+            },
+            {
+                "ing": "Butter",
+                "amount": "75g"
+            },
+            {
+                "ing": "Cream Cheese",
+                "amount": "100g "
+            },
+            {
+                "ing": "Icing Sugar",
+                "amount": "1 tbls"
+            },
+            {
+                "ing": "Butter",
+                "amount": "150g"
+            },
+            {
+                "ing": "Maple Syrup",
+                "amount": "200ml"
+            },
+            {
+                "ing": "Light Brown Soft Sugar",
+                "amount": "250g"
+            },
+            {
+                "ing": "Dark Brown Soft Sugar",
+                "amount": "100g "
+            },
+            {
+                "ing": "Eggs",
+                "amount": "4"
+            },
+            {
+                "ing": "Vanilla Extract",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Pecan Nuts",
+                "amount": "400g"
+            },
+            {
+                "ing": "Dark Chocolate Chips",
+                "amount": "200g"
+            }
+        ],
+        "steps": [
+            "First, make the pastry. Tip the ingredients into a food processor with 1 /4 tsp salt. Blend until the mixture resembles breadcrumbs. Drizzle 2-3 tsp cold water into the funnel while the blade is running – the mixture should start to clump together. Tip onto a work surface and bring together, kneading briefly into a ball. Pat into a disc, wrap in cling film, and chill for at least 20 mins. Heat oven to 200C/180C fan/gas 6.",
+            "",
+            "Remove the pastry from the fridge and leave at room temperature for 5 mins to soften. Flour the work surface, then unwrap the pastry and roll to a circle the thickness of a £1 coin. Use the pastry to line a deep, 23cm round fluted tin – mine was about 3cm deep. Press the pastry into the corners and up the sides, making sure there are no gaps. Leave 1cm pastry overhanging (save some of the pastry scraps for later). Line with baking parchment (scrunch it up first to make it more pliable) and fill with baking beans. Blind-bake for 15-20 mins until the sides are set, then remove the parchment and beans and return to the oven for 5 mins until golden brown. Trim the pastry so it’s flush with the top of the tin – a small serrated knife is best for this. If there are any cracks, patch them up with the pastry scraps.",
+            "",
+            "Meanwhile, weigh the butter, syrup and sugars into a pan, and add 1 /4 tsp salt. Heat until the butter has melted and the sugar dissolved, stirring until smooth. Remove from the heat and cool for 10 mins. Reduce oven to 160C/140C fan/gas 3.",
+            "",
+            "Beat the eggs in a bowl. Add the syrup mixture, vanilla and pecans, and mix until well combined. Pour half the mixture into the tart case, scatter over half the chocolate chips, then cover with the remaining filling and chocolate chips. Bake on the middle shelf for 50-55 mins until set. Remove from the oven and leave to cool, then chill for at least 2 hrs before serving."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/rqvwxt1511384809.jpg",
+        "tags": ["Pie", "Desert", "Sweet", "Nutty"]
+    },
+    {
+        "title": "Chocolate Raspberry Brownies",
+        "category": "Dessert",
+        "region": "American",
+        "ingList": [
+            {
+                "ing": "Dark Chocolate",
+                "amount": "200g"
+            },
+            {
+                "ing": "Milk Chocolate",
+                "amount": "100g "
+            },
+            {
+                "ing": "Salted Butter",
+                "amount": "250g"
+            },
+            {
+                "ing": "Light Brown Soft Sugar",
+                "amount": "400g"
+            },
+            {
+                "ing": "Eggs",
+                "amount": "4 large"
+            },
+            {
+                "ing": "Plain Flour",
+                "amount": "140g"
+            },
+            {
+                "ing": "Cocoa",
+                "amount": "50g"
+            },
+            {
+                "ing": "Raspberries",
+                "amount": "200g"
+            }
+        ],
+        "steps": [
+            "Heat oven to 180C/160C fan/gas 4. Line a 20 x 30cm baking tray tin with baking parchment. Put the chocolate, butter and sugar in a pan and gently melt, stirring occasionally with a wooden spoon. Remove from the heat.",
+            "Stir the eggs, one by one, into the melted chocolate mixture. Sieve over the flour and cocoa, and stir in. Stir in half the raspberries, scrape into the tray, then scatter over the remaining raspberries. Bake on the middle shelf for 30 mins or, if you prefer a firmer texture, for 5 mins more. Cool before slicing into squares. Store in an airtight container for up to 3 days."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/yypvst1511386427.jpg",
+        "tags": ["Chocolate", "Desert", "Snack"]
+    },
+    {
+        "title": "Chickpea Fajitas",
+        "category": "Vegetarian",
+        "region": "Mexican",
+        "ingList": [
+            {
+                "ing": "Chickpeas",
+                "amount": "400g"
+            },
+            {
+                "ing": "Olive Oil",
+                "amount": "1 tblsp "
+            },
+            {
+                "ing": "Paprika",
+                "amount": "pinch"
+            },
+            {
+                "ing": "Tomatoes",
+                "amount": "2 small cut chunks"
+            },
+            {
+                "ing": "Red Onions",
+                "amount": "1 finely sliced"
+            },
+            {
+                "ing": "Red Wine Vinegar",
+                "amount": "2 tsp"
+            },
+            {
+                "ing": "Avocado",
+                "amount": "1"
+            },
+            {
+                "ing": "Lime",
+                "amount": "Juice of 1"
+            },
+            {
+                "ing": "Lime",
+                "amount": "Chopped"
+            },
+            {
+                "ing": "Sour Cream",
+                "amount": "100g "
+            },
+            {
+                "ing": "Harissa Spice",
+                "amount": "2 tsp"
+            },
+            {
+                "ing": "Corn Tortillas",
+                "amount": "4"
+            },
+            {
+                "ing": "Coriander",
+                "amount": "to serve"
+            }
+        ],
+        "steps": [
+            "Heat oven to 200C/180C fan/gas 6 and line a baking tray with foil. Drain the chickpeas, pat dry and tip onto the prepared baking tray. Add the oil and paprika, toss to coat, then roast for 20-25 mins until browned and crisp, shaking halfway through cooking.",
+            "",
+            "Meanwhile, put the tomatoes and onion in a small bowl with the vinegar and set aside to pickle. Put the avocado in another bowl and mash with a fork, leaving some larger chunks. Stir in the lime juice and season well. Mix the soured cream with the harissa and set aside until ready to serve.",
+            "",
+            "Heat a griddle pan until nearly smoking. Add the tortillas , one at a time, charring each side until hot with griddle lines. ",
+            "",
+            "Put everything on the table and build the fajitas : spread a little of the harissa cream over the tortilla, top with roasted chickpeas, guacamole, pickled salsa and coriander, if you like. Serve with the lime wedges for squeezing over."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/tvtxpq1511464705.jpg",
+        "tags": ["Vegetarian"]
+    },
+    {
+        "title": "Chicken Ham and Leek Pie",
+        "category": "Chicken",
+        "region": "British",
+        "ingList": [
+            {
+                "ing": "Chicken Stock",
+                "amount": "450ml"
+            },
+            {
+                "ing": "Chicken Breast",
+                "amount": "3"
+            },
+            {
+                "ing": "Butter",
+                "amount": "75g"
+            },
+            {
+                "ing": "Leek",
+                "amount": "2 sliced"
+            },
+            {
+                "ing": "Garlic",
+                "amount": "2 cloves minced"
+            },
+            {
+                "ing": "Plain Flour",
+                "amount": "50g"
+            },
+            {
+                "ing": "Milk",
+                "amount": "200ml"
+            },
+            {
+                "ing": "White Wine",
+                "amount": "3 tbs"
+            },
+            {
+                "ing": "Double Cream",
+                "amount": "150ml"
+            },
+            {
+                "ing": "Ham",
+                "amount": "150g"
+            },
+            {
+                "ing": "Sea Salt",
+                "amount": "spinkling"
+            },
+            {
+                "ing": "Pepper",
+                "amount": "pinch"
+            },
+            {
+                "ing": "Plain Flour",
+                "amount": "350g"
+            },
+            {
+                "ing": "Butter",
+                "amount": "200g"
+            },
+            {
+                "ing": "Free-range Egg, Beaten",
+                "amount": "1"
+            },
+            {
+                "ing": "Cold Water",
+                "amount": "1 tbls"
+            },
+            {
+                "ing": "Free-range Egg, Beaten",
+                "amount": "1"
+            }
+        ],
+        "steps": [
+            "Heat the chicken stock in a lidded saucepan. Add the chicken breast and bring to a low simmer. Cover with a lid and cook for 10 minutes. Remove the chicken breasts from the water with tongs and place on a plate. Pour the cooking liquor into a large jug.",
+            "Melt 25g/1oz of the butter in a large heavy-based saucepan over a low heat. Stir in the leeks and fry gently for two minutes, stirring occasionally until just softened. Add the garlic and cook for a further minute. Add the remaining butter and stir in the flour as soon as the butter has melted. Cook for 30 seconds, stirring constantly.",
+            "Slowly pour the milk into the pan, just a little at a time, stirring well between each adding. Gradually add 250ml/10fl oz of the reserved stock and the wine, if using, stirring until the sauce is smooth and thickened slightly. Bring to a gentle simmer and cook for 3 minutes.",
+            "Season the mixture, to taste, with salt and freshly ground black pepper. Remove from the heat and stir in the cream. Pour into a large bowl and cover the surface of the sauce with cling ilm to prevent a skin forming. Set aside to cool.",
+            "Preheat the oven to 200C/400F/Gas 6. Put a baking tray in the oven to heat.",
+            "For the pastry, put the flour and butter in a food processor and blend on the pulse setting until the mixture resembles fine breadcrumbs. With the motor running, add the beaten egg and water and blend until the mixture forms a ball. Portion off 250g/10oz of pastry for the lid.",
+            "Roll the remaining pastry out on a lightly floured surface, turning the pastry frequently until around 5mm/¼in thick and 4cm/1½in larger than the pie dish. Lift the pastry over the rolling pin and place it gently into the pie dish. Press the pastry firmly up the sides, making sure there are no air bubbles. Leave the excess pastry overhanging the sides.",
+            "Cut the chicken breasts into 3cm/1¼in pieces. Stir the chicken, ham and leeks into the cooled sauce. Pour the chicken filling into the pie dish. Brush the rim of the dish with beaten egg. Roll out the reserved pastry for the lid.",
+            "Cover the pie with the pastry lid and press the edges together firmly to seal. Trim any excess pastry.",
+            "Make a small hole in the centre of the pie with the tip of a knife. Glaze the top of the pie with beaten egg. Bake on the preheated tray in the centre of the oven for 35-40 minutes or until the pie is golden-brown all over and the filling is piping hot."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/xrrtss1511555269.jpg",
+        "tags": ["Pie", "Meat"]
+    },
+    {
+        "title": "Chicken Parmentier",
+        "category": "Chicken",
+        "region": "French",
+        "ingList": [
+            {
+                "ing": "Potatoes",
+                "amount": "1.5kg"
+            },
+            {
+                "ing": "Butter",
+                "amount": "30g"
+            },
+            {
+                "ing": "Double Cream",
+                "amount": "5 tblsp "
+            },
+            {
+                "ing": "Egg Yolks",
+                "amount": "2"
+            },
+            {
+                "ing": "Butter",
+                "amount": "30g"
+            },
+            {
+                "ing": "Shallots",
+                "amount": "7"
+            },
+            {
+                "ing": "Carrots",
+                "amount": "3 chopped"
+            },
+            {
+                "ing": "Celery",
+                "amount": "2 sticks"
+            },
+            {
+                "ing": "Garlic Clove",
+                "amount": "1 finely chopped "
+            },
+            {
+                "ing": "White Wine",
+                "amount": "4 tbsp"
+            },
+            {
+                "ing": "Tomato Puree",
+                "amount": "1 tbls"
+            },
+            {
+                "ing": "Tinned Tomatos",
+                "amount": "400g"
+            },
+            {
+                "ing": "Chicken Stock",
+                "amount": "350ml"
+            },
+            {
+                "ing": "Chicken",
+                "amount": "600g"
+            },
+            {
+                "ing": "Black Olives",
+                "amount": "16"
+            },
+            {
+                "ing": "Parsley",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Gruyere cheese",
+                "amount": "50g"
+            }
+        ],
+        "steps": [
+            "For the topping, boil the potatoes in salted water until tender. Drain and push through a potato ricer, or mash thoroughly. Stir in the butter, cream and egg yolks. Season and set aside.",
+            "For the filling, melt the butter in a large pan. Add the shallots, carrots and celery and gently fry until soft, then add the garlic. Pour in the wine and cook for 1 minute. Stir in the tomato purée, chopped tomatoes and stock and cook for 10–15 minutes, until thickened. Add the shredded chicken, olives and parsley. Season to taste with salt and pepper.",
+            "Preheat the oven to 180C/160C Fan/Gas 4.",
+            "Put the filling in a 20x30cm/8x12in ovenproof dish and top with the mashed potato. Grate over the Gruyère. Bake for 30–35 minutes, until piping hot and the potato is golden-brown."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/uwvxpv1511557015.jpg",
+        "tags": ["Meat", "Dairy"]
+    },
+    {
+        "title": "Carrot Cake",
+        "category": "Dessert",
+        "region": "British",
+        "ingList": [
+            {
+                "ing": "Vegetable Oil",
+                "amount": "450ml"
+            },
+            {
+                "ing": "Plain Flour",
+                "amount": "400g"
+            },
+            {
+                "ing": "Bicarbonate Of Soda",
+                "amount": "2 tsp"
+            },
+            {
+                "ing": "Sugar",
+                "amount": "550ml"
+            },
+            {
+                "ing": "Eggs",
+                "amount": "5"
+            },
+            {
+                "ing": "Salt",
+                "amount": "½ tsp"
+            },
+            {
+                "ing": "Cinnamon",
+                "amount": "2 tsp"
+            },
+            {
+                "ing": "Carrots",
+                "amount": "500g grated"
+            },
+            {
+                "ing": "Walnuts",
+                "amount": "150g"
+            },
+            {
+                "ing": "Cream Cheese",
+                "amount": "200g"
+            },
+            {
+                "ing": "Caster Sugar",
+                "amount": "150g"
+            },
+            {
+                "ing": "Butter",
+                "amount": "100g "
+            }
+        ],
+        "steps": [
+            "For the carrot cake, preheat the oven to 160C/325F/Gas 3. Grease and line a 26cm/10in springform cake tin.",
+            "Mix all of the ingredients for the carrot cake, except the carrots and walnuts, together in a bowl until well combined. Stir in the carrots and walnuts.",
+            "Spoon the mixture into the cake tin and bake for 1 hour 15 minutes, or until a skewer inserted into the middle comes out clean. Remove the cake from the oven and set aside to cool for 10 minutes, then carefully remove the cake from the tin and set aside to cool completely on a cooling rack.",
+            "Meanwhile, for the icing, beat the cream cheese, caster sugar and butter together in a bowl until fluffy. Spread the icing over the top of the cake with a palette knife."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/vrspxv1511722107.jpg",
+        "tags": ["Cake", "Treat", "Sweet"]
+    },
+    {
+        "title": "Chelsea Buns",
+        "category": "Dessert",
+        "region": "British",
+        "ingList": [
+            {
+                "ing": "White Flour",
+                "amount": "500g"
+            },
+            {
+                "ing": "Salt",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Yeast",
+                "amount": "7g"
+            },
+            {
+                "ing": "Milk",
+                "amount": "300ml "
+            },
+            {
+                "ing": "Butter",
+                "amount": "40g"
+            },
+            {
+                "ing": "Eggs",
+                "amount": "1"
+            },
+            {
+                "ing": "Vegetable Oil",
+                "amount": "Dash"
+            },
+            {
+                "ing": "Butter",
+                "amount": "25g"
+            },
+            {
+                "ing": "Brown Sugar",
+                "amount": "75g"
+            },
+            {
+                "ing": "Cinnamon",
+                "amount": "2 tsp"
+            },
+            {
+                "ing": "Dried Fruit",
+                "amount": "150g"
+            },
+            {
+                "ing": "Milk",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Caster Sugar",
+                "amount": "2 tbs"
+            }
+        ],
+        "steps": [
+            "Sift the flour and salt into a large bowl. Make a well in the middle and add the yeast.",
+            "Meanwhile, warm the milk and butter in a saucepan until the butter melts and the mixture is lukewarm.",
+            "Add the milk mixture and egg to the flour mixture and stir until the contents of the bowl come together as a soft dough. (You may need to add a little extra flour.)",
+            "Tip the dough onto a generously floured work surface. Knead for five minutes, adding more flour if necessary, until the dough is smooth and elastic and no longer feels sticky.",
+            "Lightly oil a bowl with a little of the vegetable oil. Place the dough into the bowl and turn until it is covered in the oil. Cover the bowl with cling film and set aside in a warm place for one hour, or until the dough has doubled in size.",
+            "Lightly grease a baking tray.",
+            "For the filling, knock the dough back to its original size and turn out onto a lightly floured work surface. Roll the dough out into a rectangle 0.5cm/¼in thick. Brush all over with the melted butter, then sprinkle over the brown sugar, cinnamon and dried fruit.",
+            "Roll the dough up into a tight cylinder , cut ten 4cm/1½in slice and place them onto a lightly greased baking sheet, leaving a little space between each slice. Cover with a tea towel and set aside to rise for 30 minutes.",
+            "Preheat oven to 190C/375F/Gas 5.",
+            "Bake the buns in the oven for 20-25 minutes, or until risen and golden-brown.",
+            "Meanwhile, for the glaze, heat the milk and sugar in a saucepan until boiling. Reduce the heat and simmer for 2-3 minutes.",
+            "Remove the buns from the oven and brush with the glaze, then set aside to cool on a wire rack."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/vqpwrv1511723001.jpg",
+        "tags": ["Bun", "Baking", "Treat"]
+    },
+    {
+        "title": "Chocolate Souffle",
+        "category": "Dessert",
+        "region": "French",
+        "ingList": [
+            {
+                "ing": "Single Cream",
+                "amount": "142ml"
+            },
+            {
+                "ing": "Caster Sugar",
+                "amount": "25g"
+            },
+            {
+                "ing": "Dark Chocolate",
+                "amount": "100g "
+            },
+            {
+                "ing": "Butter",
+                "amount": "25g"
+            },
+            {
+                "ing": "Butter",
+                "amount": "drizzle"
+            },
+            {
+                "ing": "Caster Sugar",
+                "amount": "50g"
+            },
+            {
+                "ing": "Dark Chocolate",
+                "amount": "175g"
+            },
+            {
+                "ing": "Double Cream",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Egg Yolks",
+                "amount": "4"
+            },
+            {
+                "ing": "Egg White",
+                "amount": "5"
+            },
+            {
+                "ing": "Double Cream",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Icing Sugar",
+                "amount": "to serve"
+            }
+        ],
+        "steps": [
+            "Heat oven to 220C/fan 200C/gas 7 and place a baking tray on the top shelf. For the sauce, heat the cream and sugar until boiling. Remove from the heat, stir in the chocolate and butter until melted, then keep warm.",
+            "Brush 6 x 150ml ramekins with melted butter, sprinkle with the 2 tbsp caster sugar, then tip out any excess. Melt the chocolate and cream in a bowl over a pan of simmering water, cool, then mix in the egg yolks. Whisk the egg whites until they hold their shape, then add the sugar, 1 tbsp at a time, whisking back to the same consistency. Mix a spoonful into the chocolate, then gently fold in the rest.",
+            "Working quickly, fill the ramekins, wipe the rims clean and run your thumb around the edges. Turn oven down to 200C/fan 180C/gas 6, place the ramekins onto the baking tray, then bake for 8-10 mins until risen with a slight wobble. Don’t open the oven door too early as this may make them collapse.",
+            "Once the soufflés are ready, dust with icing sugar, scoop a small hole from their tops, then pour in some of the hot chocolate sauce. Replace the lids and serve straight away."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/twspvx1511784937.jpg",
+        "tags": ["DinnerParty", "Desert", "Pudding", "Chocolate"]
+    },
+    {
+        "title": "Chinon Apple Tarts",
+        "category": "Dessert",
+        "region": "French",
+        "ingList": [
+            {
+                "ing": "Puff Pastry",
+                "amount": "320g"
+            },
+            {
+                "ing": "Dark Brown Soft Sugar",
+                "amount": "4 tbs"
+            },
+            {
+                "ing": "Braeburn Apples",
+                "amount": "3"
+            },
+            {
+                "ing": "Red Wine Jelly",
+                "amount": "4 tbs"
+            },
+            {
+                "ing": "Creme Fraiche",
+                "amount": "100ml"
+            },
+            {
+                "ing": "Icing Sugar",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Cardamom",
+                "amount": "3"
+            }
+        ],
+        "steps": [
+            "To make the red wine jelly, put the red wine, jam sugar, star anise, clove, cinnamon stick, allspice, split vanilla pod and seeds in a medium saucepan. Stir together, then heat gently to dissolve the sugar. Turn up the heat and boil for 20 mins until reduced and syrupy. Strain into a small, sterilised jam jar and leave to cool completely. Will keep in the fridge for up to 1 month.",
+            "",
+            "Take the pastry out of the fridge and leave at room temperature for 10 mins, then unroll. Heat the grill to high and heat the oven to 180C/160C fan/gas 4. Cut out 2 x 13cm circles of pastry, using a plate as a guide, and place on a non-stick baking sheet. Sprinkle each circle with 1 tbsp sugar and grill for 5 mins to caramelise, watching carefully so that the sugar doesn’t burn. Remove from the grill. Can be done a few hours ahead, and left, covered, out of the fridge.",
+            "",
+            "Peel, quarter and core the apples, cut into 2mm-thin slices and arrange on top of the pastry. Sprinkle over the remaining sugar and pop in the oven for 20-25 mins until the pastry is cooked through and golden, and the apples are softened. Remove and allow to cool slightly. Warm 3 tbsp of the red wine jelly in a small pan over a low heat with 1 tsp water to make it a little more runny, then brush over the top of the tarts.",
+            "",
+            "Tip the crème fraîche into a bowl, sift over the icing sugar and cardamom, and mix together. Carefully lift the warm tarts onto serving plates and serve with the cardamom crème fraîche."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/qtqwwu1511792650.jpg",
+        "tags": ["Tart", "Baking"]
+    },
+    {
+        "title": "Chicken Marengo",
+        "category": "Chicken",
+        "region": "French",
+        "ingList": [
+            {
+                "ing": "Olive Oil",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Mushrooms",
+                "amount": "300g"
+            },
+            {
+                "ing": "Chicken Legs",
+                "amount": "4"
+            },
+            {
+                "ing": "Passata",
+                "amount": "500g"
+            },
+            {
+                "ing": "Chicken Stock Cube",
+                "amount": "1"
+            },
+            {
+                "ing": "Black Olives",
+                "amount": "100g "
+            },
+            {
+                "ing": "Parsley",
+                "amount": "Chopped"
+            }
+        ],
+        "steps": [
+            "Heat the oil in a large flameproof casserole dish and stir-fry the mushrooms until they start to soften. Add the chicken legs and cook briefly on each side to colour them a little.",
+            "Pour in the passata, crumble in the stock cube and stir in the olives. Season with black pepper – you shouldn’t need salt. Cover and simmer for 40 mins until the chicken is tender. Sprinkle with parsley and serve with pasta and a salad, or mash and green veg, if you like."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/qpxvuq1511798906.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Canadian Butter Tarts",
+        "category": "Dessert",
+        "region": "Canadian",
+        "ingList": [
+            {
+                "ing": "Shortcrust Pastry",
+                "amount": "375g"
+            },
+            {
+                "ing": "Eggs",
+                "amount": "2 large"
+            },
+            {
+                "ing": "Muscovado Sugar",
+                "amount": "175g"
+            },
+            {
+                "ing": "Raisins",
+                "amount": "100g "
+            },
+            {
+                "ing": "Vanilla Extract",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Butter",
+                "amount": "50g"
+            },
+            {
+                "ing": "Single Cream",
+                "amount": "4 tsp"
+            },
+            {
+                "ing": "Walnuts",
+                "amount": "50g"
+            }
+        ],
+        "steps": [
+            "Preheat the oven to fan 170C/ conventional 190C/gas 5. Roll out the pastry on a lightly floured surface so it’s slightly thinner than straight from the pack. Then cut out 18-20 rounds with a 7.5cm fluted cutter, re-rolling the trimmings. Use the rounds to line two deep 12-hole tart tins (not muffin tins). If you only have a regular-sized, 12-hole tart tin you will be able to make a few more slightly shallower tarts.",
+            "Beat the eggs in a large bowl and combine with the rest of the ingredients except the walnuts. Tip this mixture into a pan and stir continuously for 3-4 minutes until the butter melts, and the mixture bubbles and starts to thicken. It should be thick enough to coat the back of a wooden spoon. Don’t overcook, and be sure to stir all the time as the mixture can easily burn. Remove from the heat and stir in the nuts.",
+            "Spoon the filling into the unbaked tart shells so it’s level with the pastry. Bake for 15-18 minutes until set and pale golden. Leave in the tin to cool for a few minutes before lifting out on to a wire rack. Serve warm or cold."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/wpputp1511812960.jpg",
+        "tags": ["Speciality", "Snack", "Desert", "Pudding"]
+    },
+    {
+        "title": "Chicken Basquaise",
+        "category": "Chicken",
+        "region": "French",
+        "ingList": [
+            {
+                "ing": "Chicken",
+                "amount": "1.5kg"
+            },
+            {
+                "ing": "Butter",
+                "amount": "25g"
+            },
+            {
+                "ing": "Olive Oil",
+                "amount": "6 tblsp"
+            },
+            {
+                "ing": "Red Onions",
+                "amount": "2 sliced"
+            },
+            {
+                "ing": "Red Pepper",
+                "amount": "3 Large"
+            },
+            {
+                "ing": "Chorizo",
+                "amount": "130g"
+            },
+            {
+                "ing": "Sun-Dried Tomatoes",
+                "amount": "8"
+            },
+            {
+                "ing": "Garlic",
+                "amount": "6 cloves sliced"
+            },
+            {
+                "ing": "Basmati Rice",
+                "amount": "300g"
+            },
+            {
+                "ing": "Tomato Puree",
+                "amount": "drizzle"
+            },
+            {
+                "ing": "Paprika",
+                "amount": "½ tsp"
+            },
+            {
+                "ing": "Bay Leaves",
+                "amount": "4"
+            },
+            {
+                "ing": "Thyme",
+                "amount": "Handful"
+            },
+            {
+                "ing": "Chicken Stock",
+                "amount": "350ml"
+            },
+            {
+                "ing": "Dry White Wine",
+                "amount": "180g"
+            },
+            {
+                "ing": "Lemons",
+                "amount": "2"
+            },
+            {
+                "ing": "Black Olives",
+                "amount": "100g "
+            },
+            {
+                "ing": "Salt",
+                "amount": "to serve"
+            },
+            {
+                "ing": "Pepper",
+                "amount": "to serve"
+            }
+        ],
+        "steps": [
+            "Preheat the oven to 180°C/Gas mark 4. Have the chicken joints ready to cook. Heat the butter and 3 tbsp olive oil in a flameproof casserole or large frying pan. Brown the chicken pieces in batches on both sides, seasoning them with salt and pepper as you go. Don't crowd the pan - fry the chicken in small batches, removing the pieces to kitchen paper as they are done.",
+            "",
+            "Add a little more olive oil to the casserole and fry the onions over a medium heat for 10 minutes, stirring frequently, until softened but not browned. Add the rest of the oil, then the peppers and cook for another 5 minutes.",
+            "",
+            "Add the chorizo, sun-dried tomatoes and garlic and cook for 2-3 minutes. Add the rice, stirring to ensure it is well coated in the oil. Stir in the tomato paste, paprika, bay leaves and chopped thyme. Pour in the stock and wine. When the liquid starts to bubble, turn the heat down to a gentle simmer. Press the rice down into the liquid if it isn't already submerged and place the chicken on top. Add the lemon wedges and olives around the chicken.",
+            "",
+            "Cover and cook in the oven for 50 minutes. The rice should be cooked but still have some bite, and the chicken should have juices that run clear when pierced in the thickest part with a knife. If not, cook for another 5 minutes and check again."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/wruvqv1511880994.jpg",
+        "tags": ["Meat"]
+    },
+    {
+        "title": "Callaloo Jamaican Style",
+        "category": "Miscellaneous",
+        "region": "Jamaican",
+        "ingList": [
+            {
+                "ing": "Kale",
+                "amount": "1  bunch"
+            },
+            {
+                "ing": "Bacon",
+                "amount": "2 strips"
+            },
+            {
+                "ing": "Garlic",
+                "amount": "3 cloves Chopped"
+            },
+            {
+                "ing": "Onion",
+                "amount": "1 medium"
+            },
+            {
+                "ing": "Paprika",
+                "amount": "1/2 tsp"
+            },
+            {
+                "ing": "Thyme",
+                "amount": "1 Sprig"
+            },
+            {
+                "ing": "Tomato",
+                "amount": "1"
+            },
+            {
+                "ing": "Red Pepper",
+                "amount": "1"
+            },
+            {
+                "ing": "Banana",
+                "amount": "4"
+            },
+            {
+                "ing": "Vegetable Oil",
+                "amount": "Splash"
+            }
+        ],
+        "steps": [
+            "Cut leaves and soft stems from the kale branches, them soak in a bowl of cold water for about 5-10 minutes or until finish with prep.",
+            "Proceed to slicing the onions, mincing the garlic and dicing the tomatoes. Set aside",
+            "Remove kale from water cut in chunks.",
+            "Place bacon on saucepan and cook until crispy. Then add onions, garlic, thyme, stir for about a minute or more",
+            "Add tomatoes; scotch bonnet pepper, smoked paprika. Sauté for about 2-3 more minutes.",
+            "Finally add vegetable, salt, mix well, and steamed for about 6-8 minutes or until leaves are tender. Add a tiny bit of water as needed. Adjust seasonings and turn off the heat.",
+            "Using a sharp knife cut both ends off the plantain. This will make it easy to grab the skin of the plantains. Slit a shallow line down the long seam of the plantain; peel only as deep as the peel. Remove plantain peel by pulling it back.",
+            "Slice the plantain into medium size lengthwise slices and set aside.",
+            "Coat a large frying pan with cooking oil spray. Spray the tops of the plantains with a generous layer of oil spray and sprinkle with salt, freshly ground pepper.",
+            "Let the plantains \"fry\" on medium heat, shaking the frying pan to redistribute them every few minutes.",
+            "As the plantains brown, continue to add more cooking oil spray, salt and pepper (if needed) until they have reached the desired color and texture.",
+            "Remove and serve with kale"
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/ussyxw1515364536.jpg",
+        "tags": ["Savory"]
+    },
+    {
+        "title": "Chicken Congee",
+        "category": "Chicken",
+        "region": "Chinese",
+        "ingList": [
+            {
+                "ing": "Chicken",
+                "amount": "8 oz "
+            },
+            {
+                "ing": "Salt",
+                "amount": "pinch"
+            },
+            {
+                "ing": "Pepper",
+                "amount": "pinch"
+            },
+            {
+                "ing": "Ginger Cordial",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Ginger",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Spring Onions",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Rice",
+                "amount": "1/2 cup "
+            },
+            {
+                "ing": "Water",
+                "amount": "8 cups "
+            },
+            {
+                "ing": "Coriander",
+                "amount": "2 oz "
+            }
+        ],
+        "steps": [
+            "STEP 1 - MARINATING THE CHICKEN",
+            "In a bowl, add chicken, salt, white pepper, ginger juice and then mix it together well.",
+            "Set the chicken aside.",
+            "STEP 2 - RINSE THE WHITE RICE",
+            "Rinse the rice in a metal bowl or pot a couple times and then drain the water.",
+            "STEP 2 - BOILING THE WHITE RICE",
+            "Next add 8 cups of water and then set the stove on high heat until it is boiling. Once rice porridge starts to boil, set the stove on low heat and then stir it once every 8-10 minutes for around 20-25 minutes.",
+            "After 25 minutes, this is optional but you can add a little bit more water to make rice porridge to make it less thick or to your preference.",
+            "Next add the marinated chicken to the rice porridge and leave the stove on low heat for another 10 minutes.",
+            "After an additional 10 minutes add the green onions, sliced ginger, 1 pinch of salt, 1 pinch of white pepper and stir for 10 seconds.",
+            "Serve the rice porridge in a bowl",
+            "Optional: add Coriander on top of the rice porridge."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/1529446352.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Chocolate Caramel Crispy",
+        "category": "Dessert",
+        "region": "British",
+        "ingList": [
+            {
+                "ing": "Mars Bar",
+                "amount": "6 chopped"
+            },
+            {
+                "ing": "Butter",
+                "amount": "150g"
+            },
+            {
+                "ing": "Rice Krispies",
+                "amount": "120g"
+            },
+            {
+                "ing": "Milk Chocolate",
+                "amount": "150g"
+            }
+        ],
+        "steps": [
+            "Grease and line a 20 x 20cm/8\" x 8\" baking tin with parchment paper.",
+            "Put the mars bars and butter in a heat proof bowl and place over a pan of barely simmering water. Mixing with a whisk, melt until the mixture is smooth.",
+            "Pour over the rice krispies in a mixing bowl and mix until all the ingredients are evenly combined. Press evenly into the prepare baking tin and set aside.",
+            "Melt the milk chocolate in the microwave or over a pan of barely simmering water.",
+            "Spread the melted chocolate over the rice krispie mixture and leave to set in a cool place. Once set slice into squares and serve!"
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/1550442508.jpg",
+        "tags": ["Sweet", "Snack", "Treat", "Tart", "Alcoholic", "BBQ"]
+    },
+    {
+        "title": "Chakchouka ",
+        "category": "Miscellaneous",
+        "region": "Tunisian",
+        "ingList": [
+            {
+                "ing": "Tomatoes",
+                "amount": "4"
+            },
+            {
+                "ing": "Olive Oil",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Onion",
+                "amount": "1 Diced"
+            },
+            {
+                "ing": "Red Pepper",
+                "amount": "1 sliced"
+            },
+            {
+                "ing": "Green Pepper",
+                "amount": "1 sliced"
+            },
+            {
+                "ing": "Garlic",
+                "amount": "3 Cloves Crushed"
+            },
+            {
+                "ing": "Cumin",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Paprika",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Salt",
+                "amount": "3/4 teaspoon"
+            },
+            {
+                "ing": "Chili Powder",
+                "amount": "1/2 teaspoon"
+            },
+            {
+                "ing": "Eggs",
+                "amount": "4"
+            }
+        ],
+        "steps": [
+            "In a large cast iron skillet or sauté pan with a lid, heat oil over medium high heat. Add the onion and sauté for 2-3 minutes, until softened. Add the peppers and garlic, and sauté for an additional 3-5 minutes. Add the tomatoes, cumin, paprika, salt, and chili powder. Mix well and bring the mixture to a simmer. Reduce the heat to medium low and continue to simmer, uncovered, 10-15 minutes until the mixture has thickened to your desired consistency. (Taste the sauce at this point and adjust for salt and spice, as desired.) Using the back of a spoon, make four craters in the mixture, large enough to hold an egg. Crack one egg into each of the craters. Cover the skillet and simmer for 5-7 minutes, until the eggs have set. Serve immediately with crusty bread or pita."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/gpz67p1560458984.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Cashew Ghoriba Biscuits",
+        "category": "Dessert",
+        "region": "Tunisian",
+        "ingList": [
+            {
+                "ing": "Cashew Nuts",
+                "amount": "250g"
+            },
+            {
+                "ing": "Icing Sugar",
+                "amount": "100g "
+            },
+            {
+                "ing": "Egg Yolks",
+                "amount": "2"
+            },
+            {
+                "ing": "Orange Blossom Water",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Icing Sugar",
+                "amount": "To Glaze"
+            },
+            {
+                "ing": "Almonds",
+                "amount": "100g "
+            }
+        ],
+        "steps": [
+            "Preheat the oven at 180 C / Gas 4. Line a baking tray with greaseproof paper.",
+            "In a bowl, mix the cashews and icing sugar. Add the egg yolks and orange blossom water and mix to a smooth homogeneous paste.",
+            "Take lumps of the cashew paste and shape into small balls. Roll the balls in icing sugar and transfer to the baking tray. Push an almond in the centre of each ghribia.",
+            "Bake until the biscuits are lightly golden, about 20 minutes. Keep an eye on them, they burn quickly."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/t3r3ka1560461972.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Corba",
+        "category": "Side",
+        "region": "Turkish",
+        "ingList": [
+            {
+                "ing": "Lentils",
+                "amount": "1 cup "
+            },
+            {
+                "ing": "Onion",
+                "amount": "1 large"
+            },
+            {
+                "ing": "Carrots",
+                "amount": "1 large"
+            },
+            {
+                "ing": "Tomato Puree",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Cumin",
+                "amount": "2 tsp"
+            },
+            {
+                "ing": "Paprika",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Mint",
+                "amount": "1/2 tsp"
+            },
+            {
+                "ing": "Thyme",
+                "amount": "1/2 tsp"
+            },
+            {
+                "ing": "Black Pepper",
+                "amount": "1/4 tsp"
+            },
+            {
+                "ing": "Red Pepper Flakes",
+                "amount": "1/4 tsp"
+            },
+            {
+                "ing": "Vegetable Stock",
+                "amount": "4 cups "
+            },
+            {
+                "ing": "Water",
+                "amount": "1 cup "
+            },
+            {
+                "ing": "Sea Salt",
+                "amount": "Pinch"
+            }
+        ],
+        "steps": [
+            "Pick through your lentils for any foreign debris, rinse them 2 or 3 times, drain, and set aside.  Fair warning, this will probably turn your lentils into a solid block that you’ll have to break up later",
+            "In a large pot over medium-high heat, sauté the olive oil and the onion with a pinch of salt for about 3 minutes, then add the carrots and cook for another 3 minutes.",
+            "Add the tomato paste and stir it around for around 1 minute. Now add the cumin, paprika, mint, thyme, black pepper, and red pepper as quickly as you can and stir for 10 seconds to bloom the spices. Congratulate yourself on how amazing your house now smells.",
+            "Immediately add the lentils, water, broth, and salt. Bring the soup to a (gentle) boil.",
+            "After it has come to a boil, reduce heat to medium-low, cover the pot halfway, and cook for 15-20 minutes or until the lentils have fallen apart and the carrots are completely cooked.",
+            "After the soup has cooked and the lentils are tender, blend the soup either in a blender or simply use a hand blender to reach the consistency you desire. Taste for seasoning and add more salt if necessary.",
+            "Serve with crushed-up crackers, torn up bread, or something else to add some extra thickness.  You could also use a traditional thickener (like cornstarch or flour), but I prefer to add crackers for some texture and saltiness.  Makes great leftovers, stays good in the fridge for about a week."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/58oia61564916529.jpg",
+        "tags": ["Soup"]
+    },
+    {
+        "title": "Christmas Pudding Trifle",
+        "category": "Dessert",
+        "region": "British",
+        "ingList": [
+            {
+                "ing": "Orange",
+                "amount": "3"
+            },
+            {
+                "ing": "Demerara Sugar",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Grand Marnier",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Christmas Pudding",
+                "amount": "300g"
+            },
+            {
+                "ing": "Custard",
+                "amount": "500g"
+            },
+            {
+                "ing": "Mascarpone",
+                "amount": "250g"
+            },
+            {
+                "ing": "Double Cream",
+                "amount": "284ml"
+            },
+            {
+                "ing": "Flaked Almonds",
+                "amount": "Handful"
+            },
+            {
+                "ing": "Dark Chocolate",
+                "amount": "Grated"
+            }
+        ],
+        "steps": [
+            "Peel the oranges using a sharp knife, ensuring all the pith is removed. Slice as thinly as possible and arrange over a dinner plate. Sprinkle with the demerara sugar followed by the Grand Marnier and set aside.",
+            "",
+            "Crumble the Christmas pudding into large pieces and scatter over the bottom of a trifle bowl. Lift the oranges onto the pudding in a layer and pour over any juices.",
+            "",
+            "Beat the mascarpone until smooth, then stir in the custard. Spoon the mixture over the top of the oranges.",
+            "",
+            "Lightly whip the cream and spoon over the custard. Sprinkle with the flaked almonds and grated chocolate. You can make this a day in advance if you like, chill until ready to serve."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/r33cud1576791081.jpg",
+        "tags": ["Christmas"]
+    },
+    {
+        "title": "Classic Christmas pudding",
+        "category": "Dessert",
+        "region": "British",
+        "ingList": [
+            {
+                "ing": "Almonds",
+                "amount": "50g"
+            },
+            {
+                "ing": "Bramley Apples",
+                "amount": "2 large"
+            },
+            {
+                "ing": "Candied Peel",
+                "amount": "200g"
+            },
+            {
+                "ing": "Nutmeg",
+                "amount": "1 whole"
+            },
+            {
+                "ing": "Raisins",
+                "amount": "1kg"
+            },
+            {
+                "ing": "Plain Flour",
+                "amount": "140g"
+            },
+            {
+                "ing": "Breadcrumbs",
+                "amount": "100g "
+            },
+            {
+                "ing": "Muscovado Sugar",
+                "amount": "100g "
+            },
+            {
+                "ing": "Eggs",
+                "amount": "3 Large"
+            },
+            {
+                "ing": "Brandy",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Butter",
+                "amount": "250g"
+            }
+        ],
+        "steps": [
+            "Get everything for the pudding prepared. Chop the almonds coarsely. Peel, core and chop the cooking apples. Sharpen your knife and chop the candied peel. (You can chop the almonds and apples in a food processor, but the peel must be done by hand.) Grate three quarters of the nutmeg (sounds a lot but it's correct).",
+            "",
+            "Mix the almonds, apples, candied peel, nutmeg, raisins, flour, breadcrumbs, light muscovado sugar, eggs and 2 tbsp brandy or cognac in a large bowl.",
+            "",
+            "Holding the butter in its wrapper, grate a quarter of it into the bowl, then stir everything together. Repeat until all the butter is grated, then stir for 3-4 mins – the mixture is ready when it subsides slightly after each stir. Ask the family to stir too, and get everyone to make a wish.",
+            "",
+            "Generously butter two 1.2 litre bowls and put a circle of baking parchment in the bottom of each. Pack in the pudding mixture. Cover with a double layer of baking parchment, pleating it to allow for expansion, then tie with string (keep the paper in place with a rubber band while tying). Trim off any excess paper.",
+            "",
+            "Now stand each bowl on a large sheet of foil and bring the edges up over the top, then put another sheet of foil over the top and bring it down underneath to make a double package (this makes the puddings watertight). Tie with more string, and make a handle for easy lifting in and out of the pan. Watch our video to see how to tie up a pudding correctly.",
+            "",
+            "Boil or oven steam the puddings for 8 hrs, topping up with water as necessary. Remove from the pans and leave to cool overnight. When cold, discard the messy wrappings and re-wrap in new baking parchment, foil and string. Store in a cool, dry place until Christmas.",
+            "",
+            "To make the brandy butter, cream the butter with the orange zest and icing sugar. Gradually beat in the brandy or cognac and chopped stem ginger. Put in a small bowl, fork the top attractively and put in the fridge to set. The butter will keep for a week in the fridge, or it can be frozen for up to six weeks.",
+            "",
+            "On Christmas Day, boil or oven steam for 1 hr. Unwrap and turn out. To flame, warm 3-4 tbsp brandy in a small pan, pour it over the pudding and set light to it."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/1d85821576790598.jpg",
+        "tags": ["Christmas"]
+    },
+    {
+        "title": "Christmas cake",
+        "category": "Dessert",
+        "region": "British",
+        "ingList": [
+            {
+                "ing": "Butter",
+                "amount": "200g"
+            },
+            {
+                "ing": "Muscovado Sugar",
+                "amount": "200g"
+            },
+            {
+                "ing": "Plain Flour",
+                "amount": "200g"
+            },
+            {
+                "ing": "Eggs",
+                "amount": "4 Beaten"
+            },
+            {
+                "ing": "Ground Almonds",
+                "amount": "50g"
+            },
+            {
+                "ing": "Sherry",
+                "amount": "100ml"
+            },
+            {
+                "ing": "Candied Peel",
+                "amount": "85g"
+            },
+            {
+                "ing": "Glace Cherry",
+                "amount": "85g"
+            },
+            {
+                "ing": "Raisins",
+                "amount": "250g"
+            },
+            {
+                "ing": "Currants",
+                "amount": "250g"
+            },
+            {
+                "ing": "Pecan Nuts",
+                "amount": "100g "
+            },
+            {
+                "ing": "Lemon",
+                "amount": "Grated zest of 1"
+            },
+            {
+                "ing": "Mixed Spice",
+                "amount": "1 ½ tbsp"
+            },
+            {
+                "ing": "Rose water",
+                "amount": "1 ½ tbsp"
+            },
+            {
+                "ing": "Vanilla Extract",
+                "amount": "1/2 tsp"
+            },
+            {
+                "ing": "Baking Powder",
+                "amount": "1/2 tsp"
+            }
+        ],
+        "steps": [
+            "Heat oven to 160C/fan 140C/gas 3. Line the base and sides of a 20 cm round, 7.5 cm deep cake tin. Beat the butter and sugar with an electric hand mixer for 1-2 mins until very creamy and pale in colour, scraping down the sides of the bowl half way through. Stir in a spoonful of the flour, then stir in the beaten egg and the rest of the flour alternately, a quarter at a time, beating well each time with a wooden spoon. Stir in the almonds.",
+            "",
+            "Mix in the sherry (the mix will look curdled), then add the peel, cherries, raisins, cherries, nuts, lemon zest, spice, rosewater and vanilla. Beat together to mix, then stir in the baking powder.",
+            "",
+            "Spoon mixture into the tin and smooth the top, making a slight dip in the centre. Bake for 30 mins, then lower temperature to 150C/fan 130C/gas 2 and bake a further 2-2¼ hrs, until a skewer insterted in the middle comes out clean. Leave to cool in the tin, then take out of the tin and peel off the lining paper. When completely cold, wrap well in cling film and foil to store until ready to decorate. The cake will keep for several months."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/ldnrm91576791881.jpg",
+        "tags": ["Christmas"]
+    },
+    {
+        "title": "Corned Beef and Cabbage",
+        "category": "Beef",
+        "region": "Irish",
+        "ingList": [
+            {
+                "ing": "Beef Brisket",
+                "amount": "3 Lbs"
+            },
+            {
+                "ing": "Small Potatoes",
+                "amount": "10"
+            },
+            {
+                "ing": "Carrots",
+                "amount": "5"
+            },
+            {
+                "ing": "Cabbage",
+                "amount": "1 head"
+            }
+        ],
+        "steps": [
+            "1",
+            "",
+            "Place corned beef in large pot or Dutch oven and cover with water. Add the spice packet that came with the corned beef. Cover pot and bring to a boil, then reduce to a simmer. Simmer approximately 50 minutes per pound or until tender.",
+            "",
+            "2",
+            "",
+            "Add whole potatoes and peeled and cut carrots, and cook until the vegetables are almost tender. Add cabbage and cook for 15 more minutes. Remove meat and let rest 15 minutes.",
+            "",
+            "3",
+            "",
+            "Place vegetables in a bowl and cover. Add as much broth (cooking liquid reserved in the Dutch oven or large pot) as you want. Slice meat across the grain."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/xb97a81583266727.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Crispy Sausages and Greens",
+        "category": "Pork",
+        "region": "Irish",
+        "ingList": [
+            {
+                "ing": "Kale",
+                "amount": "1  bunch"
+            },
+            {
+                "ing": "Italian Fennel Sausages",
+                "amount": "8"
+            },
+            {
+                "ing": "Cabbage",
+                "amount": "1 Head chopped"
+            },
+            {
+                "ing": "Garlic Clove",
+                "amount": "8"
+            },
+            {
+                "ing": "Onion",
+                "amount": "Sliced"
+            },
+            {
+                "ing": "Shiitake Mushrooms",
+                "amount": "Sliced"
+            },
+            {
+                "ing": "Chicken Stock",
+                "amount": "1 cup "
+            },
+            {
+                "ing": "Salt",
+                "amount": " "
+            },
+            {
+                "ing": "Pepper",
+                "amount": " "
+            }
+        ],
+        "steps": [
+            "Preheat the oven to 350°. Remove the stems from one bunch of Tuscan kale and tear the leaves into 1\" pieces (mustard greens, collards, spinach, and chard are great, too). Coarsely chop half a head of green cabbage. Combine the greens in a large baking dish and add 4 cloves of thinly sliced garlic. Adding some sliced onions and shiitake mushrooms at this point is optional, but highly recommended (I'll sauté the onions and mushrooms in a cast iron baking dish right on the stove before adding to the greens). Coat the greens with some olive oil and pour ½ cup chicken stock or broth over everything. Cover the dish with foil and bake until the greens are wilted, about 15 minutes. Remove foil and season with salt and pepper. Continue to bake until cabbage is tender, about 20-25 minutes more.",
+            "",
+            "Meanwhile, heat a little olive oil in a large skillet over medium-high. Prick four sweet Italian sausages with a fork and cook until browned on all sides and cooked through, 10 to 12 minutes. When the greens are done, slice the sausage and toss into the greens with a splash of your favorite vinegar (I like sherry or red wine)."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/st1ifa1583267248.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Chicken Quinoa Greek Salad",
+        "category": "Chicken",
+        "region": "Greek",
+        "ingList": [
+            {
+                "ing": "Quinoa",
+                "amount": "225g"
+            },
+            {
+                "ing": "Butter",
+                "amount": "25g"
+            },
+            {
+                "ing": "Red Chilli",
+                "amount": "1 chopped"
+            },
+            {
+                "ing": "Garlic",
+                "amount": "1 clove finely chopped"
+            },
+            {
+                "ing": "Chicken Breast",
+                "amount": "400g"
+            },
+            {
+                "ing": "Olive Oil",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Black Olives",
+                "amount": "Handful"
+            },
+            {
+                "ing": "Red Onions",
+                "amount": "1 chopped"
+            },
+            {
+                "ing": "Feta",
+                "amount": "100g "
+            },
+            {
+                "ing": "Mint",
+                "amount": "Chopped"
+            },
+            {
+                "ing": "Lemon",
+                "amount": "Juice of 1/2"
+            }
+        ],
+        "steps": [
+            "Cook the quinoa following the pack instructions, then rinse in cold water and drain thoroughly.",
+            "",
+            "Meanwhile, mix the butter, chilli and garlic into a paste. Toss the chicken fillets in 2 tsp of the olive oil with some seasoning. Lay in a hot griddle pan and cook for 3-4 mins each side or until cooked through. Transfer to a plate, dot with the spicy butter and set aside to melt.",
+            "",
+            "Next, tip the tomatoes, olives, onion, feta and mint into a bowl. Toss in the cooked quinoa. Stir through the remaining olive oil, lemon juice and zest, and season well. Serve with the chicken fillets on top, drizzled with any buttery chicken juices."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/k29viq1585565980.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Chick-Fil-A Sandwich",
+        "category": "Chicken",
+        "region": "American",
+        "ingList": [
+            {
+                "ing": "Chicken Breast",
+                "amount": "1"
+            },
+            {
+                "ing": "Pickle Juice",
+                "amount": "1/4 cup"
+            },
+            {
+                "ing": "Egg",
+                "amount": "1"
+            },
+            {
+                "ing": "Milk",
+                "amount": "1/4 cup"
+            },
+            {
+                "ing": "Flour",
+                "amount": "1/2 cup "
+            },
+            {
+                "ing": "Icing Sugar",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Paprika",
+                "amount": "1/2 tsp"
+            },
+            {
+                "ing": "Salt",
+                "amount": "1/2 tsp"
+            },
+            {
+                "ing": "Black Pepper",
+                "amount": "1/4 tsp"
+            },
+            {
+                "ing": "Garlic Powder",
+                "amount": "1/4 tsp"
+            },
+            {
+                "ing": "Celery Salt",
+                "amount": "1/4 tsp"
+            },
+            {
+                "ing": "Cayenne Pepper",
+                "amount": "1/2 tsp"
+            },
+            {
+                "ing": "Olive Oil",
+                "amount": "1 cup "
+            },
+            {
+                "ing": "Sesame Seed Burger Buns",
+                "amount": "1"
+            }
+        ],
+        "steps": [
+            "Wrap the chicken loosely between plastic wrap and pound gently with the flat side of a meat tenderizer until about 1/2 inch thick all around.",
+            "Cut into two pieces, as even as possible.",
+            "Marinate in the pickle juice for 30 minutes to one hour (add a teaspoon of Tabasco sauce now for a spicy sandwich).",
+            "Beat the egg with the milk in a bowl.",
+            "Combine the flour, sugar, and spices in another bowl.",
+            "Dip the chicken pieces each into the egg on both sides, then coat in flour on both sides.",
+            "Heat the oil in a skillet (1/2 inch deep) to about 345-350.",
+            "Fry each cutlet for 2 minutes on each side, or until golden and cooked through.",
+            "Blot on paper and serve on toasted buns with pickle slices."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/sbx7n71587673021.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Coddled pork with cider",
+        "category": "Pork",
+        "region": "Irish",
+        "ingList": [
+            {
+                "ing": "Butter",
+                "amount": "Knob"
+            },
+            {
+                "ing": "Pork Chops",
+                "amount": "2"
+            },
+            {
+                "ing": "Bacon",
+                "amount": "4"
+            },
+            {
+                "ing": "Potatoes",
+                "amount": "2"
+            },
+            {
+                "ing": "Carrots",
+                "amount": "1"
+            },
+            {
+                "ing": "Swede",
+                "amount": "1/2 "
+            },
+            {
+                "ing": "Cabbage",
+                "amount": "1/2 "
+            },
+            {
+                "ing": "Bay Leaf",
+                "amount": "1"
+            },
+            {
+                "ing": "Cider",
+                "amount": "100ml"
+            },
+            {
+                "ing": "Chicken Stock",
+                "amount": "100g "
+            }
+        ],
+        "steps": [
+            "STEP 1",
+            "Heat the butter in a casserole dish until sizzling, then fry the pork for 2-3 mins on each side until browned. Remove from the pan.",
+            "",
+            "STEP 2",
+            "Tip the bacon, carrot, potatoes and swede into the pan, then gently fry until slightly coloured. Stir in the cabbage, sit the chops back on top, add the bay leaf, then pour over the cider and stock. Cover the pan, then leave everything to gently simmer for 20 mins until the pork is cooked through and the vegetables are tender.",
+            "",
+            "STEP 3",
+            "Serve at the table spooned straight from the dish."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/7vpsfp1608588991.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Cevapi Sausages",
+        "category": "Beef",
+        "region": "Croatian",
+        "ingList": [
+            {
+                "ing": "Minced Beef",
+                "amount": "500g"
+            },
+            {
+                "ing": "Minced Pork",
+                "amount": "250g"
+            },
+            {
+                "ing": "Onion",
+                "amount": "1"
+            },
+            {
+                "ing": "Garlic",
+                "amount": "4 cloves"
+            },
+            {
+                "ing": "Parsley",
+                "amount": "3 tblsp chopped"
+            },
+            {
+                "ing": "Paprika",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Baking Powder",
+                "amount": "3/4 teaspoon"
+            },
+            {
+                "ing": "Breadcrumbs",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Water",
+                "amount": "3 tbs"
+            },
+            {
+                "ing": "Vegetable Stock Cube",
+                "amount": "1"
+            },
+            {
+                "ing": "Salt",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Pepper",
+                "amount": "1 tsp "
+            }
+        ],
+        "steps": [
+            "Place the ground meat in a bowl. Chop the onion very finely and grate the garlic cloves. Add to the bowl. Add the chopped parsley, all sorts of paprika, baking soda, dried breadcrumbs, water, Vegeta, salt, and pepper.",
+            "Mix well with the hand mixer fitted with the dough hooks. Cover the bowl with cling film/ plastic foil and leave to rest for 1 or 2 hours in the refrigerator.",
+            "Take portions of the meat mixture, about 50-55 g/ 1.7-1.9 oz/ ¼ cup portions, and form the cevapi. The rolls should be about as thick as your thumb and about 7-10 cm/ 3-4 inches long. I had 18 sausages. The recipe can be easily doubled.",
+            "Grill the cevapcici on the hot grill pan or on the barbecue for about 12-14 minutes, turning them several times in between, or until brown and cooked through. I checked by cutting one in the middle and then grilling the following batches for the same period of time.",
+            "Serve hot as suggested above. The cevapcici can be reheated in the oven at 180 degrees Celsius/ 350 degrees Fahrenheit for about 10 minutes or until heated through. Check one, if it is not hot enough, give the sausages a few more minutes."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/vc08jn1628769553.jpg",
+        "tags": ["Sausages"]
+    },
+    {
+        "title": "Croatian lamb peka",
+        "category": "Beef",
+        "region": "Croatian",
+        "ingList": [
+            {
+                "ing": "Potatoes",
+                "amount": "600g"
+            },
+            {
+                "ing": "Courgettes",
+                "amount": "1 chopped"
+            },
+            {
+                "ing": "Carrots",
+                "amount": "1 chopped"
+            },
+            {
+                "ing": "Green Pepper",
+                "amount": "1 chopped"
+            },
+            {
+                "ing": "Aubergine",
+                "amount": "1 small"
+            },
+            {
+                "ing": "Onion",
+                "amount": "1 Large Chopped"
+            },
+            {
+                "ing": "Lamb Shoulder",
+                "amount": "800g"
+            },
+            {
+                "ing": "Garlic Sauce",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Tomato Puree",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Olive Oil",
+                "amount": "80 ml "
+            },
+            {
+                "ing": "Thyme",
+                "amount": "Sprinking"
+            },
+            {
+                "ing": "White Wine",
+                "amount": "250ml"
+            },
+            {
+                "ing": "Pepper",
+                "amount": "Pinch"
+            }
+        ],
+        "steps": [
+            "Preheat oven to 200°C fan / 220°C / 425°F / Gas mark 7",
+            "If you have not bought diced lamb, cut your lamb shoulder or leg into large chunks and place to one side.",
+            "Chunks of chopped lamb of a red chopping board",
+            "Make oil marinade -",
+            "Mix 80ml of olive oil in a bowl with garlic puree, sundried tomato puree ,black pepper and salt.",
+            "olive oil, gia sundried tomato puree and gia garlic puree and black pepper mixed together in a silver bowl to make Croatian peka",
+            "Add potatoes and vegetables into a large lidded casserole dish.",
+            "Chopped up vegetables which consist of chopped up red onion, courgette, potatoes red peppers in a cast iron pan",
+            "Place diced lamb on top of the vegetables, pour the marinade and wine over the top.",
+            "Chunks of lamb covered in in a sundried tomato oil sauce which is on top of chopped red onion, aubergine, courgette and potatoes in a cast iron pan",
+            "Add the rosemary, thyme and sage, trying to keep the herbs on top.",
+            "So you can easily remove the herb stalks once cooked.",
+            "Chunks of lamb coated in a sundried tomato oil sauce and covered with thyme, rosemary and sage which is on top of chopped red onion, aubergine, courgette and potatoes in a cast iron pan",
+            "Place lid on the casserole dish and cook for 1hr 30 minute",
+            "If you do not have a lid cover very well with kitchen foil",
+            "Cast iron dish with lid on in the oven",
+            "Take the lid off, remove any thick herb stems. Stir in 2 tbsp of olive oil.",
+            "Cook for a further 20-30 mins.",
+            "Cooked Croatian Lamb Peka in a cast iron pan in the oven",
+            "Serve with fresh homemade bread to dip into the juices."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/pn59o51628769837.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Croatian Bean Stew",
+        "category": "Beef",
+        "region": "Croatian",
+        "ingList": [
+            {
+                "ing": "Cannellini Beans",
+                "amount": "2 cans"
+            },
+            {
+                "ing": "Vegetable Oil",
+                "amount": "3 tbs"
+            },
+            {
+                "ing": "Tomatoes",
+                "amount": "2 cups "
+            },
+            {
+                "ing": "Challots",
+                "amount": "5"
+            },
+            {
+                "ing": "Garlic",
+                "amount": "2 cloves"
+            },
+            {
+                "ing": "Parsley",
+                "amount": "Pinch"
+            },
+            {
+                "ing": "Chorizo",
+                "amount": "1/2 kg chopped "
+            }
+        ],
+        "steps": [
+            "Heat the oil in a pan. Add the chopped vegetables and sauté until tender. Take a pot, empty the beans together with the vegetables into it, put the sausages inside and cook for further 20 minutes on a low heat. Or, put it in an oven and bake it at a temperature of 180ºC/350ºF for 30 minutes. This dish is even better reheated the next day."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/tnwy8m1628770384.jpg",
+        "tags": ["Warming", " Soup", " Beans"]
+    },
+    {
+        "title": "Chivito uruguayo",
+        "category": "Beef",
+        "region": "Unknown",
+        "ingList": [
+            {
+                "ing": "Beef Brisket",
+                "amount": "2"
+            },
+            {
+                "ing": "Bread",
+                "amount": "2"
+            },
+            {
+                "ing": "Lettuce",
+                "amount": "1"
+            },
+            {
+                "ing": "Tomato",
+                "amount": "1"
+            },
+            {
+                "ing": "Ham",
+                "amount": "100g "
+            },
+            {
+                "ing": "Mozzarella",
+                "amount": "100g "
+            },
+            {
+                "ing": "Bacon",
+                "amount": "100g "
+            },
+            {
+                "ing": "Egg",
+                "amount": "1"
+            },
+            {
+                "ing": "Onion",
+                "amount": "1"
+            },
+            {
+                "ing": "Pepper",
+                "amount": "1"
+            }
+        ],
+        "steps": [
+            "Crush the meat so that it is finite and we put it on a griddle to brown. Put the eggs, bacon and ham to fry.",
+            "Cut the bread in half, put the beef brisket, the fried eggs, the bacon, the ham, the mozzarella, the tomato and the lettuce. Cover with the other half of the bread and serve."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/n7qnkb1630444129.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Crispy Eggplant",
+        "category": "Vegetarian",
+        "region": "Filipino",
+        "ingList": [
+            {
+                "ing": "Egg Plants",
+                "amount": "1 large"
+            },
+            {
+                "ing": "Breadcrumbs",
+                "amount": "1 cup "
+            },
+            {
+                "ing": "Sesame Seed",
+                "amount": "50g"
+            },
+            {
+                "ing": "Eggs",
+                "amount": "2"
+            },
+            {
+                "ing": "Salt",
+                "amount": "To taste"
+            },
+            {
+                "ing": "Pepper",
+                "amount": "To taste"
+            },
+            {
+                "ing": "Vegetable Oil",
+                "amount": "For frying"
+            }
+        ],
+        "steps": [
+            "Slice eggplant into 1 cm (0.4-inch) slices. Place them in a bowl and sprinkle them with salt. allow them to sit for 30 minutes to render some of their liquid and bitterness.",
+            "2. After 30 minutes wash eggplant slices from salt and pat dry with a kitchen towel.",
+            "3. In a large bowl/plate place breadcrumbs and sesame seeds. In another bowl beat 2 eggs with pinch salt and pepper.",
+            "4. Heal oil in a large skillet over high heat.",
+            "5. Dip eggplant slices in egg, then in crumbs, and place in hot oil. Fry 2 to 3 minutes on each side, or until golden brown. Drain on a paper towel. ",
+            ""
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/c7lzrl1683208757.jpg",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Cabbage Soup (Shchi)",
+        "category": "Vegetarian",
+        "region": "Russian",
+        "ingList": [
+            {
+                "ing": "Unsalted Butter",
+                "amount": "3 tbs"
+            },
+            {
+                "ing": "Onion",
+                "amount": "1 large"
+            },
+            {
+                "ing": "Cabbage",
+                "amount": "1 medium"
+            },
+            {
+                "ing": "Carrots",
+                "amount": "1"
+            },
+            {
+                "ing": "Celery",
+                "amount": "1"
+            },
+            {
+                "ing": "Bay Leaf",
+                "amount": "1"
+            },
+            {
+                "ing": "Vegetable Stock",
+                "amount": "8 cups "
+            },
+            {
+                "ing": "Potatoes",
+                "amount": "2 large"
+            },
+            {
+                "ing": "Tomatoes",
+                "amount": "2 large"
+            },
+            {
+                "ing": "Sour Cream",
+                "amount": "Garnish"
+            },
+            {
+                "ing": "Dill",
+                "amount": "Garnish"
+            }
+        ],
+        "steps": [
+            "Add the butter to a large Dutch oven or other heavy-duty pot over medium heat. When the butter has melted, add the onion and sauté until translucent.",
+            "Add the cabbage, carrot, and celery. Sauté until the vegetables begin to soften, stirring frequently, about 3 minutes.",
+            "Add the bay leaf and vegetable stock and bring to a boil over high heat. Reduce the heat to low and simmer, covered, until the vegetables are crisp-tender, about 15 minutes.",
+            "Add the potatoes and bring it back to a boil over high heat. Reduce the heat to low and simmer, covered, until the potatoes are tender, about 10 minutes.",
+            "Add the tomatoes (or undrained canned tomatoes) and bring the soup back to a boil over high heat. Reduce the heat to low and simmer, uncovered, for 5 minutes. Season to taste with salt and pepper.",
+            "emove and discard the bay leaf from the pot.",
+            "Serve topped with fresh sour cream and fresh dill."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/60oc3k1699009846.jpg",
+        "tags": ["soup"]
+    }
+]

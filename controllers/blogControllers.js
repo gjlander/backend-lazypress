@@ -115,18 +115,18 @@ const addBlogPage = async (req, res, next) => {
     try {
         const { id } = req.params;
         // const { userId } = req.auth;
-        const { imgUrl, title, text, button } = req.body;
+        // const { title, category, region, ingList, steps, imgUrl } = req.body;
 
         // if (!userId) throw new ErrorStatus("Missing userId", 400);
 
         if (!id.match(/^[a-f\d]{24}$/i))
             throw new ErrorStatus("Invalid Id", 400);
 
-        if (!imgUrl || !title || !text || !button)
-            throw new ErrorStatus(
-                "All fields must be present to make new blog page.",
-                400
-            );
+        // if (!title || !category || !region || !ingList || !steps || !imgUrl)
+        //     throw new ErrorStatus(
+        //         "All fields must be present to make new blog page.",
+        //         400
+        //     );
         // if (userId !== clerkUserId)
         //     throw new ErrorStatus(
         //         "You are not authorized to make changes to this site",
@@ -135,7 +135,7 @@ const addBlogPage = async (req, res, next) => {
 
         const parentBlog = await BlogModel.findById(id);
         const childPages = parentBlog.pages.home.blogPages;
-        childPages.push({ imgUrl, title, text, button });
+        childPages.push(req.body);
 
         await parentBlog.save();
 
@@ -261,6 +261,42 @@ const clerkPostTest = async (req, res) => {
     res.json(req.body);
 };
 
+const migrateMeals = async (req, res, next) => {
+    try {
+        const { id } = req.params;
+        const mealsArray = req.body;
+        // const { userId } = req.auth;
+        // const { title, category, region, ingList, steps, imgUrl } = req.body;
+
+        // if (!userId) throw new ErrorStatus("Missing userId", 400);
+
+        if (!id.match(/^[a-f\d]{24}$/i))
+            throw new ErrorStatus("Invalid Id", 400);
+
+        // if (!title || !category || !region || !ingList || !steps || !imgUrl)
+        //     throw new ErrorStatus(
+        //         "All fields must be present to make new blog page.",
+        //         400
+        //     );
+        // if (userId !== clerkUserId)
+        //     throw new ErrorStatus(
+        //         "You are not authorized to make changes to this site",
+        //         401
+        //     );
+
+        const parentBlog = await BlogModel.findById(id);
+        const childPages = parentBlog.pages.home.blogPages;
+        mealsArray.forEach((meal) => childPages.push(meal));
+        // childPages.push(req.body);
+
+        await parentBlog.save();
+
+        return res.status(201).json(childPages);
+    } catch (error) {
+        next(error);
+    }
+};
+
 export {
     allBlogs,
     createBlog,
@@ -274,4 +310,5 @@ export {
     singlePage,
     getClerkAuth,
     clerkPostTest,
+    migrateMeals,
 };
