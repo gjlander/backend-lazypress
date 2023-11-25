@@ -123,7 +123,7 @@ const getBlogPages = async (req, res, next) => {
 
         // await parentBlog.save();
 
-        return res.status(201).json(childPages);
+        return res.json(childPages);
     } catch (error) {
         next(error);
     }
