@@ -1,6 +1,7 @@
 import fs from "fs/promises";
-
+// const letters =["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "r", "s", "t", "v", "w", "y"]
 try {
+    // letters.forEach((letter)=> {})
     const data = await fetch(
         "https://themealdb.com/api/json/v1/1/search.php?f=y"
     );
@@ -40,6 +41,7 @@ try {
             ingList: ingWAmounts,
             steps: stepsArray,
             imgUrl: meal.strMealThumb,
+            videoUrl: meal.strYoutube,
             tags: tagsArray || ["Misc"],
         };
         return usableObj;
@@ -50,6 +52,7 @@ try {
     //     console.log(meal);
     // });
     await fs.writeFile("yMeals.json", JSON.stringify(formattedData), "utf8");
+    console.log("json file added");
 } catch (err) {
     console.log(err.message);
 }
