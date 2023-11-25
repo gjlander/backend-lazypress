@@ -110,6 +110,24 @@ const findBlogsFromUser = async (req, res, next) => {
         next(error);
     }
 };
+const getBlogPages = async (req, res, next) => {
+    try {
+        const { id } = req.params;
+
+        if (!id.match(/^[a-f\d]{24}$/i))
+            throw new ErrorStatus("Invalid Id", 400);
+
+        const parentBlog = await BlogModel.findById(id);
+        const childPages = parentBlog.pages.home.blogPages;
+        // childPages.push(req.body);
+
+        // await parentBlog.save();
+
+        return res.status(201).json(childPages);
+    } catch (error) {
+        next(error);
+    }
+};
 
 const addBlogPage = async (req, res, next) => {
     try {
@@ -303,6 +321,7 @@ export {
     oneBlog,
     editBlog,
     findBlogsFromUser,
+    getBlogPages,
     addBlogPage,
     deleteBlogPage,
     addHero,
