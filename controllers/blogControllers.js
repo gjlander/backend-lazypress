@@ -1,5 +1,7 @@
 import ErrorStatus from "../utils/errorStatus.js";
 import BlogModel from "../models/blogModel.js";
+import recipeIndex from "../db/algoliaClient.js";
+// import {saveObjects} from "algoliasearch"
 
 const allBlogs = async (req, res, next) => {
     try {
@@ -286,8 +288,6 @@ const migrateMeals = async (req, res, next) => {
         // const { userId } = req.auth;
         // const { title, category, region, ingList, steps, imgUrl } = req.body;
 
-        // if (!userId) throw new ErrorStatus("Missing userId", 400);
-
         if (!id.match(/^[a-f\d]{24}$/i))
             throw new ErrorStatus("Invalid Id", 400);
 
@@ -295,11 +295,6 @@ const migrateMeals = async (req, res, next) => {
         //     throw new ErrorStatus(
         //         "All fields must be present to make new blog page.",
         //         400
-        //     );
-        // if (userId !== clerkUserId)
-        //     throw new ErrorStatus(
-        //         "You are not authorized to make changes to this site",
-        //         401
         //     );
 
         const parentBlog = await BlogModel.findById(id);
@@ -309,7 +304,30 @@ const migrateMeals = async (req, res, next) => {
 
         await parentBlog.save();
 
-        return res.status(201).json(childPages);
+        const algPages = childPages.map((page) => {
+            // const { steps, videoUrl, ...rest } = page;
+            // const algObj = { ...rest, objectID: page._id };
+            const { _doc } = page;
+            const algPage = { ..._doc, objectID: page._id.toString() };
+            // page.objectID = page._id.toString();
+            // console.log(page._id.toString());
+            // console.log("page", page);
+            return algPage;
+        });
+
+        // console.log("algPage", algPages[0]);
+        const algIds = await recipeIndex.saveObjects(algPages, {
+            autoGenerateObjectIDIfNotExist: false,
+        });
+        // recipeIndex
+        //     .saveObjects(algPages, {
+        //         autoGenerateObjectIDIfNotExist: false,
+        //     })
+        //     .then((ids) => console.log(ids))
+        //     .catch((err) => next(err));
+        console.log(algIds);
+
+        return res.status(201).json(algPages);
     } catch (error) {
         next(error);
     }
