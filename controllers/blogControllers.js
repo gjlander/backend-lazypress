@@ -134,6 +134,7 @@ const getBlogPages = async (req, res, next) => {
 const addBlogPage = async (req, res, next) => {
     try {
         const { id } = req.params;
+
         // const { userId } = req.auth;
         // const { title, category, region, ingList, steps, imgUrl } = req.body;
 
@@ -159,7 +160,17 @@ const addBlogPage = async (req, res, next) => {
 
         await parentBlog.save();
 
-        return res.status(201).json(childPages);
+        const newPage = childPages.slice(-1);
+
+        const { _doc } = newPage[0];
+        const algPage = { ..._doc, objectID: newPage[0]._id.toString() };
+
+        const algId = await recipeIndex.saveObject(algPage, {
+            autoGenerateObjectIDIfNotExist: false,
+        });
+
+        console.log(algId);
+        return res.status(201).json(newPage[0]);
     } catch (error) {
         next(error);
     }
