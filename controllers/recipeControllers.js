@@ -92,42 +92,81 @@ const oneRecipe = async (req, res, next) => {
 const editRecipe = async (req, res, next) => {
     try {
         const { id } = req.params;
-        const { userId } = req.auth;
-        const { pages, dashboard, clerkUser, clerkUserId } = req.body;
+        // const { userId } = req.auth;
+        const {
+            title,
+            category,
+            region,
+            ingList,
+            steps,
+            text,
+            button,
+            imgUrl,
+            videoUrl,
+            tags,
+            clerkUserId,
+        } = req.body;
 
-        if (!userId) throw new ErrorStatus("Missing userId", 400);
+        // if (!userId) throw new ErrorStatus("Missing userId", 400);
 
         if (!id.match(/^[a-f\d]{24}$/i))
             throw new ErrorStatus("Invalid Id", 400);
 
-        if (!pages || !dashboard || !clerkUser || !clerkUserId)
+        if (
+            !title ||
+            !category ||
+            !region ||
+            !ingList ||
+            !steps ||
+            !text ||
+            !button ||
+            !imgUrl ||
+            !videoUrl ||
+            !tags
+        )
             throw new ErrorStatus(
                 "All fields must be present to properly update document",
                 400
             );
-        if (userId !== clerkUserId)
-            throw new ErrorStatus(
-                "You are not authorized to make changes to this site",
-                403
-            );
+        // if (userId !== clerkUserId)
+        //     throw new ErrorStatus(
+        //         "You are not authorized to make changes to this site",
+        //         403
+        //     );
 
         const updatedRecipe = await RecipeModel.findByIdAndUpdate(
             id,
             {
-                pages,
-                dashboard,
-                clerkUser,
-                clerkUserId,
+                title,
+                category,
+                region,
+                ingList,
+                steps,
+                text,
+                button,
+                imgUrl,
+                videoUrl,
+                tags,
             },
             { new: true, runValidators: true }
         );
+
+        const { _doc } = updatedRecipe;
+        const algPage = { ..._doc, objectID: updatedRecipe._id.toString() };
+
+        // console.log("algPage", algPages[0]);
+        const algIds = await recipesIndex.saveObject(algPage, {
+            autoGenerateObjectIDIfNotExist: false,
+        });
+
+        console.log(algIds);
 
         if (!updatedRecipe)
             throw new ErrorStatus(
                 `Recipe with id of ${id} could not be found`,
                 404
             );
-        console.log("req.auth", userId);
+        // console.log("req.auth", userId);
         console.log("req.body", clerkUserId);
         return res.json(updatedRecipe);
     } catch (error) {

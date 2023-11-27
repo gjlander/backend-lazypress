@@ -19,7 +19,7 @@ recipeRouter.route("/").get(allRecipes).post(createRecipe);
 recipeRouter
     .route("/:id")
     .get(oneRecipe)
-    .put(ClerkExpressRequireAuth(), editRecipe)
+    .put(/*ClerkExpressRequireAuth(),*/ editRecipe)
     .delete(deleteRecipePage);
 //updated to get based on clerkId
 recipeRouter.route("/user/:id").get(findRecipesFromUser);
