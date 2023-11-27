@@ -13,6 +13,7 @@ import {
     addHero,
     deleteHero,
     singlePage,
+    editBlogPages,
     getClerkAuth,
     clerkPostTest,
     migrateMeals,
@@ -29,10 +30,15 @@ blogRouter.route("/user/:id").get(findBlogsFromUser);
 blogRouter
     .route("/singlepage/:blogId/:pageId")
     .get(singlePage)
+    // .put(editBlogPages)
     .delete(deleteBlogPage);
 
-//didn't end up needing them, but hey, I learned something
-blogRouter.route("/blogPages/:id").get(getBlogPages).post(addBlogPage);
+//ended up needing them!
+blogRouter
+    .route("/blogPages/:id")
+    .get(getBlogPages)
+    .post(addBlogPage)
+    .put(editBlogPages);
 // .delete(deleteBlogPage);
 blogRouter.route("/hero/:id").post(addHero).delete(deleteHero);
 

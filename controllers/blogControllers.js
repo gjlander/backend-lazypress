@@ -176,35 +176,6 @@ const addBlogPage = async (req, res, next) => {
     }
 };
 
-const deleteBlogPage = async (req, res, next) => {
-    try {
-        const { blogId, pageId } = req.params;
-        // const { userId } = req.auth;
-
-        // if (!userId) throw new ErrorStatus("Missing userId", 400);
-
-        if (!blogId.match(/^[a-f\d]{24}$/i) || !pageId.match(/^[a-f\d]{24}$/i))
-            throw new ErrorStatus("Invalid Id", 400);
-
-        // if (userId !== clerkUserId)
-        //     throw new ErrorStatus(
-        //         "You are not authorized to make changes to this site",
-        //         403
-        //     );
-
-        const parentBlog = await BlogModel.findById(blogId);
-        const childPage = parentBlog.pages.home.blogPages.id(pageId);
-        childPage.deleteOne();
-
-        await parentBlog.save();
-        await recipeIndex.deleteObject(pageId);
-
-        return res.json(`Successfully deleted blogPage ${pageId}`);
-    } catch (error) {
-        next(error);
-    }
-};
-
 const addHero = async (req, res, next) => {
     try {
         const { id } = req.params;
@@ -278,6 +249,64 @@ const singlePage = async (req, res, next) => {
         const childPage = parentBlog.pages.home.blogPages.id(pageId);
 
         return res.json(childPage);
+    } catch (error) {
+        next(error);
+    }
+};
+const editBlogPages = async (req, res, next) => {
+    try {
+        const { id } = req.params;
+        const pageUpdates = req.body;
+
+        if (!blogId.match(/^[a-f\d]{24}$/i) || !pageId.match(/^[a-f\d]{24}$/i))
+            throw new ErrorStatus("Invalid Id", 400);
+
+        // const parentBlog = await BlogModel.findById(blogId);
+        // let childPage = parentBlog.pages.home.blogPages.id(pageId);
+        // childPage = pageEdits;
+
+        // await parentBlog.save();
+        const updatedBlog = await BlogModel.findByIdAndUpdate(
+            id,
+            {
+                pages: {
+                    home: {
+                        blogPages: pageUpdates,
+                    },
+                },
+            },
+            { new: true, runValidators: true }
+        );
+
+        return res.json(updatedBlog.pages.home.blogPages);
+    } catch (error) {
+        next(error);
+    }
+};
+const deleteBlogPage = async (req, res, next) => {
+    try {
+        const { blogId, pageId } = req.params;
+        // const { userId } = req.auth;
+
+        // if (!userId) throw new ErrorStatus("Missing userId", 400);
+
+        if (!blogId.match(/^[a-f\d]{24}$/i) || !pageId.match(/^[a-f\d]{24}$/i))
+            throw new ErrorStatus("Invalid Id", 400);
+
+        // if (userId !== clerkUserId)
+        //     throw new ErrorStatus(
+        //         "You are not authorized to make changes to this site",
+        //         403
+        //     );
+
+        const parentBlog = await BlogModel.findById(blogId);
+        const childPage = parentBlog.pages.home.blogPages.id(pageId);
+        childPage.deleteOne();
+
+        await parentBlog.save();
+        await recipeIndex.deleteObject(pageId);
+
+        return res.json(`Successfully deleted blogPage ${pageId}`);
     } catch (error) {
         next(error);
     }
@@ -356,6 +385,7 @@ export {
     addHero,
     deleteHero,
     singlePage,
+    editBlogPages,
     getClerkAuth,
     clerkPostTest,
     migrateMeals,
