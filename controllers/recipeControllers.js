@@ -174,35 +174,14 @@ const editRecipe = async (req, res, next) => {
     }
 };
 
-const findRecipesFromUser = async (req, res, next) => {
+const deleteRecipe = async (req, res, next) => {
     try {
         const { id } = req.params;
-
-        // if (!id.match(/^[a-f\d]{24}$/i))
-        //     throw new ErrorStatus("Invalid Id", 400);
-
-        const findRecipe = await RecipeModel.find({ clerkUserId: id });
-        // .populate(
-        //     "clerkUser"
-        // );
-
-        return res.json(findRecipe);
-    } catch (error) {
-        next(error);
-    }
-};
-
-const deleteRecipePage = async (req, res, next) => {
-    try {
-        const { recipeId, pageId } = req.params;
         // const { userId } = req.auth;
 
         // if (!userId) throw new ErrorStatus("Missing userId", 400);
 
-        if (
-            !recipeId.match(/^[a-f\d]{24}$/i) ||
-            !pageId.match(/^[a-f\d]{24}$/i)
-        )
+        if (!id.match(/^[a-f\d]{24}$/i))
             throw new ErrorStatus("Invalid Id", 400);
 
         // if (userId !== clerkUserId)
@@ -211,14 +190,26 @@ const deleteRecipePage = async (req, res, next) => {
         //         403
         //     );
 
-        const parentRecipe = await RecipeModel.findById(recipeId);
-        const childPage = parentRecipe.pages.home.recipePages.id(pageId);
-        childPage.deleteOne();
+        await RecipeModel.findByIdAndDelete(id);
 
-        await parentRecipe.save();
-        await recipesIndex.deleteObject(pageId);
+        await recipesIndex.deleteObject(id);
 
-        return res.json(`Successfully deleted recipePage ${pageId}`);
+        return res.json(`Successfully deleted recipe ${id}`);
+    } catch (error) {
+        next(error);
+    }
+};
+
+const findRecipesFromBlog = async (req, res, next) => {
+    try {
+        const { id } = req.params;
+
+        if (!id.match(/^[a-f\d]{24}$/i))
+            throw new ErrorStatus("Invalid Id", 400);
+
+        const findRecipes = await RecipeModel.find({ blog: id });
+
+        return res.json(findRecipes);
     } catch (error) {
         next(error);
     }
@@ -277,7 +268,7 @@ export {
     createRecipe,
     oneRecipe,
     editRecipe,
-    findRecipesFromUser,
-    deleteRecipePage,
+    findRecipesFromBlog,
+    deleteRecipe,
     migrateMeals,
 };

@@ -6,8 +6,8 @@ import {
     createRecipe,
     oneRecipe,
     editRecipe,
-    findRecipesFromUser,
-    deleteRecipePage,
+    findRecipesFromBlog,
+    deleteRecipe,
     migrateMeals,
 } from "../controllers/recipeControllers.js";
 
@@ -20,9 +20,9 @@ recipeRouter
     .route("/:id")
     .get(oneRecipe)
     .put(/*ClerkExpressRequireAuth(),*/ editRecipe)
-    .delete(deleteRecipePage);
+    .delete(deleteRecipe);
 //updated to get based on clerkId
-recipeRouter.route("/user/:id").get(findRecipesFromUser);
+recipeRouter.route("/blog/:id").get(findRecipesFromBlog);
 
 recipeRouter.route("/migrate/").post(migrateMeals);
 
