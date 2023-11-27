@@ -6,9 +6,10 @@ const algClient = algoliasearch(
     process.env.ALG_ADMIN_API_KEY
 );
 
-const recipeIndex = algClient.initIndex("recipe_pages");
+const recipePagesIndex = algClient.initIndex("recipe_pages");
+const recipesIndex = algClient.initIndex("recipes");
 
-export default recipeIndex;
+export { recipesIndex, recipePagesIndex };
 // Create a new index and add a record
 // const index = algClient.initIndex("test_index");
 // const record = { objectID: 1, name: "test_record" };

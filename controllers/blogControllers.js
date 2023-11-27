@@ -1,6 +1,6 @@
 import ErrorStatus from "../utils/errorStatus.js";
 import BlogModel from "../models/blogModel.js";
-import recipeIndex from "../db/algoliaClient.js";
+import { recipePagesIndex } from "../db/algoliaClient.js";
 // import {saveObjects} from "algoliasearch"
 
 const allBlogs = async (req, res, next) => {
@@ -14,14 +14,12 @@ const allBlogs = async (req, res, next) => {
 
 const createBlog = async (req, res, next) => {
     try {
-        const { home, clerkUser, dashboard, clerkUserId } = req.body;
-        if (!home || !dashboard || !clerkUserId || !clerkUser)
+        const { pages, clerkUser, dashboard, clerkUserId } = req.body;
+        if (!pages || !dashboard || !clerkUserId || !clerkUser)
             throw new ErrorStatus("Missing required fields", 400);
 
         const newBlog = await BlogModel.create({
-            pages: {
-                home,
-            },
+            pages,
             dashboard,
             clerkUser,
             clerkUserId,
@@ -165,7 +163,7 @@ const addBlogPage = async (req, res, next) => {
         const { _doc } = newPage[0];
         const algPage = { ..._doc, objectID: newPage[0]._id.toString() };
 
-        const algId = await recipeIndex.saveObject(algPage, {
+        const algId = await recipePagesIndex.saveObject(algPage, {
             autoGenerateObjectIDIfNotExist: false,
         });
 
@@ -304,7 +302,7 @@ const deleteBlogPage = async (req, res, next) => {
         childPage.deleteOne();
 
         await parentBlog.save();
-        await recipeIndex.deleteObject(pageId);
+        await recipePagesIndex.deleteObject(pageId);
 
         return res.json(`Successfully deleted blogPage ${pageId}`);
     } catch (error) {
@@ -356,10 +354,10 @@ const migrateMeals = async (req, res, next) => {
         });
 
         // console.log("algPage", algPages[0]);
-        const algIds = await recipeIndex.saveObjects(algPages, {
+        const algIds = await recipePagesIndex.saveObjects(algPages, {
             autoGenerateObjectIDIfNotExist: false,
         });
-        // recipeIndex
+        // recipePagesIndex
         //     .saveObjects(algPages, {
         //         autoGenerateObjectIDIfNotExist: false,
         //     })
