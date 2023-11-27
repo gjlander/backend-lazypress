@@ -1,5 +1,7 @@
 import ErrorStatus from "../utils/errorStatus.js";
 import BlogModel from "../models/blogModel.js";
+import recipeIndex from "../db/algoliaClient.js";
+// import {saveObjects} from "algoliasearch"
 
 const allBlogs = async (req, res, next) => {
     try {
@@ -132,6 +134,7 @@ const getBlogPages = async (req, res, next) => {
 const addBlogPage = async (req, res, next) => {
     try {
         const { id } = req.params;
+
         // const { userId } = req.auth;
         // const { title, category, region, ingList, steps, imgUrl } = req.body;
 
@@ -157,36 +160,17 @@ const addBlogPage = async (req, res, next) => {
 
         await parentBlog.save();
 
-        return res.status(201).json(childPages);
-    } catch (error) {
-        next(error);
-    }
-};
+        const newPage = childPages.slice(-1);
 
-const deleteBlogPage = async (req, res, next) => {
-    try {
-        const { id } = req.params;
-        // const { userId } = req.auth;
-        const { pageId } = req.body;
+        const { _doc } = newPage[0];
+        const algPage = { ..._doc, objectID: newPage[0]._id.toString() };
 
-        // if (!userId) throw new ErrorStatus("Missing userId", 400);
+        const algId = await recipeIndex.saveObject(algPage, {
+            autoGenerateObjectIDIfNotExist: false,
+        });
 
-        if (!id.match(/^[a-f\d]{24}$/i))
-            throw new ErrorStatus("Invalid Id", 400);
-
-        // if (userId !== clerkUserId)
-        //     throw new ErrorStatus(
-        //         "You are not authorized to make changes to this site",
-        //         403
-        //     );
-
-        const parentBlog = await BlogModel.findById(id);
-        const childPage = parentBlog.pages.home.blogPages.id(pageId);
-        childPage.deleteOne();
-
-        await parentBlog.save();
-
-        return res.json(`Successfully deleted blogPage ${pageId}`);
+        console.log(algId);
+        return res.status(201).json(newPage[0]);
     } catch (error) {
         next(error);
     }
@@ -269,6 +253,64 @@ const singlePage = async (req, res, next) => {
         next(error);
     }
 };
+const editBlogPages = async (req, res, next) => {
+    try {
+        const { id } = req.params;
+        const pageUpdates = req.body;
+
+        if (!blogId.match(/^[a-f\d]{24}$/i) || !pageId.match(/^[a-f\d]{24}$/i))
+            throw new ErrorStatus("Invalid Id", 400);
+
+        // const parentBlog = await BlogModel.findById(blogId);
+        // let childPage = parentBlog.pages.home.blogPages.id(pageId);
+        // childPage = pageEdits;
+
+        // await parentBlog.save();
+        const updatedBlog = await BlogModel.findByIdAndUpdate(
+            id,
+            {
+                pages: {
+                    home: {
+                        blogPages: pageUpdates,
+                    },
+                },
+            },
+            { new: true, runValidators: true }
+        );
+
+        return res.json(updatedBlog.pages.home.blogPages);
+    } catch (error) {
+        next(error);
+    }
+};
+const deleteBlogPage = async (req, res, next) => {
+    try {
+        const { blogId, pageId } = req.params;
+        // const { userId } = req.auth;
+
+        // if (!userId) throw new ErrorStatus("Missing userId", 400);
+
+        if (!blogId.match(/^[a-f\d]{24}$/i) || !pageId.match(/^[a-f\d]{24}$/i))
+            throw new ErrorStatus("Invalid Id", 400);
+
+        // if (userId !== clerkUserId)
+        //     throw new ErrorStatus(
+        //         "You are not authorized to make changes to this site",
+        //         403
+        //     );
+
+        const parentBlog = await BlogModel.findById(blogId);
+        const childPage = parentBlog.pages.home.blogPages.id(pageId);
+        childPage.deleteOne();
+
+        await parentBlog.save();
+        await recipeIndex.deleteObject(pageId);
+
+        return res.json(`Successfully deleted blogPage ${pageId}`);
+    } catch (error) {
+        next(error);
+    }
+};
 
 const getClerkAuth = async (req, res) => {
     const { userId } = req.auth;
@@ -286,8 +328,6 @@ const migrateMeals = async (req, res, next) => {
         // const { userId } = req.auth;
         // const { title, category, region, ingList, steps, imgUrl } = req.body;
 
-        // if (!userId) throw new ErrorStatus("Missing userId", 400);
-
         if (!id.match(/^[a-f\d]{24}$/i))
             throw new ErrorStatus("Invalid Id", 400);
 
@@ -295,11 +335,6 @@ const migrateMeals = async (req, res, next) => {
         //     throw new ErrorStatus(
         //         "All fields must be present to make new blog page.",
         //         400
-        //     );
-        // if (userId !== clerkUserId)
-        //     throw new ErrorStatus(
-        //         "You are not authorized to make changes to this site",
-        //         401
         //     );
 
         const parentBlog = await BlogModel.findById(id);
@@ -309,7 +344,30 @@ const migrateMeals = async (req, res, next) => {
 
         await parentBlog.save();
 
-        return res.status(201).json(childPages);
+        const algPages = childPages.map((page) => {
+            // const { steps, videoUrl, ...rest } = page;
+            // const algObj = { ...rest, objectID: page._id };
+            const { _doc } = page;
+            const algPage = { ..._doc, objectID: page._id.toString() };
+            // page.objectID = page._id.toString();
+            // console.log(page._id.toString());
+            // console.log("page", page);
+            return algPage;
+        });
+
+        // console.log("algPage", algPages[0]);
+        const algIds = await recipeIndex.saveObjects(algPages, {
+            autoGenerateObjectIDIfNotExist: false,
+        });
+        // recipeIndex
+        //     .saveObjects(algPages, {
+        //         autoGenerateObjectIDIfNotExist: false,
+        //     })
+        //     .then((ids) => console.log(ids))
+        //     .catch((err) => next(err));
+        console.log(algIds);
+
+        return res.status(201).json(algPages);
     } catch (error) {
         next(error);
     }
@@ -327,6 +385,7 @@ export {
     addHero,
     deleteHero,
     singlePage,
+    editBlogPages,
     getClerkAuth,
     clerkPostTest,
     migrateMeals,
