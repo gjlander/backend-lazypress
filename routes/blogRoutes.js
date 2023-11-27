@@ -26,14 +26,14 @@ blogRouter.route("/").get(allBlogs).post(createBlog);
 blogRouter.route("/:id").get(oneBlog).put(ClerkExpressRequireAuth(), editBlog);
 //updated to get based on clerkId
 blogRouter.route("/user/:id").get(findBlogsFromUser);
-blogRouter.route("/singlepage/:blogId/:pageId").get(singlePage);
+blogRouter
+    .route("/singlepage/:blogId/:pageId")
+    .get(singlePage)
+    .delete(deleteBlogPage);
 
 //didn't end up needing them, but hey, I learned something
-blogRouter
-    .route("/blogPages/:id")
-    .get(getBlogPages)
-    .post(addBlogPage)
-    .delete(deleteBlogPage);
+blogRouter.route("/blogPages/:id").get(getBlogPages).post(addBlogPage);
+// .delete(deleteBlogPage);
 blogRouter.route("/hero/:id").post(addHero).delete(deleteHero);
 
 blogRouter.route("/migrate/:id").post(migrateMeals);

@@ -178,13 +178,12 @@ const addBlogPage = async (req, res, next) => {
 
 const deleteBlogPage = async (req, res, next) => {
     try {
-        const { id } = req.params;
+        const { blogId, pageId } = req.params;
         // const { userId } = req.auth;
-        const { pageId } = req.body;
 
         // if (!userId) throw new ErrorStatus("Missing userId", 400);
 
-        if (!id.match(/^[a-f\d]{24}$/i))
+        if (!blogId.match(/^[a-f\d]{24}$/i) || !pageId.match(/^[a-f\d]{24}$/i))
             throw new ErrorStatus("Invalid Id", 400);
 
         // if (userId !== clerkUserId)
@@ -193,11 +192,12 @@ const deleteBlogPage = async (req, res, next) => {
         //         403
         //     );
 
-        const parentBlog = await BlogModel.findById(id);
+        const parentBlog = await BlogModel.findById(blogId);
         const childPage = parentBlog.pages.home.blogPages.id(pageId);
         childPage.deleteOne();
 
         await parentBlog.save();
+        await recipeIndex.deleteObject(pageId);
 
         return res.json(`Successfully deleted blogPage ${pageId}`);
     } catch (error) {
