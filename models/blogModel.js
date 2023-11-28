@@ -15,6 +15,10 @@ const blogSchema = new Schema(
             },
         },
         dashboard: {
+            blogTitle: {
+                type: String,
+                default: "Untitled Page",
+            },
             deployed: {
                 type: Boolean,
                 default: false,
