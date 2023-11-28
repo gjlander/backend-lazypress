@@ -1,0 +1,953 @@
+[
+    {
+        "title": "Fish pie",
+        "category": "Seafood",
+        "region": "British",
+        "ingList": [
+            {
+                "ing": "Floury Potatoes",
+                "amount": "900g"
+            },
+            {
+                "ing": "Olive Oil",
+                "amount": "2 tbsp"
+            },
+            {
+                "ing": "Semi-skimmed Milk",
+                "amount": "600ml"
+            },
+            {
+                "ing": "White Fish Fillets",
+                "amount": "800g"
+            },
+            {
+                "ing": "Plain flour",
+                "amount": "1 tbsp"
+            },
+            {
+                "ing": "Nutmeg",
+                "amount": "Grating"
+            },
+            {
+                "ing": "Double Cream",
+                "amount": "3 tbsp"
+            },
+            {
+                "ing": "Jerusalem Artichokes",
+                "amount": "200g"
+            },
+            {
+                "ing": "Leek",
+                "amount": "1 finely sliced"
+            },
+            {
+                "ing": "Prawns",
+                "amount": "200g peeled raw"
+            },
+            {
+                "ing": "Parsley",
+                "amount": "Large handful"
+            },
+            {
+                "ing": "Dill",
+                "amount": "Handful"
+            },
+            {
+                "ing": "Lemon",
+                "amount": "Grated zest of 1"
+            },
+            {
+                "ing": "Gruyère",
+                "amount": "25g grated"
+            },
+            {
+                "ing": "Lemon",
+                "amount": "Juice of 1"
+            }
+        ],
+        "steps": [
+            "01.Put the potatoes in a large pan of cold salted water and bring to the boil. Lower the heat, cover, then simmer gently for 15 minutes until tender. Drain, then return to the pan over a low heat for 30 seconds to drive off any excess water. Mash with 1 tbsp olive oil, then season.",
+            "02.Meanwhile put the milk in a large sauté pan, add the fish and bring to the boil. Remove from the heat, cover and stand for 3 minutes. Remove the fish (reserving the milk) and pat dry with kitchen paper, then gently flake into an ovenproof dish, discarding the skin and any bones.",
+            "03.Heat the remaining oil in a pan, stir in the flour and cook for 30 seconds. Gradually stir in 200-250ml of the reserved milk (discard the rest). Grate in nutmeg, season, then bubble until thick. Stir in the cream.",
+            "04.Preheat the oven to 190°C/fan170°C/gas 5. Grate the artichokes and add to the dish with the leek, prawns and herbs. Stir the lemon zest and juice into the sauce, then pour over. Mix gently with a wooden spoon.",
+            "05.Spoon the mash onto the fish mixture, then use a fork to make peaks, which will crisp and brown as it cooks. Sprinkle over the cheese, then bake for 35-40 minutes until golden and bubbling. Serve with wilted greens."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=2sX4fCgg-UI",
+        "tags": ["Fish", "Pie", "Breakfast", "Baking"]
+    },
+    {
+        "title": "French Lentils With Garlic and Thyme",
+        "category": "Miscellaneous",
+        "region": "French",
+        "ingList": [
+            {
+                "ing": "Olive Oil",
+                "amount": "3 tablespoons"
+            },
+            {
+                "ing": "Onion",
+                "amount": "1"
+            },
+            {
+                "ing": "Garlic",
+                "amount": "2 cloves"
+            },
+            {
+                "ing": "Carrot",
+                "amount": "1"
+            },
+            {
+                "ing": "French Lentils",
+                "amount": "2 1/4 cups"
+            },
+            {
+                "ing": "Thyme",
+                "amount": "1 teaspoon"
+            },
+            {
+                "ing": "Bay Leaf",
+                "amount": "3"
+            },
+            {
+                "ing": "Salt",
+                "amount": "1 tablespoon"
+            },
+            {
+                "ing": "Celery",
+                "amount": "2 sticks"
+            }
+        ],
+        "steps": [
+            "Place a large saucepan over medium heat and add oil. When hot, add chopped vegetables and sauté until softened, 5 to 10 minutes.",
+            "Add 6 cups water, lentils, thyme, bay leaves and salt. Bring to a boil, then reduce to a fast simmer.",
+            "Simmer lentils until they are tender and have absorbed most of the water, 20 to 25 minutes. If necessary, drain any excess water after lentils have cooked. Serve immediately, or allow them to cool and reheat later.",
+            "For a fuller taste, use some chicken stock and reduce the water by the same amount."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/vwwspt1487394060.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=CrlTS1mJQMA",
+        "tags": ["Pulse"]
+    },
+    {
+        "title": "Fettucine alfredo",
+        "category": "Pasta",
+        "region": "Italian",
+        "ingList": [
+            {
+                "ing": "Clotted Cream",
+                "amount": "227g"
+            },
+            {
+                "ing": "Butter",
+                "amount": "25g"
+            },
+            {
+                "ing": "Corn Flour",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Parmesan Cheese",
+                "amount": "100g "
+            },
+            {
+                "ing": "Nutmeg",
+                "amount": "Grated"
+            },
+            {
+                "ing": "Fettuccine",
+                "amount": "250g"
+            },
+            {
+                "ing": "Parsley",
+                "amount": "Chopped"
+            }
+        ],
+        "steps": [
+            "In a medium saucepan, stir the clotted cream, butter and cornflour over a low-ish heat and bring to a low simmer. Turn off the heat and keep warm.",
+            "Meanwhile, put the cheese and nutmeg in a small bowl and add a good grinding of black pepper, then stir everything together (don’t add any salt at this stage).",
+            "Put the pasta in another pan with 2 tsp salt, pour over some boiling water and cook following pack instructions (usually 3-4 mins). When cooked, scoop some of the cooking water into a heatproof jug or mug and drain the pasta, but not too thoroughly.",
+            "Add the pasta to the pan with the clotted cream mixture, then sprinkle over the cheese and gently fold everything together over a low heat using a rubber spatula. When combined, splash in 3 tbsp of the cooking water. At first, the pasta will look wet and sloppy: keep stirring until the water is absorbed and the sauce is glossy. Check the seasoning before transferring to heated bowls. Sprinkle over some chives or parsley, then serve immediately."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/uquqtu1511178042.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=FLEnwZvGzOE",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Full English Breakfast",
+        "category": "Breakfast",
+        "region": "British",
+        "ingList": [
+            {
+                "ing": "Sausages",
+                "amount": "4"
+            },
+            {
+                "ing": "Bacon",
+                "amount": "4"
+            },
+            {
+                "ing": "Mushrooms",
+                "amount": "4"
+            },
+            {
+                "ing": "Tomatoes",
+                "amount": "3"
+            },
+            {
+                "ing": "Black Pudding",
+                "amount": "2 sliced"
+            },
+            {
+                "ing": "Eggs",
+                "amount": "2"
+            },
+            {
+                "ing": "Bread",
+                "amount": "1 Slice"
+            },
+            {
+                "ing": "Baked Beans",
+                "amount": "100g "
+            }
+        ],
+        "steps": [
+            "Heat the flat grill plate over a low heat, on top of 2 rings/flames if it fits, and brush sparingly with light olive oil.",
+            "Cook the sausages first. Add the sausages to the hot grill plate/the coolest part if there is one and allow to cook slowly for about 15-20 minutes, turning occasionally, until golden. After the first 10 minutes, increase the heat to medium before beginning to cook the other ingredients. If you are struggling for space, completely cook the sausages and keep hot on a plate in the oven.",
+            "Snip a few small cuts into the fatty edge of the bacon. Place the bacon straight on to the grill plate and fry for 2-4 minutes each side or until your preferred crispiness is reached. Like the sausages, the cooked bacon can be kept hot on a plate in the oven.",
+            "For the mushrooms, brush away any dirt using a pastry brush and trim the stalk level with the mushroom top. Season with salt and pepper and drizzle over a little olive oil. Place stalk-side up on the grill plate and cook for 1-2 minutes before turning and cooking for a further 3-4 minutes. Avoid moving the mushrooms too much while cooking, as this releases the natural juices, making them soggy.",
+            "For the tomatoes, cut the tomatoes across the centre/or in half lengthways if using plum tomatoes , and with a small, sharp knife remove the green 'eye'. Season with salt and pepper and drizzle with a little olive oil. Place cut-side down on the grill plate and cook without moving for 2 minutes. Gently turn over and season again. Cook for a further 2-3 minutes until tender but still holding their shape.",
+            "For the black pudding, cut the black pudding into 3-4 slices and remove the skin. Place on the grill plate and cook for 1½-2 minutes each side until slightly crispy.",
+            "For 'proper' fried bread it's best to cook it in a separate pan. Ideally, use bread that is a couple of days old. Heat a frying pan to a medium heat and cover the base with oil. Add the bread and cook for 2-3 minutes each side until crispy and golden. If the pan becomes too dry, add a little more oil. For a richer flavour, add a knob of butter after you turn the slice.",
+            "For the fried eggs, break the egg straight into the pan with the fried bread and leave for 30 seconds. Add a good knob of butter and lightly splash/baste the egg with the butter when melted. Cook to your preferred stage, season and gently remove with a fish slice.",
+            "Once all the ingredients are cooked, serve on warm plates and enjoy straight away with a good squeeze of tomato ketchup or brown sauce."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/sqrtwu1511721265.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=FXjYU2Ensck",
+        "tags": [
+            "Greasy",
+            "UnHealthy",
+            "HangoverFood",
+            "Calorific",
+            "Breakfast",
+            "BBQ"
+        ]
+    },
+    {
+        "title": "French Onion Soup",
+        "category": "Side",
+        "region": "French",
+        "ingList": [
+            {
+                "ing": "Butter",
+                "amount": "50g"
+            },
+            {
+                "ing": "Olive Oil",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Onion",
+                "amount": "1 kg"
+            },
+            {
+                "ing": "Sugar",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Garlic Clove",
+                "amount": "4 sliced"
+            },
+            {
+                "ing": "Plain Flour",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Dry White Wine",
+                "amount": "250ml"
+            },
+            {
+                "ing": "Beef Stock",
+                "amount": "1L"
+            },
+            {
+                "ing": "Bread",
+                "amount": "4 sliced"
+            },
+            {
+                "ing": "Gruyère",
+                "amount": "140g"
+            }
+        ],
+        "steps": [
+            "Melt the butter with the oil in a large heavy-based pan. Add the onions and fry with the lid on for 10 mins until soft. Sprinkle in the sugar and cook for 20 mins more, stirring frequently, until caramelised. The onions should be really golden, full of flavour and soft when pinched between your fingers. Take care towards the end to ensure that they don’t burn.",
+            "Add the garlic for the final few mins of the onions’ cooking time, then sprinkle in the flour and stir well. Increase the heat and keep stirring as you gradually add the wine, followed by the hot stock. Cover and simmer for 15-20 mins.",
+            "To serve, turn on the grill, and toast the bread. Ladle the soup into heatproof bowls. Put a slice or two of toast on top of the bowls of soup, and pile on the cheese. Grill until melted. Alternatively, you can complete the toasts under the grill, then serve them on top."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/xvrrux1511783685.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=-DLDMQucqDI",
+        "tags": ["Soup"]
+    },
+    {
+        "title": "Flamiche",
+        "category": "Vegetarian",
+        "region": "French",
+        "ingList": [
+            {
+                "ing": "Butter",
+                "amount": "75g"
+            },
+            {
+                "ing": "Leek",
+                "amount": "1kg"
+            },
+            {
+                "ing": "Salt",
+                "amount": "½ tsp"
+            },
+            {
+                "ing": "Creme Fraiche",
+                "amount": "300ml "
+            },
+            {
+                "ing": "Egg",
+                "amount": "1"
+            },
+            {
+                "ing": "Egg Yolks",
+                "amount": "3"
+            },
+            {
+                "ing": "Nutmeg",
+                "amount": "¼ teaspoon"
+            },
+            {
+                "ing": "Plain Flour",
+                "amount": "225g"
+            },
+            {
+                "ing": "Salt",
+                "amount": "½ tsp"
+            },
+            {
+                "ing": "Butter",
+                "amount": "60g"
+            },
+            {
+                "ing": "Lard",
+                "amount": "60g"
+            },
+            {
+                "ing": "Cheddar Cheese",
+                "amount": "50g"
+            },
+            {
+                "ing": "Water",
+                "amount": "2 tbs"
+            }
+        ],
+        "steps": [
+            "For the pastry, sift the flour and salt into the bowl of a food processor, add the butter and lard, then whizz together briefly until the mixture looks like fine breadcrumbs. Tip the mixture into a bowl, then stir in the cheese and enough of the water for the mixture to come together. Tip out onto a lightly floured surface and knead briefly until smooth. Roll out thinly and line a 23cm x 4cm loose-?bottomed fluted flan tin. Prick the base with a fork. Chill for 20 minutes.",
+            "02.Melt the 75g butter in a saucepan over a low heat, then add the leeks and the salt. Cover and cook for ?10 minutes until soft. Uncover the pan, increase the heat and cook ?for 2 minutes, stirring occasionally, until the liquid has evaporated. Spoon onto a plate and leave to cool.",
+            "03.Preheat the oven to 200°C/fan180°C/gas 6. Line the pastry case with baking paper and baking beans or rice and blind bake for 15-20 minutes until the edges are biscuit-coloured. Remove the paper and beans/rice and return the case to the oven for 7-10 minutes until the base is crisp and lightly golden. Remove and set aside. Reduce the oven temperature to 190°C/fan170°C/gas 5.",
+            "04.Put the crème fraîche into a bowl with the whole egg, egg yolks and nutmeg. Lightly beat together, then season. Stir in the leeks. Spoon ?the mixture into the tart case and bake for 35-40 minutes until set ?and lightly golden. Remove from ?the oven and leave for 10 minutes. Take out of the tin and serve."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/wssvvs1511785879.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=vT0q5c880Rg",
+        "tags": ["Tart"]
+    },
+    {
+        "title": "French Omelette",
+        "category": "Miscellaneous",
+        "region": "French",
+        "ingList": [
+            {
+                "ing": "Eggs",
+                "amount": "3"
+            },
+            {
+                "ing": "Butter",
+                "amount": "2 knobs"
+            },
+            {
+                "ing": "Parmesan",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Tarragon",
+                "amount": "3 chopped"
+            },
+            {
+                "ing": "Parsley",
+                "amount": "1 tbs chopped"
+            },
+            {
+                "ing": "Chives",
+                "amount": "1 tbs chopped"
+            },
+            {
+                "ing": "Gruyère",
+                "amount": "4 tbs"
+            }
+        ],
+        "steps": [
+            "Get everything ready. Warm a 20cm (measured across the top) non-stick frying pan on a medium heat. Crack the eggs into a bowl and beat them with a fork so they break up and mix, but not as completely as you would for scrambled egg. With the heat on medium-hot, drop one knob of butter into the pan. It should bubble and sizzle, but not brown. Season the eggs with the Parmesan and a little salt and pepper, and pour into the pan.",
+            "Let the eggs bubble slightly for a couple of seconds, then take a wooden fork or spatula and gently draw the mixture in from the sides of the pan a few times, so it gathers in folds in the centre. Leave for a few seconds, then stir again to lightly combine uncooked egg with cooked. Leave briefly again, and when partly cooked, stir a bit faster, stopping while there’s some barely cooked egg left. With the pan flat on the heat, shake it back and forth a few times to settle the mixture. It should slide easily in the pan and look soft and moist on top. A quick burst of heat will brown the underside.",
+            "Grip the handle underneath. Tilt the pan down away from you and let the omelette fall to the edge. Fold the side nearest to you over by a third with your fork, and keep it rolling over, so the omelette tips onto a plate – or fold it in half, if that’s easier. For a neat finish, cover the omelette with a piece of kitchen paper and plump it up a bit with your fingers. Rub the other knob of butter over to glaze. Serve immediately."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/yvpuuy1511797244.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=qXPhVYpQLPA",
+        "tags": ["Egg"]
+    },
+    {
+        "title": "Fish Stew with Rouille",
+        "category": "Seafood",
+        "region": "French",
+        "ingList": [
+            {
+                "ing": "Prawns",
+                "amount": "6 large"
+            },
+            {
+                "ing": "Olive Oil",
+                "amount": "3 tbs"
+            },
+            {
+                "ing": "Dry White Wine",
+                "amount": "150ml"
+            },
+            {
+                "ing": "Fish Stock",
+                "amount": "200ml"
+            },
+            {
+                "ing": "Fennel",
+                "amount": "1 small finely diced"
+            },
+            {
+                "ing": "Onion",
+                "amount": "1 small finely diced"
+            },
+            {
+                "ing": "Garlic",
+                "amount": "3 cloves Chopped"
+            },
+            {
+                "ing": "Potatoes",
+                "amount": "1 large"
+            },
+            {
+                "ing": "Orange",
+                "amount": "1"
+            },
+            {
+                "ing": "Star Anise",
+                "amount": "1"
+            },
+            {
+                "ing": "Bay Leaf",
+                "amount": "1"
+            },
+            {
+                "ing": "Harissa Spice",
+                "amount": "1 1/2 tsp "
+            },
+            {
+                "ing": "Tomato Puree",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Chopped Tomatoes",
+                "amount": "400g"
+            },
+            {
+                "ing": "Mussels",
+                "amount": "Handful"
+            },
+            {
+                "ing": "White Fish",
+                "amount": "200g"
+            },
+            {
+                "ing": "Thyme",
+                "amount": "2"
+            },
+            {
+                "ing": "Bread",
+                "amount": "to serve"
+            }
+        ],
+        "steps": [
+            "Twist the heads from the prawns, then peel away the legs and shells, but leave the tails intact. Devein each prawn. Fry the shells in 1 tbsp oil for 5 mins, until dark pink and golden in patches. Add the wine, boil down by two thirds, then pour in the stock. Strain into a jug, discarding the shells.",
+            "Heat the rest of the oil in a deep frying pan or casserole. Add the fennel, onion and garlic, season, then cover and gently cook for 10 mins until softened. Meanwhile, peel the potato and cut into 2cm-ish chunks. Put into a pan of cold water, bring to the boil and cook for 5 mins until almost tender. Drain in a colander.",
+            "Peel a strip of zest from the orange. Put the zest, star anise, bay and ½ tsp harissa into the pan. Fry gently, uncovered, for 5-10 mins, until the vegetables are soft, sweet and golden.",
+            "Stir in the tomato purée, cook for 2 mins, then add the tomatoes and stock. Simmer for 10 mins until the sauce thickens slightly. Season to taste. The sauce can be made ahead, then reheated later in the day. Meantime, scrub the mussels or clams and pull away any stringy beards. Any that are open should be tapped sharply on the worktop – if they don’t close after a few seconds, discard them.",
+            "Reheat the sauce if necessary, then stir the potato, chunks of fish and prawns very gently into the stew. Bring back to the boil, then cover and gently simmer for 3 mins. Scatter the mussels or clams over the stew, then cover and cook for 2 mins more or until the shells have opened wide. Discard any that remain closed. The chunks of fish should flake easily and the prawns should be pink through. Scatter with the thyme leaves.",
+            "To make the quick rouille, stir the rest of the harissa through the mayonnaise. Serve the stew in bowls, topped with spoonfuls of rouille, which will melt into the sauce and enrich it. Have some good bread ready, as you’ll definitely want to mop up the juices."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/vptqpw1511798500.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=fp9Lqx2EUco",
+        "tags": ["Fish", "Seafood", "Shellfish"]
+    },
+    {
+        "title": "Fennel Dauphinoise",
+        "category": "Side",
+        "region": "French",
+        "ingList": [
+            {
+                "ing": "Potatoes",
+                "amount": "225g"
+            },
+            {
+                "ing": "Fennel",
+                "amount": "1 small"
+            },
+            {
+                "ing": "Garlic",
+                "amount": "1 clove finely chopped"
+            },
+            {
+                "ing": "Milk",
+                "amount": "75 ml "
+            },
+            {
+                "ing": "Double Cream",
+                "amount": "100ml"
+            },
+            {
+                "ing": "Butter",
+                "amount": "For Greasing"
+            },
+            {
+                "ing": "Parmesan Cheese",
+                "amount": "to serve"
+            }
+        ],
+        "steps": [
+            "Heat oven to 180C/160C fan/gas 4. Put potatoes, fennel, and garlic in a medium non-stick pan. Pour in milk and double cream, season well and simmer gently, covered, for 10 mins, stirring halfway through, until potatoes are just tender.",
+            "Divide the mixture between 2 small (about 150ml) buttered ramekins and scatter with Parmesan. Bake for 40 mins until the potatoes are golden and tender when pierced with a knife. Snip the reserved fennel fronds over before serving."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/ytttsv1511798734.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=tXBzZm2kkh8",
+        "tags": ["Pie", "SideDish"]
+    },
+    {
+        "title": "Fruit and Cream Cheese Breakfast Pastries",
+        "category": "Breakfast",
+        "region": "American",
+        "ingList": [
+            {
+                "ing": "Cream Cheese",
+                "amount": "1 1/4 oz "
+            },
+            {
+                "ing": "Sugar",
+                "amount": "1 1/4 cup"
+            },
+            {
+                "ing": "Vanilla Extract",
+                "amount": "1 teaspoon"
+            },
+            {
+                "ing": "Flour",
+                "amount": "2"
+            },
+            {
+                "ing": "Puff Pastry"
+            },
+            {
+                "ing": "Strawberries"
+            },
+            {
+                "ing": "Raspberries"
+            },
+            {
+                "ing": "Blackberries"
+            }
+        ],
+        "steps": [
+            "Preheat oven to 400ºF (200ºC), and prepare two cookie sheets with parchment paper. In a bowl, mix cream cheese, sugar, and vanilla until fully combined. Lightly flour the surface and roll out puff pastry on top to flatten. Cut each sheet of puff pastry into 9 equal squares. On the top right and bottom left of the pastry, cut an L shape approximately ½ inch (1 cm) from the edge.",
+            "NOTE: This L shape should reach all the way down and across the square, however both L shapes should not meet at the ends. Your pastry should look like a picture frame with two corners still intact.",
+            "Take the upper right corner and fold down towards the inner bottom corner. You will now have a diamond shape.",
+            "Place 1 to 2 teaspoons of the cream cheese filling in the middle, then place berries on top.",
+            "Repeat with the remaining pastry squares and place them onto the parchment covered baking sheet.",
+            "Bake for 15-20 minutes or until pastry is golden brown and puffed.",
+            "Enjoy!",
+            ""
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/1543774956.jpg",
+        "videoUrl": "",
+        "tags": ["Breakfast", "Summer"]
+    },
+    {
+        "title": "French Onion Chicken with Roasted Carrots & Mashed Potatoes",
+        "category": "Chicken",
+        "region": "American",
+        "ingList": [
+            {
+                "ing": "Chicken Breasts",
+                "amount": "2"
+            },
+            {
+                "ing": "Carrots",
+                "amount": "12 ounces"
+            },
+            {
+                "ing": "Small Potatoes",
+                "amount": "5"
+            },
+            {
+                "ing": "Onion",
+                "amount": "1"
+            },
+            {
+                "ing": "Beef Stock",
+                "amount": "1"
+            },
+            {
+                "ing": "Mozzarella",
+                "amount": "1 1/2 cup "
+            },
+            {
+                "ing": "Sour Cream",
+                "amount": "2 tbsp"
+            },
+            {
+                "ing": "Butter",
+                "amount": " "
+            },
+            {
+                "ing": "Sugar",
+                "amount": " "
+            },
+            {
+                "ing": "Vegetable Oil",
+                "amount": " "
+            },
+            {
+                "ing": "Salt",
+                "amount": " "
+            },
+            {
+                "ing": "Pepper",
+                "amount": " "
+            }
+        ],
+        "steps": [
+            "1",
+            "",
+            "Preheat oven to 425 degrees. Wash and dry all produce. Trim, peel, and cut carrots on a diagonal into ¼-inch-thick pieces. Dice potatoes into ½-inch pieces. Halve, peel, and thinly slice onion.",
+            "",
+            "2",
+            "",
+            "Toss carrots on a baking sheet with a drizzle of oil, salt, and pepper. Roast until browned and tender, 15-20 minutes.",
+            "",
+            "3",
+            "",
+            "Meanwhile, place potatoes in a medium pot with enough salted water to cover by 2 inches. Bring to a boil and cook until tender, 12-15 minutes. Drain and return potatoes to pot; cover to keep warm.",
+            "",
+            "4",
+            "",
+            "While potatoes cook, heat a drizzle of oil in a large pan over medium-high heat. Add onion and cook, stirring occasionally, until lightly browned and softened, 8-10 minutes. Sprinkle with 1 tsp sugar (2 tsp for 4 servings). Stir in stock concentrate and 2 TBSP water (¼ cup for 4); season with salt and pepper. Cook until jammy, 2-3 minutes more. Turn off heat; transfer to a small bowl. Wash out pan.",
+            "",
+            "5",
+            "",
+            "Pat chicken dry with paper towels; season all over with salt and pepper. Heat a drizzle of oil in pan used for onion over medium-high heat. Add chicken and cook until browned and cooked through, 5-6 minutes per side. In the last 1-2 minutes of cooking, top with caramelized onion and cheese. Cover pan until cheese melts. (If your pan doesn’t have a lid, cover with a baking sheet!)",
+            "",
+            "6",
+            "",
+            "Heat pot with drained potatoes over low heat; mash with sour cream, 2 TBSP butter (4 TBSP for 4 servings), salt, pepper, and a splash of water (or milk, for extra richness) until smooth. Divide chicken, roasted carrots, and mashed potatoes between plates."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/b5ft861583188991.jpg",
+        "videoUrl": "",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Ful Medames",
+        "category": "Vegetarian",
+        "region": "Egyptian",
+        "ingList": [
+            {
+                "ing": "Broad Beans",
+                "amount": "2 cups "
+            },
+            {
+                "ing": "Parsley",
+                "amount": "1/3 cup"
+            },
+            {
+                "ing": "Olive Oil",
+                "amount": "Dash"
+            },
+            {
+                "ing": "Lemons",
+                "amount": "3"
+            },
+            {
+                "ing": "Garlic Clove",
+                "amount": "4"
+            },
+            {
+                "ing": "Cumin",
+                "amount": "Sprinking"
+            }
+        ],
+        "steps": [
+            "As the cooking time varies depending on the quality and age of the beans, it is good to cook them in advance and to reheat them when you are ready to serve. Cook the drained beans in a fresh portion of unsalted water in a large saucepan with the lid on until tender, adding water to keep them covered, and salt when the beans have softened. They take 2–2 1/2 hours of gentle simmering. When the beans are soft, let the liquid reduce. It is usual to take out a ladle or two of the beans and to mash them with some of the cooking liquid, then stir this back into the beans. This is to thicken the sauce.",
+            "Serve the beans in soup bowls sprinkled with chopped parsley and accompanied by Arab bread.",
+            "Pass round the dressing ingredients for everyone to help themselves: a bottle of extra-virgin olive oil, the quartered lemons, salt and pepper, a little saucer with the crushed garlic, one with chili-pepper flakes, and one with ground cumin.",
+            "The beans are eaten gently crushed with the fork, so that they absorb the dressing.",
+            "Optional Garnishes",
+            "Peel hard-boiled eggs—1 per person—to cut up in the bowl with the beans.",
+            "Top the beans with a chopped cucumber-and-tomato salad and thinly sliced mild onions or scallions. Otherwise, pass round a good bunch of scallions and quartered tomatoes and cucumbers cut into sticks.",
+            "Serve with tahina cream sauce (page 65) or salad (page 67), with pickles and sliced onions soaked in vinegar for 30 minutes.",
+            "Another way of serving ful medames is smothered in a garlicky tomato sauce (see page 464).",
+            "In Syria and Lebanon, they eat ful medames with yogurt or feta cheese, olives, and small cucumbers.",
+            "Variations",
+            "A traditional way of thickening the sauce is to throw a handful of red lentils (1/4 cup) into the water at the start of the cooking.",
+            "In Iraq, large brown beans are used instead of the small Egyptian ones, in a dish called badkila, which is also sold for breakfast in the street."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/lvn2d51598732465.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=ixpCabILuxw",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Feteer Meshaltet",
+        "category": "Side",
+        "region": "Egyptian",
+        "ingList": [
+            {
+                "ing": "Flour",
+                "amount": "4 cups "
+            },
+            {
+                "ing": "Water",
+                "amount": "1 1/2 cups "
+            },
+            {
+                "ing": "Salt",
+                "amount": "1/4 tsp"
+            },
+            {
+                "ing": "Unsalted Butter",
+                "amount": "1 cup "
+            },
+            {
+                "ing": "Olive Oil",
+                "amount": "1/4 cup"
+            }
+        ],
+        "steps": [
+            "Mix the flour and salt then pour one cup of water and start kneading.",
+            "If you feel the dough is still not coming together or too dry, gradually add the remaining water until you get a dough that is very elastic so that when you pull it and it won’t be torn.",
+            "Let the dough rest for just 10 minutes then divide the dough into 6-8 balls depending on the size you want for your feteer.",
+            "Warm up the butter/ghee or oil you are using and pour into a deep bowl.",
+            "Immerse the dough balls into the warm butter. Let it rest for 15 to 20 minutes.",
+            "Preheat oven to 550F.",
+            "Stretch the first ball with your hands on a clean countertop. Stretch it as thin as you can, the goal here is to see your countertop through the dough.",
+            "Fold the dough over itself to form a square brushing in between folds with the butter mixture.",
+            "Set aside and start making the next ball.",
+            "Stretch the second one thin as we have done for the first ball.",
+            "Place the previous one on the middle seam side down. Fold the outer one over brushing with more butter mixture as you fold. Set aside.",
+            "Keep doing this for the third and fourth balls. Now we have one ready, place on a 10 inch baking/pie dish seam side down and brush the top with more butter.",
+            "Repeat for the remaining 4 balls to make a second one. With your hands lightly press the folded feteer to spread it on the baking dish.",
+            "Place in preheated oven for 10 minutes when the feteer starts puffing turn on the broiler to brown the top.",
+            "When it is done add little butter on top and cover so it won’t get dry."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/9f4z6v1598734293.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=-mW1unsVhFU",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Fish fofos",
+        "category": "Seafood",
+        "region": "Portuguese",
+        "ingList": [
+            {
+                "ing": "Haddock",
+                "amount": "600g"
+            },
+            {
+                "ing": "Potatoes",
+                "amount": "300g"
+            },
+            {
+                "ing": "Green Chilli",
+                "amount": "1 chopped"
+            },
+            {
+                "ing": "Coriander",
+                "amount": "3 tbs"
+            },
+            {
+                "ing": "Cumin Seeds",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Pepper",
+                "amount": "1/2 tsp"
+            },
+            {
+                "ing": "Garlic",
+                "amount": "3 cloves"
+            },
+            {
+                "ing": "Ginger",
+                "amount": "2 pieces "
+            },
+            {
+                "ing": "Flour",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Eggs",
+                "amount": "3"
+            },
+            {
+                "ing": "Breadcrumbs",
+                "amount": "75g"
+            },
+            {
+                "ing": "Vegetable Oil",
+                "amount": "For frying"
+            }
+        ],
+        "steps": [
+            "STEP 1",
+            "",
+            "Put the fish into a lidded pan and pour over enough water to cover. Bring to a simmer and gently poach for 10 minutes over a low heat with the lid on. Drain and flake the fish.",
+            "",
+            "STEP 2",
+            "",
+            "Put the fish, potato, green chilli, coriander, cumin, black pepper, garlic and ginger in a large bowl. Season, add the rice flour, mix well and break in 1 egg. Stir the mixture and divide into 15, then form into small logs. Break the remaining eggs into a bowl and whisk lightly. Put the breadcrumbs into another bowl. Dip each fofo in the beaten egg followed by the breadcrumb mixture. Chill for 20 minutes.",
+            "",
+            "STEP 3",
+            "",
+            "Heat 1cm of oil in a large frying pan over a medium heat. Fry the fofos in batches for 2 minutes on each side, turning gently to get an even golden brown colour all over. Drain on kitchen paper and repeat with the remaining fofos.",
+            "",
+            "STEP 4",
+            "",
+            "For the onion salad, mix together the onion, coriander and lemon juice with a pinch of salt. Serve with the fofos and mango chutney."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/a15wsa1614349126.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=YXUZHK2PrV8",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Fresh sardines",
+        "category": "Side",
+        "region": "Croatian",
+        "ingList": [
+            {
+                "ing": "Sardines",
+                "amount": "500g"
+            },
+            {
+                "ing": "Vegetable Oil",
+                "amount": "Dash"
+            },
+            {
+                "ing": "Flour",
+                "amount": "To Glaze"
+            },
+            {
+                "ing": "Salt",
+                "amount": "Dash"
+            }
+        ],
+        "steps": [
+            "Wash the fish under the cold tap. Roll in the flour and deep fry in oil until crispy. Lay on kitchen towel to get rid of the excess oil and serve hot or cold with a slice of lemon."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/nv5lf31628771380.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=DDaZoXP1Mdc",
+        "tags": ["Fresh"]
+    },
+    {
+        "title": "Fettuccine Alfredo",
+        "category": "Pasta",
+        "region": "Italian",
+        "ingList": [
+            {
+                "ing": "Fettuccine",
+                "amount": "1 lb"
+            },
+            {
+                "ing": "Heavy Cream",
+                "amount": "1/2 cup "
+            },
+            {
+                "ing": "Butter",
+                "amount": "1/2 cup "
+            },
+            {
+                "ing": "Parmesan",
+                "amount": "1/2 cup "
+            },
+            {
+                "ing": "Parsley",
+                "amount": "2 tbsp"
+            },
+            {
+                "ing": "Black Pepper",
+                "amount": " "
+            }
+        ],
+        "steps": [
+            "Cook pasta according to package instructions in a large pot of boiling water and salt. Add heavy cream and butter to a large skillet over medium heat until the cream bubbles and the butter melts. Whisk in parmesan and add seasoning (salt and black pepper). Let the sauce thicken slightly and then add the pasta and toss until coated in sauce. Garnish with parsley, and it's ready."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/0jv5gx1661040802.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=LPPcNPdq_j4",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Fish Soup (Ukha)",
+        "category": "Seafood",
+        "region": "Russian",
+        "ingList": [
+            {
+                "ing": "Olive Oil",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Onion",
+                "amount": "1 sliced"
+            },
+            {
+                "ing": "Carrots",
+                "amount": "2 medium"
+            },
+            {
+                "ing": "Fish Stock",
+                "amount": "3 cups "
+            },
+            {
+                "ing": "Water",
+                "amount": "3 cups "
+            },
+            {
+                "ing": "Potatoes",
+                "amount": "4 large"
+            },
+            {
+                "ing": "Bay Leaf",
+                "amount": "3"
+            },
+            {
+                "ing": "Cod",
+                "amount": "1"
+            },
+            {
+                "ing": "Salmon",
+                "amount": "1"
+            }
+        ],
+        "steps": [
+            "In a medium pot, heat the olive oil over medium-high heat. Add the onions and cook, stirring occasionally until the onions start to caramelize. Add the carrots and cook until the carrots start to soften, about 4 more minutes.",
+            "Add the stock, water, potatoes, bay leaves, and black peppercorns. Season with salt and bring to a boil. Reduce heat, cover and cook for 10 minutes. Add the millet and cook for 15 more minutes until millet and potatoes are cooked.",
+            "Gently add the fish cubes. Stir and bring the soup to a simmer. The fish will cook through very fast, so make sure to not overcook them. They are done when the flesh is opaque and flakes easily.",
+            "Garnish the soup with chopped fresh dill or parsley before serving."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/7n8su21699013057.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=cS3Yn-y5uVg",
+        "tags": ["soup"]
+    }
+]

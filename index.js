@@ -3,6 +3,7 @@ import cors from "cors";
 import "./db/mongooseClient.js";
 import userRouter from "./routes/userRoutes.js";
 import blogRouter from "./routes/blogRoutes.js";
+import recipeRouter from "./routes/recipeRoutes.js";
 import errorHandler from "./middlewares/errorHandler.js";
 import { clerkWebhook, getClerkUsers } from "./controllers/clerkControllers.js";
 import bodyParser from "body-parser";
@@ -27,6 +28,8 @@ app
 app.use("/users", userRouter);
 
 app.use("/blogs", blogRouter);
+
+app.use("/recipes", recipeRouter);
 
 app.use(errorHandler);
 

@@ -1,0 +1,791 @@
+[
+    {
+        "title": "Kapsalon",
+        "category": "Lamb",
+        "region": "Dutch",
+        "ingList": [
+            {
+                "ing": "Fries",
+                "amount": "250 Grams"
+            },
+            {
+                "ing": "Doner Meat",
+                "amount": "500 Grams"
+            },
+            {
+                "ing": "Garlic sauce",
+                "amount": "Topping"
+            },
+            {
+                "ing": "Hotsauce",
+                "amount": "Topping"
+            },
+            {
+                "ing": "Lettuce",
+                "amount": "1 Bulb"
+            },
+            {
+                "ing": "Tomato",
+                "amount": "1"
+            },
+            {
+                "ing": "Cucumber",
+                "amount": "3rd"
+            },
+            {
+                "ing": "Gouda cheese",
+                "amount": "100 Grams"
+            }
+        ],
+        "steps": [
+            "Cut the meat into strips. Heat oil in a pan and fry the strips for 6 minutes until it's ready.",
+            "Bake the fries until golden brown in a deep fryrer. When ready transfer to a backing dish. Make sure the fries are spread over the whole dish.",
+            "Cover the fries with a new layer of meat and spread evenly.",
+            "Add a layer of cheese over the meat. You can also use grated cheese. When done put in the oven for a few minutes until the cheese is melted.",
+            "Chop the lettuce, tomato and cucumber in small pieces and mix together. for a basic salad. As extra you can add olives jalapenos and a red union.",
+            "Dived the salad over the dish and Serve with garlicsauce and hot sauce"
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/sxysrt1468240488.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=UIcuiU1kV8I",
+        "tags": ["Snack"]
+    },
+    {
+        "title": "Kentucky Fried Chicken",
+        "category": "Chicken",
+        "region": "American",
+        "ingList": [
+            {
+                "ing": "Chicken",
+                "amount": "1 whole"
+            },
+            {
+                "ing": "Oil",
+                "amount": "2 quarts neutral frying"
+            },
+            {
+                "ing": "Egg White",
+                "amount": "1"
+            },
+            {
+                "ing": "Flour",
+                "amount": "1 1/2 cups "
+            },
+            {
+                "ing": "Brown Sugar",
+                "amount": "1 tablespoon"
+            },
+            {
+                "ing": "Salt",
+                "amount": "1 tablespoon"
+            },
+            {
+                "ing": "paprika",
+                "amount": "1 tablespoon"
+            },
+            {
+                "ing": "onion salt",
+                "amount": "2 teaspoons"
+            },
+            {
+                "ing": "chili powder",
+                "amount": "1 teaspoon"
+            },
+            {
+                "ing": "black pepper",
+                "amount": "1 teaspoon"
+            },
+            {
+                "ing": "celery salt",
+                "amount": "1/2 teaspoon"
+            },
+            {
+                "ing": "sage",
+                "amount": "1/2 teaspoon"
+            },
+            {
+                "ing": "garlic powder",
+                "amount": "1/2 teaspoon"
+            },
+            {
+                "ing": "allspice",
+                "amount": "1/2 teaspoon"
+            },
+            {
+                "ing": "oregano",
+                "amount": "1/2 teaspoon"
+            },
+            {
+                "ing": "basil",
+                "amount": "1/2 teaspoon"
+            },
+            {
+                "ing": "marjoram",
+                "amount": "1/2 teaspoon"
+            }
+        ],
+        "steps": [
+            "Preheat fryer to 350°F. Thoroughly mix together all the spice mix ingredients.",
+            "Combine spice mix with flour, brown sugar and salt.",
+            "Dip chicken pieces in egg white to lightly coat them, then transfer to flour mixture. Turn a few times and make sure the flour mix is really stuck to the chicken. Repeat with all the chicken pieces.",
+            "Let chicken pieces rest for 5 minutes so crust has a chance to dry a bit.",
+            "Fry chicken in batches. Breasts and wings should take 12-14 minutes, and legs and thighs will need a few more minutes. Chicken pieces are done when a meat thermometer inserted into the thickest part reads 165°F.",
+            "Let chicken drain on a few paper towels when it comes out of the fryer. Serve hot."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/xqusqy1487348868.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=PTUxCvCz8Bc",
+        "tags": ["Meat", "Spicy"]
+    },
+    {
+        "title": "Katsu Chicken curry",
+        "category": "Chicken",
+        "region": "Japanese",
+        "ingList": [
+            {
+                "ing": "chicken breast",
+                "amount": "4 pounded to 1cm thickness"
+            },
+            {
+                "ing": "plain flour",
+                "amount": "2 tablespoons"
+            },
+            {
+                "ing": "egg",
+                "amount": "1 beaten"
+            },
+            {
+                "ing": "breadcrumbs",
+                "amount": "100g fine"
+            },
+            {
+                "ing": "vegetable oil",
+                "amount": "230ml frying"
+            },
+            {
+                "ing": "sunflower oil",
+                "amount": "2 tablespoons"
+            },
+            {
+                "ing": "onions",
+                "amount": "2 sliced"
+            },
+            {
+                "ing": "garlic",
+                "amount": "5 chopped cloves"
+            },
+            {
+                "ing": "carrot",
+                "amount": "2 sliced"
+            },
+            {
+                "ing": "plain flour",
+                "amount": "2 tablespoons"
+            },
+            {
+                "ing": "curry powder",
+                "amount": "4 teaspoons"
+            },
+            {
+                "ing": "chicken stock",
+                "amount": "600ml"
+            },
+            {
+                "ing": "honey",
+                "amount": "2 teaspoons"
+            },
+            {
+                "ing": "soy sauce",
+                "amount": "4 teaspoons"
+            },
+            {
+                "ing": "bay leaf",
+                "amount": "1"
+            },
+            {
+                "ing": "garam masala",
+                "amount": "1 teaspoon"
+            }
+        ],
+        "steps": [
+            "Prep:15min  ›  Cook:30min  ›  Ready in:45min ",
+            "",
+            "For the curry sauce: Heat oil in medium non-stick saucepan, add onion and garlic and cook until softened. Stir in carrots and cook over low heat for 10 to 12 minutes.",
+            "Add flour and curry powder; cook for 1 minute. Gradually stir in stock until combined; add honey, soy sauce and bay leaf. Slowly bring to the boil.",
+            "Turn down heat and simmer for 20 minutes or until sauce thickens but is still of pouring consistency. Stir in garam masala. Pour the curry sauce through a sieve; return to saucepan and keep on low heat until ready to serve.",
+            "For the chicken: Season both sides of chicken breasts with salt and pepper. Place flour, egg and breadcrumbs in separate bowls and arrange in a row. Coat the chicken breasts in flour, then dip them into the egg, then coat in breadcrumbs, making sure you cover both sides.",
+            "Heat oil in large frying pan over medium-high heat. Place chicken into hot oil and cook until golden brown, about 3 or 4 minutes each side. Once cooked, place on kitchen paper to absorb excess oil.",
+            "Pour curry sauce over chicken, serve with white rice and enjoy!"
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/vwrpps1503068729.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=MWzxDFRtVbc",
+        "tags": ["Curry", "Meat"]
+    },
+    {
+        "title": "Key Lime Pie",
+        "category": "Dessert",
+        "region": "American",
+        "ingList": [
+            {
+                "ing": "Digestive Biscuits",
+                "amount": "300g"
+            },
+            {
+                "ing": "Butter",
+                "amount": "150g"
+            },
+            {
+                "ing": "Condensed Milk",
+                "amount": "400g"
+            },
+            {
+                "ing": "Egg Yolks",
+                "amount": "3"
+            },
+            {
+                "ing": "Lime",
+                "amount": "4"
+            },
+            {
+                "ing": "Double Cream",
+                "amount": "300ml "
+            },
+            {
+                "ing": "Icing Sugar",
+                "amount": "1 tbls"
+            },
+            {
+                "ing": "Lime",
+                "amount": "to serve"
+            }
+        ],
+        "steps": [
+            "Heat the oven to 160C/fan 140C/gas 3. Whizz the biscuits to crumbs in a food processor (or put in a strong plastic bag and bash with a rolling pin). Mix with the melted butter and press into the base and up the sides of a 22cm loose-based tart tin. Bake in the oven for 10 minutes. Remove and cool.",
+            "Put the egg yolks in a large bowl and whisk for a minute with electric beaters. Add the condensed milk and whisk for 3 minutes then add the zest and juice and whisk again for 3 minutes. Pour the filling into the cooled base then put back in the oven for 15 minutes. Cool then chill for at least 3 hours or overnight if you like.",
+            "When you are ready to serve, carefully remove the pie from the tin and put on a serving plate. To decorate, softly whip together the cream and icing sugar. Dollop or pipe the cream onto the top of the pie and finish with extra lime zest."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/qpqtuu1511386216.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=q4Rz7tUkX9A",
+        "tags": ["Cake", "Pie", "Desert", "Fruity", "Sour"]
+    },
+    {
+        "title": "Kidney Bean Curry",
+        "category": "Vegetarian",
+        "region": "Indian",
+        "ingList": [
+            {
+                "ing": "Vegetable Oil",
+                "amount": "1 tbls"
+            },
+            {
+                "ing": "Onion",
+                "amount": "1 finely chopped "
+            },
+            {
+                "ing": "Garlic",
+                "amount": "2 cloves chopped"
+            },
+            {
+                "ing": "Ginger",
+                "amount": "1 part "
+            },
+            {
+                "ing": "Coriander",
+                "amount": "1 Packet"
+            },
+            {
+                "ing": "Cumin",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Paprika",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Garam Masala",
+                "amount": "2 tsp"
+            },
+            {
+                "ing": "Chopped Tomatoes",
+                "amount": "400g"
+            },
+            {
+                "ing": "Kidney Beans",
+                "amount": "400g"
+            },
+            {
+                "ing": "Basmati Rice",
+                "amount": "to serve"
+            }
+        ],
+        "steps": [
+            "Heat the oil in a large frying pan over a low-medium heat. Add the onion and a pinch of salt and cook slowly, stirring occasionally, until softened and just starting to colour. Add the garlic, ginger and coriander stalks and cook for a further 2 mins, until fragrant.",
+            "",
+            "Add the spices to the pan and cook for another 1 min, by which point everything should smell aromatic. Tip in the chopped tomatoes and kidney beans in their water, then bring to the boil.",
+            "",
+            "Turn down the heat and simmer for 15 mins until the curry is nice and thick. Season to taste, then serve with the basmati rice and the coriander leaves."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/sywrsu1511463066.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=Tp_PMWvIKzo",
+        "tags": ["Curry"]
+    },
+    {
+        "title": "Kedgeree",
+        "category": "Seafood",
+        "region": "British",
+        "ingList": [
+            {
+                "ing": "Smoked Haddock",
+                "amount": "300g"
+            },
+            {
+                "ing": "Bay Leaves",
+                "amount": "2"
+            },
+            {
+                "ing": "Milk",
+                "amount": "300ml "
+            },
+            {
+                "ing": "Eggs",
+                "amount": "4"
+            },
+            {
+                "ing": "Parsley",
+                "amount": "Handful"
+            },
+            {
+                "ing": "Coriander",
+                "amount": "Handful"
+            },
+            {
+                "ing": "Vegetable Oil",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Onion",
+                "amount": "1 chopped"
+            },
+            {
+                "ing": "Coriander",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Curry Powder",
+                "amount": "2 tsp"
+            },
+            {
+                "ing": "Rice",
+                "amount": "300g"
+            }
+        ],
+        "steps": [
+            "For the rice, heat the oil in a large, lidded pan, add the onion, then gently fry for 5 mins until softened but not coloured. Add the spices, season with salt, then continue to fry until the mix start to go brown and fragrant; about 3 mins.",
+            "Add the rice and stir in well. Add 600ml water, stir, then bring to the boil. Reduce to a simmer, then cover for 10 mins. Take off the heat and leave to stand, covered, for 10-15 mins more. The rice will be perfectly cooked if you do not lift the lid before the end of the cooking.",
+            "Meanwhile, put the haddock and bay leaves in a frying pan, cover with the milk, then poach for 10 mins until the flesh flakes. Remove from the milk, peel away the skin, then flake the flesh into thumbsize pieces. Place the eggs in a pan, cover with water, bring to the boil, then reduce to a simmer. Leave for 4½-5 mins, plunge into cold water, then peel and cut the eggs into quarters. Gently mix the fish, eggs, parsley, coriander and rice together in the pan. Serve hot, sprinkled with a few extra herbs."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/utxqpt1511639216.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=_Pw1I1-SItE",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Kung Pao Chicken",
+        "category": "Chicken",
+        "region": "Chinese",
+        "ingList": [
+            {
+                "ing": "Sake",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Soy Sauce",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Sesame Seed Oil",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Corn Flour",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Water",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Chicken",
+                "amount": "500g"
+            },
+            {
+                "ing": "Chilli Powder",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Rice Vinegar",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Brown Sugar",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Spring Onions",
+                "amount": "4 Chopped"
+            },
+            {
+                "ing": "Garlic Clove",
+                "amount": "6 cloves"
+            },
+            {
+                "ing": "Water Chestnut",
+                "amount": "220g"
+            },
+            {
+                "ing": "Peanuts",
+                "amount": "100g "
+            }
+        ],
+        "steps": [
+            "Combine the sake or rice wine, soy sauce, sesame oil and cornflour dissolved in water. Divide mixture in half.",
+            "In a glass dish or bowl, combine half of the sake mixture with the chicken pieces and toss to coat. Cover dish and place in refrigerator for about 30 minutes.",
+            "In a medium frying pan, combine remaining sake mixture, chillies, vinegar and sugar. Mix together and add spring onion, garlic, water chestnuts and peanuts. Heat sauce slowly over medium heat until aromatic.",
+            "Meanwhile, remove chicken from marinade and sauté in a large frying pan until juices run clear. When sauce is aromatic, add sautéed chicken and let simmer together until sauce thickens."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/1525872624.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=QqdcCHQlOe0",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Kung Po Prawns",
+        "category": "Seafood",
+        "region": "Chinese",
+        "ingList": [
+            {
+                "ing": "Prawns",
+                "amount": "400g"
+            },
+            {
+                "ing": "Soy Sauce",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Tomato Puree",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Corn Flour",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Caster Sugar",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Sunflower Oil",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Peanuts",
+                "amount": "85g"
+            },
+            {
+                "ing": "Chilli",
+                "amount": "3 Large"
+            },
+            {
+                "ing": "Brown Sugar",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Garlic Clove",
+                "amount": "6 cloves"
+            },
+            {
+                "ing": "Water Chestnut",
+                "amount": "450g"
+            },
+            {
+                "ing": "Ginger",
+                "amount": "to taste"
+            }
+        ],
+        "steps": [
+            "Mix the cornflour and 1 tbsp soy sauce, toss in the prawns and set aside for 10 mins. Stir the vinegar, remaining soy sauce, tomato purée, sugar and 2 tbsp water together to make a sauce.",
+            "",
+            "When you’re ready to cook, heat a large frying pan or wok until very hot, then add 1 tbsp oil. Fry the prawns until they are golden in places and have opened out– then tip them out of the pan.",
+            "",
+            "Heat the remaining oil and add the peanuts, chillies and water chestnuts. Stir-fry for 2 mins or until the peanuts start to colour, then add the ginger and garlic and fry for 1 more min. Tip in the prawns and sauce and simmer for 2 mins until thickened slightly. Serve with rice."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/1525873040.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=ysiuZm9FIxs",
+        "tags": ["BBQ"]
+    },
+    {
+        "title": "Kafteji",
+        "category": "Vegetarian",
+        "region": "Tunisian",
+        "ingList": [
+            {
+                "ing": "Potatoes",
+                "amount": "5 Large"
+            },
+            {
+                "ing": "Olive Oil",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Green Pepper",
+                "amount": "1"
+            },
+            {
+                "ing": "Onions",
+                "amount": "5"
+            },
+            {
+                "ing": "Ras el hanout",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Pumpkin",
+                "amount": "500g"
+            },
+            {
+                "ing": "Eggs",
+                "amount": "24 Skinned"
+            },
+            {
+                "ing": "Salt",
+                "amount": "Pinch"
+            },
+            {
+                "ing": "Pepper",
+                "amount": "Pinch"
+            }
+        ],
+        "steps": [
+            "Peel potatoes and cut into 5cm cubes.",
+            "Pour 1-2 cm of olive oil into a large pan and heat up very hot. Fry potatoes until golden brown for 20 minutes, turning from time to time. Place on kitchen paper to drain.",
+            "Cut the peppers in half and remove seeds. Rub a little olive oil on them and place the cut side down on a baking tray. Place them under the grill. Grill until the skin is dark and bubbly. While the peppers are still hot, put them into a plastic sandwich bag and seal it. Take them out after 15 minutes and remove skins.",
+            "In the meantime, heat more olive oil another pan. Peel the onions and cut into thin rings. Fry for 15 minutes until golden brown, turning them often. Add the Ras el hanout at the end.",
+            "Cut the pumpkin into 5cm cubes and fry in the same pan you used for the potatoes for 10-15 minutes until it is soft and slightly browned. Place on kitchen paper.",
+            "Pour the remaining olive oil out of the pan and put all the cooked vegetables into the pan and mix. Whisk eggs and pour them over the vegetables. Put the lid on the pan so that the eggs cook. Put the contents of the pan onto a large chopping board, add salt and pepper and chopped and mix everything with a big knife."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/1bsv1q1560459826.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=-TFf-Zu-xQU",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Keleya Zaara",
+        "category": "Lamb",
+        "region": "Tunisian",
+        "ingList": [
+            {
+                "ing": "Olive Oil",
+                "amount": "4 tbs"
+            },
+            {
+                "ing": "Lamb",
+                "amount": "750g"
+            },
+            {
+                "ing": "Saffron",
+                "amount": "1 1/2 tsp "
+            },
+            {
+                "ing": "Onion",
+                "amount": "1 Large Chopped"
+            },
+            {
+                "ing": "Water",
+                "amount": "25 ml"
+            },
+            {
+                "ing": "Parsley",
+                "amount": "30g"
+            },
+            {
+                "ing": "Butter",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Lemon",
+                "amount": "1"
+            }
+        ],
+        "steps": [
+            "Heat the vegetable oil in a large frying pan over medium-high heat. Add the lamb and cook until browned on all sides, about 5 minutes. Season with saffron, salt and pepper to taste; stir in all but 4 tablespoons of the onion, and pour in the water. Bring to the boil, then cover, reduce heat to medium-low, and simmer until the lamb is tender, about 15 minutes.",
+            "Uncover the pan, stir in the butter and allow the sauce reduce 5 to 10 minutes to desired consistency. Season to taste with salt and pepper, then pour into a serving dish. Sprinkle with the remaining chopped onions and parsley. Garnish with lemon wedges to serve.",
+            ""
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/8x09hy1560460923.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=u_OSIChzuL0",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Kumpir",
+        "category": "Side",
+        "region": "Turkish",
+        "ingList": [
+            {
+                "ing": "Potatoes",
+                "amount": "2 large"
+            },
+            {
+                "ing": "Butter",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Cheese",
+                "amount": "150g"
+            },
+            {
+                "ing": "Onion",
+                "amount": "1 large"
+            },
+            {
+                "ing": "Red Pepper",
+                "amount": "1 large"
+            },
+            {
+                "ing": "Red Chile Flakes",
+                "amount": "Pinch"
+            }
+        ],
+        "steps": [
+            "If you order kumpir in Turkey, the standard filling is first, lots of butter mashed into the potato, followed by cheese. There’s then a row of other toppings that you can just point at to your heart’s content – sweetcorn, olives, salami, coleslaw, Russian salad, allsorts – and you walk away with an over-stuffed potato because you got ever-excited by the choices on offer.",
+            "",
+            "Grate (roughly – you can use as much as you like) 150g of cheese.",
+            "Finely chop one onion and one sweet red pepper.",
+            "Put these ingredients into a large bowl with a good sprinkling of salt and pepper, chilli flakes (optional)."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/mlchx21564916997.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=IEDEtZ4UVtI",
+        "tags": ["SideDish"]
+    },
+    {
+        "title": "Krispy Kreme Donut",
+        "category": "Dessert",
+        "region": "American",
+        "ingList": [
+            {
+                "ing": "Yeast",
+                "amount": "1/4 ounce"
+            },
+            {
+                "ing": "Water",
+                "amount": "1/4 cup"
+            },
+            {
+                "ing": "Water",
+                "amount": "1 1/2 cups "
+            },
+            {
+                "ing": "Sugar",
+                "amount": "1/2 cup "
+            },
+            {
+                "ing": "Salt",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Eggs",
+                "amount": "2"
+            },
+            {
+                "ing": "Shortening",
+                "amount": "1/3 cup"
+            },
+            {
+                "ing": "Flour",
+                "amount": "5 drops"
+            },
+            {
+                "ing": "Canola Oil",
+                "amount": "Sprinking"
+            },
+            {
+                "ing": "Milk",
+                "amount": "1/2 cup"
+            },
+            {
+                "ing": "Sugar",
+                "amount": "2 cups "
+            },
+            {
+                "ing": "Vanilla",
+                "amount": "1 1/2 cups "
+            },
+            {
+                "ing": "Boiling Water",
+                "amount": "6 tablespoons"
+            },
+            {
+                "ing": "Butter",
+                "amount": " 1/3 cup"
+            }
+        ],
+        "steps": [
+            "Dissolve yeast in warm water in 2 1/2-quart bowl. Add milk, sugar, salt, eggs, shortening and 2 cups flour. Beat on low for 30 seconds, scraping bowl constantly. Beat on medium speed for 2 minutes, scraping bowl occasionally. Stir in remaining flour until smooth. Cover and let rise until double, 50-60 minutes. (Dough is ready when indentation remains when touched.) Turn dough onto floured surface; roll around lightly to coat with flour. Gently roll dough 1/2-inch thick with floured rolling pin. Cut with floured doughnut cutter. Cover and let rise until double, 30-40 minutes.",
+            "Heat vegetable oil in deep fryer to 350°. Slide doughnuts into hot oil with wide spatula. Turn doughnuts as they rise to the surface. Fry until golden brown, about 1 minute on each side. Remove carefully from oil (do not prick surface); drain. Dip the doughnuts into creamy glaze set on rack.",
+            "",
+            "",
+            "Glaze: ",
+            "Heat butter until melted. Remove from heat. Stir in powdered sugar and vanilla until smooth. Stir in water, 1 tablespoon at a time, until desired consistency."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/4i5cnx1587672171.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=SamYg6IUGOI",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Koshari",
+        "category": "Vegetarian",
+        "region": "Egyptian",
+        "ingList": [
+            {
+                "ing": "Brown Lentils",
+                "amount": "1 1/2 cups "
+            },
+            {
+                "ing": "Rice",
+                "amount": "1 1/2 cups "
+            },
+            {
+                "ing": "Coriander",
+                "amount": "1/2 tsp"
+            },
+            {
+                "ing": "Macaroni",
+                "amount": "2 cups "
+            },
+            {
+                "ing": "Chickpeas",
+                "amount": "Can"
+            },
+            {
+                "ing": "Onion",
+                "amount": "1 large"
+            },
+            {
+                "ing": "Salt",
+                "amount": "Sprinking"
+            },
+            {
+                "ing": "Vegetable Oil",
+                "amount": "1/2 cup "
+            }
+        ],
+        "steps": [
+            "Cook the lentils. Bring lentils and 4 cups of water to a boil in a medium pot or saucepan over high heat. Reduce the heat to low and cook until lentils are just tender (15-17 minutes). Drain from water and season with a little salt. (Note: when the lentils are ready, they should not be fully cooked. They should be only par-cooked and still have a bite to them as they need to finish cooking with the rice).",
+            "Now, for the rice. Drain the rice from its soaking water. Combine the par-cooked lentils and the rice in the saucepan over medium-high heat with 1 tbsp cooking oil, salt, pepper, and coriander. Cook for 3 minutes, stirring regularly. Add warm water to cover the rice and lentil mixture by about 1 1/2 inches (you’ll probably use about 3 cups of water here). Bring to a boil; the water should reduce a bit. Now cover and cook until all the liquid has been absorbed and both the rice and lentils are well cooked through (about 20 minutes).  Keep covered and undisturbed for 5 minutes or so.",
+            "Now make the pasta. While the rice and lentils are cooking, make the pasta according to package instructions by adding the elbow pasta to boiling water with a dash of salt and a little oil. Cook until the pasta is al dente. Drain.",
+            "Cover the chickpeas and warm in the microwave briefly before serving.",
+            "",
+            "Make the crispy onion topping. ",
+            "",
+            "Sprinkle the onion rings with salt, then toss them in the flour to coat. Shake off excess flour.",
+            "In a large skillet, heat the cooking oil over medium-high heat, cook the onion rings, stirring often, until they turn a nice caramelized brown. Onions must be crispy, but not burned (15-20 minutes)."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/4er7mj1598733193.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=y0d2ZMZBW4Y",
+        "tags": ["Misc"]
+    }
+]

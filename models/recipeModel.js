@@ -1,10 +1,7 @@
-import { Schema } from "mongoose";
-// import cardSchema from "./cardSchema.js";
-import ingListSchema from "./ingListSchema.js";
+import { Schema, model } from "mongoose";
+import ingListSchema from "../schemas/ingListSchema.js";
 
-const blogPageSchema = new Schema({
-    //card no longer used
-    // card: cardSchema,
+const recipeSchema = new Schema({
     title: { type: String, maxLength: 100 },
     category: String,
     region: String,
@@ -35,6 +32,24 @@ const blogPageSchema = new Schema({
             "must be a valid URL",
         ],
     },
+    tags: [String],
+    clerkUser: {
+        type: Schema.Types.ObjectId,
+        ref: "ClerkUser",
+        required: true,
+        default: "655f84b8e921f5d366aca193",
+    },
+    blog: {
+        type: Schema.Types.ObjectId,
+        ref: "Blog",
+        required: true,
+        default: "6564e5d24a1720b2b61ca4dc",
+    },
+    clerkUserId: {
+        type: String,
+        required: true,
+        default: "user_2YaLOVB9glH3fMsNCh5Ua7dQap7",
+    },
 });
 
-export default blogPageSchema;
+export default model("Recipe", recipeSchema);

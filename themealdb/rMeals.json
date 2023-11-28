@@ -1,0 +1,855 @@
+[
+    {
+        "title": "Rigatoni with fennel sausage sauce",
+        "category": "Lamb",
+        "region": "Italian",
+        "ingList": [
+            {
+                "ing": "olive oil",
+                "amount": "2½ tbsp"
+            },
+            {
+                "ing": "Italian fennel sausages",
+                "amount": "6 cut into 1.5cm-thick slices"
+            },
+            {
+                "ing": "onion",
+                "amount": "1 large peeled and chopped"
+            },
+            {
+                "ing": "fennel bulb",
+                "amount": "1 trimmed and roughly chopped; reserve any fronds to garnish"
+            },
+            {
+                "ing": "smoky paprika",
+                "amount": "½ tsp"
+            },
+            {
+                "ing": "garlic",
+                "amount": "1 clove, peeled and sliced"
+            },
+            {
+                "ing": "fennel seeds",
+                "amount": "2 tsp lightly toasted and then gently crushed"
+            },
+            {
+                "ing": "red wine",
+                "amount": "100ml"
+            },
+            {
+                "ing": "chopped tomatoes",
+                "amount": "400g tinned"
+            },
+            {
+                "ing": "caster sugar",
+                "amount": "½ tsp"
+            },
+            {
+                "ing": "pitted black olives",
+                "amount": "50g cut in half lengthways"
+            },
+            {
+                "ing": "rigatoni",
+                "amount": "500g"
+            },
+            {
+                "ing": "pecorino",
+                "amount": "30g roughly crumbled into 0.5cm pieces"
+            },
+            {
+                "ing": "anchovy fillet",
+                "amount": "1  rinsed and patted dry"
+            },
+            {
+                "ing": "garlic",
+                "amount": "1 clove, peeled and crushed"
+            },
+            {
+                "ing": "olive oil",
+                "amount": "60ml"
+            },
+            {
+                "ing": "basil leaves",
+                "amount": "50g torn"
+            }
+        ],
+        "steps": [
+            "Heat a tablespoon of oil in a large saute pan for which you have a lid. Add the sausage pieces and fry on a medium-high heat for 10 minutes, stirring regularly, until golden-brown all over. Transfer the sausages to a plate, then add the onion and fennel to the hot pan and fry for 15 minutes, stirring once in a while, until soft and caramelised; if the pan goes a bit dry, add a teaspoon or so of extra oil. Stir in the paprika, garlic and half the fennel seeds, fry for two minutes more, then pour on the wine and boil for 30 seconds, to reduce by half. Add the tomatoes, sugar, 100ml water, the seared sausage and half a teaspoon of salt, cover and simmer for 30 minutes; remove the lid after 10 minutes, and cook until the sauce is thick and rich. Remove from the heat, stir through the olives and remaining fennel seeds and set aside until you’re ready to serve.",
+            "",
+            "Bring a large pot of salted water to a boil, add the pasta and cook for 12-14 minutes (or according to the instructions on the packet), until al dente. Meanwhile, reheat the sauce. Drain the pasta, return it to the pot, stir in a tablespoon of oil, then divide between the bowls. ",
+            "",
+            "Put all the pesto ingredients except the basil in the small bowl of a food processor. Add a tablespoon of water and blitz to a rough paste. Add the basil, then blitz until just combined (the pesto has a much better texture if the basil is not overblended).",
+            "",
+            "Spoon over the ragù and top with a spoonful of pesto. Finish with a sprinkling of chopped fennel fronds, if you have any, and serve at once."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/qtqvys1468573168.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=45dpOfESxr8",
+        "tags": ["Pasta"]
+    },
+    {
+        "title": "Rocky Road Fudge",
+        "category": "Dessert",
+        "region": "American",
+        "ingList": [
+            {
+                "ing": "Miniature Marshmallows",
+                "amount": "2 cups"
+            },
+            {
+                "ing": "Chocolate Chips",
+                "amount": "3 cups"
+            },
+            {
+                "ing": "Peanut Butter",
+                "amount": "½ cup"
+            },
+            {
+                "ing": "Vanilla Extract",
+                "amount": "1 tsp"
+            },
+            {
+                "ing": "Peanuts",
+                "amount": "1 ¼ cups"
+            }
+        ],
+        "steps": [
+            "Line an 8-inch-square baking pan with wax paper or foil, and coat with non-stick spray.",
+            "Pour ½ cup of the miniature marshmallows into the bottom of the lined baking dish.",
+            "In a microwave-safe bowl, combine the chocolate chips and peanut butter. Microwave the chocolate mixture in 20-second intervals, stirring in between each interval, until the chocolate is melted.",
+            "Add the vanilla extract and stir well, until smooth.",
+            "Reserve 2 tablespoons of the chopped almonds or peanuts, and set aside.",
+            "Fold 1 ½ cups of the miniature marshmallows and the remaining chopped nuts into the chocolate mixture.",
+            "Transfer the chocolate mixture into the prepared pan and spread into an even layer. Immediately top with the reserved chopped nuts and the mallow bits or additional miniature marshmallows, if using.",
+            "Refrigerate for 4 hours, or until set.",
+            "Remove the fudge and wax paper from the pan. Carefully peel all of wax paper from the fudge.",
+            "Cut the fudge into bite-sized pieces and serve."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/vtxyxv1483567157.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=N1aJ3nEYXyg",
+        "tags": ["Chocolate", "Snack", "Sweet", "Baking"]
+    },
+    {
+        "title": "Recheado Masala Fish",
+        "category": "Seafood",
+        "region": "Indian",
+        "ingList": [
+            {
+                "ing": "Mackerel",
+                "amount": "4"
+            },
+            {
+                "ing": "Red Chili",
+                "amount": "18 dried"
+            },
+            {
+                "ing": "Ginger",
+                "amount": "1 inch"
+            },
+            {
+                "ing": "Garlic",
+                "amount": "8 cloves"
+            },
+            {
+                "ing": "Pepper",
+                "amount": "1.5 tsp"
+            },
+            {
+                "ing": "Cumin",
+                "amount": "1 tsp"
+            },
+            {
+                "ing": "Turmeric",
+                "amount": "½ tsp"
+            },
+            {
+                "ing": "Cinnamon stick",
+                "amount": "4"
+            },
+            {
+                "ing": "Clove",
+                "amount": "2"
+            },
+            {
+                "ing": "Cardamom",
+                "amount": "1 tbsp"
+            },
+            {
+                "ing": "Sugar",
+                "amount": "2 marble sized"
+            },
+            {
+                "ing": "Tamarind ball",
+                "amount": "2.5 tbsp"
+            },
+            {
+                "ing": "Vinegar",
+                "amount": "for frying"
+            },
+            {
+                "ing": "Oil"
+            }
+        ],
+        "steps": [
+            "Soak all the spices, ginger, garlic, tamarind pulp and kashmiri chilies except oil in vinegar.",
+            "Add sugar and salt.",
+            "Also add turmeric powder.",
+            "Combine all nicely and marinate for 35-40 mins.",
+            "Grind the mixture until soft and smooth. Add more vinegar if required but ensure the paste has to be thick so add vinegar accordingly. If the masala paste is thin then it would not stick to the fish.",
+            "Rinse the fish slit from the center and give some incision from the top. You could see the fish below for clarity.",
+            "Now stuff the paste into the center and into the incision. Coat the entire fish with this paste. Marinate the fish for 30 mins.",
+            "Place oil in a shallow pan, once oil is quite hot shallow fry the stuffed mackerels.",
+            "Fry until golden brown from both sides",
+            "Serve the recheado mackerels hot with salad, lime wedges, rice and curry.",
+            "Notes",
+            "1. Ensure the masala paste is thick else the result won't be good.",
+            "2. If you aren't able to find kashmiri chilies then use bedgi chilies or kashmiri red chili powder.",
+            "3. You could use white vinegar or coconut vinegar.",
+            "4. Any left over paste could be stored in the fridge for future use.",
+            "5. Cinnamon could be avoided as it's a strong spice used generally for meat or chicken."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/uwxusv1487344500.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=FXtCris37nE",
+        "tags": ["Fish", "Spicy"]
+    },
+    {
+        "title": "Ribollita",
+        "category": "Vegetarian",
+        "region": "Italian",
+        "ingList": [
+            {
+                "ing": "Olive Oil",
+                "amount": "5 tablespoons"
+            },
+            {
+                "ing": "Onion",
+                "amount": "1 chopped"
+            },
+            {
+                "ing": "Carrot",
+                "amount": "1 chopped"
+            },
+            {
+                "ing": "Celery",
+                "amount": "1 stalk chopped"
+            },
+            {
+                "ing": "Garlic",
+                "amount": "1 tablespoon minced"
+            },
+            {
+                "ing": "Cannellini Beans",
+                "amount": "2 cups"
+            },
+            {
+                "ing": "Canned tomatoes",
+                "amount": "1"
+            },
+            {
+                "ing": "Water",
+                "amount": "4 cups"
+            },
+            {
+                "ing": "Rosemary",
+                "amount": "1 fresh sprig"
+            },
+            {
+                "ing": "Thyme",
+                "amount": "1 fresh sprig"
+            },
+            {
+                "ing": "Kale",
+                "amount": "1 pound chopped"
+            },
+            {
+                "ing": "Wholegrain Bread",
+                "amount": "4 thick slices"
+            },
+            {
+                "ing": "Red Onion",
+                "amount": "1 thinly sliced"
+            },
+            {
+                "ing": "Parmesan",
+                "amount": "½ cup freshly grated"
+            }
+        ],
+        "steps": [
+            "Put 2 tablespoons of the oil in a large pot over medium heat. When it’s hot, add onion, carrot, celery and garlic; sprinkle with salt and pepper and cook, stirring occasionally, until vegetables are soft, 5 to 10 minutes.",
+            "Heat the oven to 500 degrees. Drain the beans; if they’re canned, rinse them as well. Add them to the pot along with tomatoes and their juices and stock, rosemary and thyme. Bring to a boil, then reduce heat so the soup bubbles steadily; cover and cook, stirring once or twice to break up the tomatoes, until the flavors meld, 15 to 20 minutes.",
+            "Fish out and discard rosemary and thyme stems, if you like, and stir in kale. Taste and adjust seasoning. Lay bread slices on top of the stew so they cover the top and overlap as little as possible. Scatter red onion slices over the top, drizzle with the remaining 3 tablespoons oil and sprinkle with Parmesan.",
+            "Put the pot in the oven and bake until the bread, onions and cheese are browned and crisp, 10 to 15 minutes. (If your pot fits under the broiler, you can also brown the top there.) Divide the soup and bread among 4 bowls and serve."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/xrrwpx1487347049.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=BiQUYTBb6eQ",
+        "tags": ["Vegetarian"]
+    },
+    {
+        "title": "Roasted Eggplant With Tahini, Pine Nuts, and Lentils",
+        "category": "Vegetarian",
+        "region": "American",
+        "ingList": [
+            {
+                "ing": "Olive Oil",
+                "amount": "2 tablespoons"
+            },
+            {
+                "ing": "Carrots",
+                "amount": "2 small cut into chunks"
+            },
+            {
+                "ing": "Celery",
+                "amount": "2 small stalks"
+            },
+            {
+                "ing": "Onion",
+                "amount": "1 medium finely diced"
+            },
+            {
+                "ing": "Garlic",
+                "amount": "6 medium cloves sliced"
+            },
+            {
+                "ing": "Brown Lentils",
+                "amount": "12 ounces (340g)"
+            },
+            {
+                "ing": "Bay Leaves",
+                "amount": "2"
+            },
+            {
+                "ing": "Water",
+                "amount": "4 cups"
+            },
+            {
+                "ing": "Salt",
+                "amount": "Pinch"
+            },
+            {
+                "ing": "Apple Cider Vinegar",
+                "amount": "2 teaspoons (10ml)"
+            },
+            {
+                "ing": "Pepper",
+                "amount": "Pinch"
+            },
+            {
+                "ing": "Egg Plants",
+                "amount": "2 large"
+            },
+            {
+                "ing": "Rosemary",
+                "amount": "4 sprigs"
+            },
+            {
+                "ing": "Pine nuts",
+                "amount": "1/4 cup "
+            },
+            {
+                "ing": "Parsley",
+                "amount": "2 tablespoons"
+            }
+        ],
+        "steps": [
+            "",
+            "For the Lentils: Adjust oven rack to center position and preheat oven to 450°F to prepare for roasting eggplant. Meanwhile, heat 2 tablespoons olive oil in a medium saucepan over medium heat until shimmering. Add carrots, celery, and onion and cook, stirring, until softened but not browned, about 4 minutes. Add garlic and cook, stirring, until fragrant, about 30 seconds. Add lentils, bay leaves, stock or water, and a pinch of salt. Bring to a simmer, cover with the lid partially ajar, and cook until lentils are tender, about 30 minutes. (Top up with water if lentils are at any point not fully submerged.) Remove lid, stir in vinegar, and reduce until lentils are moist but not soupy. Season to taste with salt and pepper, cover, and keep warm until ready to serve.",
+            "",
+            "2.",
+            "For the Eggplant: While lentils cook, cut each eggplant in half. Score flesh with the tip of a paring knife in a cross-hatch pattern at 1-inch intervals. Transfer to a foil-lined rimmed baking sheet, cut side up, and brush each eggplant half with 1 tablespoon oil, letting each brushstroke be fully absorbed before brushing with more. Season with salt and pepper. Place a rosemary sprig on top of each one. Transfer to oven and roast until completely tender and well charred, 25 to 35 minutes. Remove from oven and discard rosemary.",
+            "",
+            "3.",
+            "To Serve: Heat 2 tablespoons olive oil and pine nuts in a medium skillet set over medium heat. Cook, tossing nuts frequently, until golden brown and aromatic, about 4 minutes. Transfer to a bowl to halt cooking. Stir half of parsley and rosemary into lentils and transfer to a serving platter. Arrange eggplant halves on top. Spread a few tablespoons of tahini sauce over each eggplant half and sprinkle with pine nuts. Sprinkle with remaining parsley and rosemary, drizzle with additional olive oil, and serve."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/ysqrus1487425681.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=HkywCtna9t0",
+        "tags": ["Vegetarian", "Pulse", "Nutty"]
+    },
+    {
+        "title": "Rock Cakes",
+        "category": "Dessert",
+        "region": "British",
+        "ingList": [
+            {
+                "ing": "Self-raising Flour",
+                "amount": "225g"
+            },
+            {
+                "ing": "Caster Sugar",
+                "amount": "75g"
+            },
+            {
+                "ing": "Baking Powder",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Butter",
+                "amount": "125g"
+            },
+            {
+                "ing": "Dried Fruit",
+                "amount": "150g"
+            },
+            {
+                "ing": "Eggs",
+                "amount": "1"
+            },
+            {
+                "ing": "Milk",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Vanilla Extract",
+                "amount": "2 tsp"
+            }
+        ],
+        "steps": [
+            "Preheat oven to 180C/350F/Gas 4 and line a baking tray with baking parchment.",
+            "Mix the flour, sugar and baking powder in a bowl and rub in the cubed butter until the mixture looks like breadcrumbs, then mix in the dried fruit.",
+            "In a clean bowl, beat the egg and milk together with the vanilla extract.",
+            "Add the egg mixture to the dry ingredients and stir with a spoon until the mixture just comes together as a thick, lumpy dough. Add a teaspoon more milk if you really need it to make the mixture stick together.",
+            "Place golfball-sized spoons of the mixture onto the prepared baking tray. Leave space between them as they will flatten and spread out to double their size during baking.",
+            "Bake for 15-20 minutes, until golden-brown. Remove from the oven, allow to cool for a couple of minutes then turn them out onto a wire rack to cool."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/tqrrsq1511723764.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=tY3taZO3Aro",
+        "tags": ["Baking", "Cake"]
+    },
+    {
+        "title": "Ratatouille",
+        "category": "Vegetarian",
+        "region": "French",
+        "ingList": [
+            {
+                "ing": "Aubergine",
+                "amount": "2 large"
+            },
+            {
+                "ing": "Courgettes",
+                "amount": "4"
+            },
+            {
+                "ing": "Yellow Pepper",
+                "amount": "2"
+            },
+            {
+                "ing": "Tomato",
+                "amount": "4 large"
+            },
+            {
+                "ing": "Olive Oil",
+                "amount": "5 tbs"
+            },
+            {
+                "ing": "Basil",
+                "amount": "Bunch"
+            },
+            {
+                "ing": "Onion",
+                "amount": "1 medium"
+            },
+            {
+                "ing": "Garlic Clove",
+                "amount": "3 finely chopped"
+            },
+            {
+                "ing": "Red Wine Vinegar",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Sugar",
+                "amount": "1 tsp "
+            }
+        ],
+        "steps": [
+            "Cut the aubergines in half lengthways. Place them on the board, cut side down, slice in half lengthways again and then across into 1.5cm chunks. Cut off the courgettes ends, then across into 1.5cm slices. Peel the peppers from stalk to bottom. Hold upright, cut around the stalk, then cut into 3 pieces. Cut away any membrane, then chop into bite-size chunks.",
+            "Score a small cross on the base of each tomato, then put them into a heatproof bowl. Pour boiling water over the tomatoes, leave for 20 secs, then remove. Pour the water away, replace the tomatoes and cover with cold water. Leave to cool, then peel the skin away. Quarter the tomatoes, scrape away the seeds with a spoon, then roughly chop the flesh.",
+            "Set a sauté pan over medium heat and when hot, pour in 2 tbsp olive oil. Brown the aubergines for 5 mins on each side until the pieces are soft. Set them aside and fry the courgettes in another tbsp oil for 5 mins, until golden on both sides. Repeat with the peppers. Don’t overcook the vegetables at this stage, as they have some more cooking left in the next step.",
+            "Tear up the basil leaves and set aside. Cook the onion in the pan for 5 mins. Add the garlic and fry for a further min. Stir in the vinegar and sugar, then tip in the tomatoes and half the basil. Return the vegetables to the pan with some salt and pepper and cook for 5 mins. Serve with basil."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/wrpwuu1511786491.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=BFdQUgAFtGU",
+        "tags": ["Vegetables", "SideDish"]
+    },
+    {
+        "title": "Rappie Pie",
+        "category": "Chicken",
+        "region": "Canadian",
+        "ingList": [
+            {
+                "ing": "Butter",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Onions",
+                "amount": "2 chopped"
+            },
+            {
+                "ing": "Chicken Stock",
+                "amount": "4 qt "
+            },
+            {
+                "ing": "Chicken Breast",
+                "amount": "1.5kg"
+            },
+            {
+                "ing": "Potatoes",
+                "amount": "4kg"
+            },
+            {
+                "ing": "Salt",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Black Pepper",
+                "amount": "1tbsp"
+            }
+        ],
+        "steps": [
+            "Preheat oven to 400 degrees F (200 degrees C). Grease a 10x14x2-inch baking pan.",
+            "Heat margarine in a skillet over medium heat; stir in onion. Cook and stir until onion has softened and turned translucent, about 5 minutes. Reduce heat to low and continue to cook and stir until onion is very tender and dark brown, about 40 minutes more.",
+            "Bring chicken broth to a boil in a large pot; stir in chicken breasts, reduce heat, and simmer until chicken is no longer pink at the center, about 20 minutes. Remove from heat. Remove chicken breasts to a plate using a slotted spoon; reserve broth.",
+            "Juice potatoes with an electric juicer; place dry potato flesh into a bowl and discard juice. Stir salt and pepper into potatoes; stir in enough reserved broth to make the mixture the consistency of oatmeal. Set remaining broth aside.",
+            "Spread half of potato mixture evenly into the prepared pan. Lay cooked chicken breast evenly over potatoes; scatter caramelized onion evenly over chicken. Spread remaining potato mixture over onions and chicken to cover.",
+            "Bake in the preheated oven until golden brown, about 1 hour. Reheat chicken broth; pour over individual servings as desired."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/ruwpww1511817242.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=Ys2kZnTVXAM",
+        "tags": ["Pie"]
+    },
+    {
+        "title": "Red Peas Soup",
+        "category": "Beef",
+        "region": "Jamaican",
+        "ingList": [
+            {
+                "ing": "Kidney Beans",
+                "amount": "2 cups "
+            },
+            {
+                "ing": "Carrots",
+                "amount": "1 large"
+            },
+            {
+                "ing": "Spring Onions",
+                "amount": "2 chopped"
+            },
+            {
+                "ing": "Thyme",
+                "amount": "4 sprigs"
+            },
+            {
+                "ing": "Onion",
+                "amount": "1 Diced"
+            },
+            {
+                "ing": "Black Pepper",
+                "amount": "1/2 tsp"
+            },
+            {
+                "ing": "Red Pepper",
+                "amount": "2 chopped"
+            },
+            {
+                "ing": "Garlic Clove",
+                "amount": "4 Mashed"
+            },
+            {
+                "ing": "Allspice",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Beef",
+                "amount": "2 Lbs"
+            },
+            {
+                "ing": "Water",
+                "amount": "2L"
+            },
+            {
+                "ing": "Potatoes",
+                "amount": "4"
+            },
+            {
+                "ing": "Plain Flour",
+                "amount": "1 cup "
+            },
+            {
+                "ing": "Water",
+                "amount": "1/4 cup"
+            },
+            {
+                "ing": "Coconut Milk",
+                "amount": "1 cup "
+            }
+        ],
+        "steps": [
+            "Wash and rinse the dried kidney beans.. then cover with water in a deep bowl. Remember as they soak they will expand to at least triple the size they were originally so add a lot of water to the bowl. Soak them overnight or for at least 2 hrs to make the cooking step go quicker. I tossed out the water they were soaked in after it did the job.",
+            "",
+            "Have your butcher cut the salted pigtail into 2 inch pieces as it will be very difficult to cut with an ordinary kitchen knife. Wash, then place a deep pot with water and bring to a boil. Cook for 20 minutes, then drain + rinse and repeat (boil again in water). The goal is to make the pieces of pig tails tender and to remove most of the salt it was cured in.",
+            "",
+            "Time to start the soup. Place everything in the pot (except the flour and potato), then cover with water and place on a high flame to bring to a boil. As it comes to a boil, skim off any scum/froth at the top and discard. Reduce the heat to a gentle boil and allow it to cook for 1 hr and 15 mins.. basically until the beans are tender and start falling apart.",
+            "",
+            "It’s now time to add the potato (and Yams etc if you’re adding it) as well as the coconut milk and continue cooking for 15 minutes.",
+            "",
+            "Now is a good time to start making the basic dough for the spinner dumplings. Mix the flour and water (add a pinch of salt if you want) until you have a soft/smooth dough. allow it to rest for 5 minutes, then pinch of a tablespoon at a time and roll between your hands to form a cigarette shape.",
+            "",
+            "Add them to the pot, stir well and continue cooking for another 15 minutes on a rolling boil.",
+            "",
+            "You’ll notice that I didn’t add any salt to the pot as the remaining salt from the salted pigtails will be enough to properly season this dish. However you can taste and adjust accordingly. Lets recap the timing part of things so you’re not confused. Cook the base of the soup for 1 hr and 15 minute or until tender, then add the potatoes and cook for 15 minutes, then add the dumplings and cook for a further 15 minutes. Keep in mind that this soup will thicken quite a bit as it cools.",
+            "",
+            "While this is not a traditional recipe to any one specific island, versions of this soup (sometimes called stewed peas) can be found throughout the Caribbean, Latin America and Africa. A hearty bowl of this soup will surely give you the sleepies (some may call it ethnic fatigue). You can certainly freeze the leftovers and heat it up another day."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/sqpqtp1515365614.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=1ogCfDXotMw",
+        "tags": ["Soup", "SideDish"]
+    },
+    {
+        "title": "Roast fennel and aubergine paella",
+        "category": "Vegan",
+        "region": "Spanish",
+        "ingList": [
+            {
+                "ing": "Baby Aubergine",
+                "amount": "6 small"
+            },
+            {
+                "ing": "Fennel",
+                "amount": "4 small"
+            },
+            {
+                "ing": "Red Pepper",
+                "amount": "1 thinly sliced"
+            },
+            {
+                "ing": "Courgettes",
+                "amount": "1 medium"
+            },
+            {
+                "ing": "Onion",
+                "amount": "1 finely chopped "
+            },
+            {
+                "ing": "Paella Rice",
+                "amount": "300g"
+            },
+            {
+                "ing": "Paprika",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Saffron",
+                "amount": "pinch"
+            },
+            {
+                "ing": "White Wine",
+                "amount": "200ml"
+            },
+            {
+                "ing": "Vegetable Stock",
+                "amount": "700ml"
+            },
+            {
+                "ing": "Frozen Peas",
+                "amount": "100g "
+            },
+            {
+                "ing": "Lemon",
+                "amount": "1 chopped"
+            },
+            {
+                "ing": "Parsley",
+                "amount": "Handful"
+            },
+            {
+                "ing": "Salt",
+                "amount": "pinch"
+            },
+            {
+                "ing": "Black Pepper",
+                "amount": "pinch"
+            }
+        ],
+        "steps": [
+            "1 Put the fennel, aubergine, pepper and courgette in a roasting tray. Add a glug of olive oil, season with salt and pepper and toss around to coat the veggies in the oil. Roast in the oven for 20 minutes, turning a couple of times until the veg are pretty much cooked through and turning golden.",
+            "",
+            "2 Meanwhile, heat a paella pan or large frying pan over a low– medium heat and add a glug of olive oil. Sauté the onion for 8–10 minutes until softened. Increase the heat to medium and stir in the rice, paprika and saffron. Cook for around 1 minute to start toasting the rice, then add the white wine. Reduce by about half before stirring in two-thirds of the stock. Reduce to a simmer and cook for 10 minutes without a lid, stirring a couple of times.",
+            "",
+            "3 Stir in the peas, add some seasoning, then gently mix in the roasted veg. Pour over the remaining stock, arrange the lemon wedges on top and cover with a lid or some aluminium foil. Cook for a further 10 minutes.",
+            "",
+            "4 To ensure you get the classic layer of toasted rice at the bottom of the pan, increase the heat to high until you hear a slight crackle. Remove from the heat and sit for 5 minutes before sprinkling over the parsley and serving."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/1520081754.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=H5SmjR-fxUs",
+        "tags": ["Vegan", "Paella"]
+    },
+    {
+        "title": "Rosół (Polish Chicken Soup)",
+        "category": "Chicken",
+        "region": "Polish",
+        "ingList": [
+            {
+                "ing": "Chicken Legs",
+                "amount": "4 Chopped"
+            },
+            {
+                "ing": "Onions",
+                "amount": "2 large"
+            },
+            {
+                "ing": "Carrots",
+                "amount": "5 chopped"
+            },
+            {
+                "ing": "Leek",
+                "amount": "1 chopped"
+            },
+            {
+                "ing": "Celery",
+                "amount": "1 small"
+            },
+            {
+                "ing": "Cabbage",
+                "amount": "1/4 "
+            },
+            {
+                "ing": "Cloves",
+                "amount": "1 whole"
+            },
+            {
+                "ing": "Allspice",
+                "amount": "1tsp"
+            },
+            {
+                "ing": "Bay Leaf",
+                "amount": "2"
+            },
+            {
+                "ing": "Parsley",
+                "amount": "4 sprigs"
+            },
+            {
+                "ing": "Dill",
+                "amount": "4 sprigs"
+            },
+            {
+                "ing": "Pepper",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Salt",
+                "amount": "1 tbs"
+            }
+        ],
+        "steps": [
+            "Add chicken to a large Dutch oven or stock pot ",
+            "Cover with water",
+            "Bring to a boil and simmer for 2 to 2 1/2 hours, skimming any impurities off the top to insure a clear broth",
+            "If your pot is big enough, add the vegetables and spices for the last hour of the cooking time",
+            "My Dutch oven wasn’t big enough to hold everything, just the chicken and other bones filled the pot, so I cooked the meat/bones for the full cooking time, then removed them, and cooked the vegetables and spices separately",
+            "Strain everything out of the broth",
+            "Bone the chicken, pulling the meat into large chunks",
+            "Slice the carrots",
+            "Return the chicken and carrots to the broth",
+            "Cook noodles according to package instructions if you’re using them",
+            "Add noodles to bowl and then top with hot soup"
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/lx1kkj1593349302.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=AU60fxyxXGw",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Rogaliki (Polish Croissant Cookies)",
+        "category": "Dessert",
+        "region": "Polish",
+        "ingList": [
+            {
+                "ing": "Butter",
+                "amount": "1 cup "
+            },
+            {
+                "ing": "Egg Yolks",
+                "amount": "3"
+            },
+            {
+                "ing": "Cream Cheese",
+                "amount": "8 oz "
+            },
+            {
+                "ing": "Baking Powder",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Flour",
+                "amount": "3 cups "
+            },
+            {
+                "ing": "Jam",
+                "amount": "1 Jar"
+            }
+        ],
+        "steps": [
+            "In a medium bowl mix egg yolks, philly cheese and baking powder using a hand held mixer. Carefully start adding the flour. When the mixture will not be mixing well, and will look like wood chips, put away the blending mixer and using your hands knead the dough.",
+            "Create a roll and cover in foil and freeze for 15 minutes. At this time preheat the oven to 375.",
+            "Take the dough out and separate into two. Roll and cut out 3 inch trangles.",
+            "Make as many as you can and on centre of each put a small spoon of jam. Roll them into a croissant shape.",
+            "Place the croissants onto a greased cookie sheet, and bake for 10-12 minutes or until golden.",
+            "Repeat with the rest of the dough.",
+            "When you take them out, put aside and sprinkle with powdered sugar on top.",
+            "This makes about 3 batches of 20 cookies each.",
+            "Total count about 60 cookies."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/7mxnzz1593350801.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=VAR10T9mfhU",
+        "tags": ["Misc"]
+    },
+    {
+        "title": "Roti john",
+        "category": "Beef",
+        "region": "Malaysian",
+        "ingList": [
+            {
+                "ing": "Minced Beef",
+                "amount": "1/4 lb"
+            },
+            {
+                "ing": "Onion",
+                "amount": "1"
+            },
+            {
+                "ing": "Eggs",
+                "amount": "3"
+            },
+            {
+                "ing": "Chilli",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Baguette",
+                "amount": "1/2 "
+            },
+            {
+                "ing": "Salt",
+                "amount": "To taste"
+            },
+            {
+                "ing": "Pepper",
+                "amount": "To taste"
+            },
+            {
+                "ing": "Mayonnaise",
+                "amount": "Top"
+            }
+        ],
+        "steps": [
+            "Mix all the ingredients in a bowl.",
+            "Heat a pan or griddle with a little vegetable oil.",
+            "Pour the mixture onto the pan and place a piece of open-faced baguette on top.",
+            "Press on the bread with a spatula and grill for 2 minutes.",
+            "Turn the bread over to make it a little crispy.",
+            "Remove from pan and cut the bread into small portions.",
+            "Add mayonnaise and/or Sambal before cutting the sandwich (optional)."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/hx335q1619789561.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=cl4YH8wblRs",
+        "tags": ["Misc"]
+    }
+]
