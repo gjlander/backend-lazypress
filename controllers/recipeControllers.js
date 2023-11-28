@@ -92,7 +92,7 @@ const oneRecipe = async (req, res, next) => {
 const editRecipe = async (req, res, next) => {
     try {
         const { id } = req.params;
-        // const { userId } = req.auth;
+        const { userId } = req.auth;
         const {
             title,
             category,
@@ -107,7 +107,7 @@ const editRecipe = async (req, res, next) => {
             clerkUserId,
         } = req.body;
 
-        // if (!userId) throw new ErrorStatus("Missing userId", 400);
+        if (!userId) throw new ErrorStatus("Missing userId", 400);
 
         if (!id.match(/^[a-f\d]{24}$/i))
             throw new ErrorStatus("Invalid Id", 400);
@@ -128,11 +128,11 @@ const editRecipe = async (req, res, next) => {
                 "All fields must be present to properly update document",
                 400
             );
-        // if (userId !== clerkUserId)
-        //     throw new ErrorStatus(
-        //         "You are not authorized to make changes to this site",
-        //         403
-        //     );
+        if (userId !== clerkUserId)
+            throw new ErrorStatus(
+                "You are not authorized to make changes to this site",
+                403
+            );
 
         const updatedRecipe = await RecipeModel.findByIdAndUpdate(
             id,
