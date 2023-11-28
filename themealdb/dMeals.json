@@ -1,0 +1,201 @@
+[
+    {
+        "title": "Dal fry",
+        "category": "Vegetarian",
+        "region": "Indian",
+        "ingList": [
+            {
+                "ing": "Toor dal",
+                "amount": "1 cup"
+            },
+            {
+                "ing": "Water",
+                "amount": "2-1/2 cups"
+            },
+            {
+                "ing": "Salt",
+                "amount": "1 tsp"
+            },
+            {
+                "ing": "Turmeric",
+                "amount": "1/4 tsp"
+            },
+            {
+                "ing": "Ghee",
+                "amount": "3 tbs"
+            },
+            {
+                "ing": "Chopped tomatoes",
+                "amount": "1 cup"
+            },
+            {
+                "ing": "Cumin seeds",
+                "amount": "1/2 tsp"
+            },
+            {
+                "ing": "Mustard Seeds",
+                "amount": "1/2 tsp"
+            },
+            {
+                "ing": "Bay Leaf",
+                "amount": "2"
+            },
+            {
+                "ing": "Green Chili",
+                "amount": "1 tbs chopped"
+            },
+            {
+                "ing": "Ginger",
+                "amount": "2 tsp shredded"
+            },
+            {
+                "ing": "Cilantro",
+                "amount": "2 tbs "
+            },
+            {
+                "ing": "Red Pepper",
+                "amount": "1/2 tsp"
+            },
+            {
+                "ing": "Salt",
+                "amount": "1/2 tsp"
+            },
+            {
+                "ing": "Sugar",
+                "amount": "1 tsp"
+            },
+            {
+                "ing": "Garam Masala",
+                "amount": "1/4 tsp"
+            }
+        ],
+        "steps": [
+            "Wash and soak toor dal in approx. 3 cups of water, for at least one hours. Dal will be double in volume after soaking. Drain the water.",
+            "Cook dal with 2-1/2 cups water and add salt, turmeric, on medium high heat, until soft in texture (approximately 30 mins) it should be like thick soup.",
+            "In a frying pan, heat the ghee. Add cumin seeds, and mustard seeds. After the seeds crack, add bay leaves, green chili, ginger and chili powder. Stir for a few seconds.",
+            "Add tomatoes, salt and sugar stir and cook until tomatoes are tender and mushy.",
+            "Add cilantro and garam masala cook for about one minute.",
+            "Pour the seasoning over dal mix it well and cook for another minute.",
+            "Serve with Naan."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=J4D855Q9-jg",
+        "tags": ["Curry", "Vegetarian", "Cake"]
+    },
+    {
+        "title": "Dundee cake",
+        "category": "Dessert",
+        "region": "British",
+        "ingList": [
+            {
+                "ing": "Almonds",
+                "amount": "100g "
+            },
+            {
+                "ing": "Butter",
+                "amount": "180g"
+            },
+            {
+                "ing": "Muscovado Sugar",
+                "amount": "180g"
+            },
+            {
+                "ing": "Orange",
+                "amount": "Zest of 1"
+            },
+            {
+                "ing": "Apricot Jam",
+                "amount": "3 tbs"
+            },
+            {
+                "ing": "Plain Flour",
+                "amount": "225g"
+            },
+            {
+                "ing": "Baking Powder",
+                "amount": "1 tsp "
+            },
+            {
+                "ing": "Eggs",
+                "amount": "3 Large"
+            },
+            {
+                "ing": "Ground Almonds",
+                "amount": "100g "
+            },
+            {
+                "ing": "Milk",
+                "amount": "2 tbs"
+            },
+            {
+                "ing": "Dried Fruit",
+                "amount": "500g"
+            },
+            {
+                "ing": "Glace Cherry",
+                "amount": "100g "
+            },
+            {
+                "ing": "Milk",
+                "amount": "1 tbs"
+            },
+            {
+                "ing": "Caster Sugar",
+                "amount": "2 tsp"
+            }
+        ],
+        "steps": [
+            "Put the almonds into a small bowl and pour over boiling water to just cover. Leave for 5 mins then drain in a sieve and leave to dry.",
+            "Preheat the oven to 180C/160 C fan/Gas Mark 4. Line a deep loose-based 20cm cake tin with baking parchment.",
+            "Put the butter in a large bowl and beat well until soft. Add the sugar and beat until light and fluffy. Stir in the orange zest and apricot jam.",
+            "Sieve together the flour and baking powder. Add the eggs to the creamed butter and sugar, a little at a time, beating well between each addition. If the mixture starts to curdle, stir in a little flour.",
+            "Add the remaining flour and ground almonds and mix well. Mix in the milk and then add the dried fruit and cherries and mix gently together.",
+            "Spoon the mixture into the prepared tin and spread level using the back of a spoon. Arrange the whole almonds close together in neat circles on the top of the cake. Bake in the oven for 45 mins.",
+            "Lower the oven temperature to 160C/140 C fan/Gas Mark 3 and cook for a further 60–80 minutes. Check the cake after 50 minutes by inserting a wooden or metal skewer into the cake. When it’s done it should have just a few crumbs attached. Check every 10 minutes - it’s important not to overcook this cake so the centre will be a little soft.",
+            "When cooked, remove the cake briefly from the oven, put the milk and sugar into a small pan and heat gently until the sugar has dissolved. Brush over the top of the cake and return the cake to the oven for 2-3 mins. Remove and allow the cake to cool in the tin. When quite cold remove from the tin and wrap in foil and keep for at least 2 days before cutting."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/wxyvqq1511723401.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=4hEXsfpeMQE",
+        "tags": ["heavy", "Nutty", "Fruity"]
+    },
+    {
+        "title": "Duck Confit",
+        "category": "Miscellaneous",
+        "region": "French",
+        "ingList": [
+            {
+                "ing": "Sea Salt",
+                "amount": "Handful"
+            },
+            {
+                "ing": "Bay Leaf",
+                "amount": "4"
+            },
+            {
+                "ing": "Garlic",
+                "amount": "4 cloves"
+            },
+            {
+                "ing": "Thyme",
+                "amount": "Handful"
+            },
+            {
+                "ing": "Duck Legs",
+                "amount": "4"
+            },
+            {
+                "ing": "White Wine",
+                "amount": "100ml"
+            }
+        ],
+        "steps": [
+            "The day before you want to make the dish, scatter half the salt, half the garlic and half of the herbs over the base of a small shallow dish. Lay the duck legs, skin-side up, on top, then scatter over the remaining salt, garlic and herbs. Cover the duck and refrigerate overnight. This can be done up to 2 days ahead.",
+            "Pour the wine into a saucepan that will snugly fit the duck legs in a single layer. Brush the salt off the duck legs and place them, skin-side down, in the wine. Cover the pan with a lid and place over a medium heat. As soon as the wine starts to bubble, turn the heat down to the lowest setting and cook for 2 hours, checking occasionally that the liquid is just barely simmering. (If you own a heat diffuser, it would be good to use it here.) After 2 hours, the duck legs should be submerged in their own fat and the meat should feel incredibly tender when prodded. Leave to cool.",
+            "The duck legs are now cooked and can be eaten immediately – or you can follow the next step if you like them crisp. If you are preparing ahead, pack the duck legs tightly into a plastic container or jar and pour over the fat, but not the liquid at the bottom of the pan. Cover and leave in the fridge for up to a month, or freeze for up to 3 months. The liquid you are left with makes a tasty gravy, which can be chilled or frozen until needed.",
+            "To reheat and crisp up the duck legs, heat oven to 220C/fan 200C/gas 7. Remove the legs from the fat and place them, skin-side down, in an ovenproof frying pan. Roast for 30-40 mins, turning halfway through, until brown and crisp. Serve with the reheated gravy, a crisp salad and some crisp golden ptoatoes."
+        ],
+        "imgUrl": "https://www.themealdb.com/images/media/meals/wvpvsu1511786158.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=MHhLJqghY-o",
+        "tags": ["Misc"]
+    }
+]
