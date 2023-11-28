@@ -9,11 +9,7 @@ import bodyParser from "body-parser";
 
 import stripeModule from "stripe";
 
-// console.log(import.meta.env.SECRET_KEY);
-const stripe = stripeModule(
-  "sk_test_51OH34hKf4NKtRgVizbP7tsM9afuF9LK7NTuSveo3CERecdC90Z89uKXrSAOMZ1btRbUC9cPPKd9o6HpiFZWScQdL00D8NfKJyI"
-  // import.meta.env.SECRET_KEY
-);
+const stripe = stripeModule(process.env.SECRET_KEY);
 
 const app = express();
 const port = process.env.PORT || 24601;
@@ -38,22 +34,28 @@ app.listen(port, () => {
   console.log(`Listening on port http://localhost:${port}`);
 });
 
-// checkout api
+// checkout with stripe
 app.post("/api/create-checkout-session", async (req, res) => {
   const { price } = req.body;
-  //
-  //   const session = await stripe.checkout.sessions.create({
-  //     payment_method_types: ["card"],
-  //     line_items: price,
-  //     mode: "payment",
-  //     success_url: "http://localhost:3000/sucess",
-  //     cancel_url: "http://localhost:3000/cancel",
-  //   });
-  //
-  //   res.json({ id: session.id });
-  //
-
   console.log(price);
+  const session = await stripe.checkout.sessions.create({
+    payment_method_types: ["card"],
+    line_items: [
+      {
+        price_data: {
+          currency: "eur",
+          product_data: {
+            name: "Your order is ready",
+          },
+          unit_amount: price.price * 100,
+        },
+        quantity: 1,
+      },
+    ],
+    mode: "payment",
+    success_url: "http://localhost:3000/success",
+    cancel_url: "http://localhost:3000/cancel",
+  });
 
-  res.send("Received data successfully");
+  res.json({ id: session.id });
 });
