@@ -20,27 +20,43 @@ const createRecipe = async (req, res, next) => {
             region,
             ingList,
             steps,
+            text,
+            button,
+            tags,
             imgUrl,
             videoUrl,
-            tags,
-            clerkUser,
             clerkUserId,
+            clerkUser,
             blog,
         } = req.body;
+        const { userId } = req.auth;
+
+        if (!userId) throw new ErrorStatus("Missing userId", 400);
         if (
             !title ||
             !category ||
             !region ||
             !ingList ||
             !steps ||
+            !text ||
+            !button ||
+            !tags ||
             !imgUrl ||
             !videoUrl ||
-            !tags ||
-            !clerkUser ||
             !clerkUserId ||
+            !clerkUser ||
             !blog
         )
             throw new ErrorStatus("Missing required fields", 400);
+
+        if (!clerkUser.match(/^[a-f\d]{24}$/i) || !blog.match(/^[a-f\d]{24}$/i))
+            throw new ErrorStatus("Invalid Id", 400);
+
+        if (userId !== clerkUserId)
+            throw new ErrorStatus(
+                "You are not authorized to make changes to this site",
+                403
+            );
 
         const newRecipe = await RecipeModel.create({
             title,
@@ -48,11 +64,13 @@ const createRecipe = async (req, res, next) => {
             region,
             ingList,
             steps,
+            text,
+            button,
+            tags,
             imgUrl,
             videoUrl,
-            tags,
-            clerkUser,
             clerkUserId,
+            clerkUser,
             blog,
         });
         const getRecipe = await RecipeModel.findById(newRecipe._id);
@@ -101,9 +119,9 @@ const editRecipe = async (req, res, next) => {
             steps,
             text,
             button,
+            tags,
             imgUrl,
             videoUrl,
-            tags,
             clerkUserId,
         } = req.body;
 
