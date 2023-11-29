@@ -15,7 +15,10 @@ const recipeRouter = express.Router();
 
 recipeRouter.use(express.json());
 
-recipeRouter.route("/").get(allRecipes).post(createRecipe);
+recipeRouter
+    .route("/")
+    .get(allRecipes)
+    .post(ClerkExpressRequireAuth(), createRecipe);
 recipeRouter
     .route("/:id")
     .get(oneRecipe)
