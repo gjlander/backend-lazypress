@@ -41,7 +41,7 @@ app.listen(port, () => {
 app.post("/api/create-checkout-session", async (req, res) => {
   try {
     const { price } = req.body;
-    console.log(price);
+    // console.log(price);
     const session = await stripe.checkout.sessions.create({
       payment_method_types: ["card"],
       line_items: [
@@ -64,7 +64,6 @@ app.post("/api/create-checkout-session", async (req, res) => {
         ? `${process.env.PROD_CLIENT_URL}/cancel`
         : `${process.env.DEV_CLIENT_URL}/cancel`,
     });
-
     res.json({ id: session.id });
   } catch (error) {
     console.error("Error creating checkout session:", error);
