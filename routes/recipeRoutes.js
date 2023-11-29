@@ -23,7 +23,8 @@ recipeRouter
     .route("/:id")
     .get(oneRecipe)
     .put(ClerkExpressRequireAuth(), editRecipe)
-    .delete(deleteRecipe);
+    //not working with auth for some reason
+    .delete(/*ClerkExpressRequireAuth(),*/ deleteRecipe);
 //updated to get based on clerkId
 recipeRouter.route("/blog/:id").get(findRecipesFromBlog);
 

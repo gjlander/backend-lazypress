@@ -196,6 +196,7 @@ const deleteRecipe = async (req, res, next) => {
     try {
         const { id } = req.params;
         // const { userId } = req.auth;
+        // const { clerkUserId } = req.body;
 
         // if (!userId) throw new ErrorStatus("Missing userId", 400);
 
