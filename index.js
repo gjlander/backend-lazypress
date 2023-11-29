@@ -39,26 +39,34 @@ app.listen(port, () => {
 
 // checkout with stripe
 app.post("/api/create-checkout-session", async (req, res) => {
-  const { price } = req.body;
-  console.log(price);
-  const session = await stripe.checkout.sessions.create({
-    payment_method_types: ["card"],
-    line_items: [
-      {
-        price_data: {
-          currency: "eur",
-          product_data: {
-            name: "Your order is ready",
+  try {
+    const { price } = req.body;
+    // console.log(price);
+    const session = await stripe.checkout.sessions.create({
+      payment_method_types: ["card"],
+      line_items: [
+        {
+          price_data: {
+            currency: "eur",
+            product_data: {
+              name: "Your order is ready",
+            },
+            unit_amount: price * 100,
           },
-          unit_amount: price.price * 100,
+          quantity: 1,
         },
-        quantity: 1,
-      },
-    ],
-    mode: "payment",
-    success_url: "http://localhost:3000/success",
-    cancel_url: "http://localhost:3000/cancel",
-  });
-
-  res.json({ id: session.id });
+      ],
+      mode: "payment",
+      success_url: process.env.PROD
+        ? `${process.env.PROD_CLIENT_URL}/success`
+        : `${process.env.DEV_CLIENT_URL}/success`,
+      cancel_url: process.env.PROD
+        ? `${process.env.PROD_CLIENT_URL}/cancel`
+        : `${process.env.DEV_CLIENT_URL}/cancel`,
+    });
+    res.json({ id: session.id });
+  } catch (error) {
+    console.error("Error creating checkout session:", error);
+    res.status(500).json({ error: "Internal Server Error" });
+  }
 });
