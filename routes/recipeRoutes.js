@@ -28,6 +28,6 @@ recipeRouter
 //updated to get based on clerkId
 recipeRouter.route("/blog/:id").get(findRecipesFromBlog);
 
-recipeRouter.route("/migrate/").post(migrateMeals);
+recipeRouter.route("/migrate").post(migrateMeals);
 
 export default recipeRouter;
