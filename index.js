@@ -41,7 +41,7 @@ const corsOptions = {
   //     callback(new Error("Not allowed by CORS"));
   //   }
   // },
-  origin: whitelist,
+  origin: "*",
   exposedHeaders: "Authorization",
   allowedHeaders: ["Access-Control-Allow-Origin"],
   credentials: true,
