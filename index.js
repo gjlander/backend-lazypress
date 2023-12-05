@@ -31,19 +31,22 @@ app.use("/blogs", blogRouter);
 
 app.use("/recipes", recipeRouter);
 
-app.use(errorHandler);
-
-app.listen(port, () => {
-  console.log(`Listening on port http://localhost:${port}`);
-});
-
 // checkout with stripe
+const whitelist = ["http://localhost:5173", "https://lazypress.netlify.app"];
+const corsOptions = {
+  origin: function (origin, callback) {
+    if (whitelist.indexOf(origin) !== -1) {
+      callback(null, true);
+    } else {
+      callback(new Error("Not allowed by CORS"));
+    }
+  },
+  exposedHeaders: "Authorization",
+  allowedHeaders: ["Access-Control-Allow-Origin"],
+};
 app.post(
   "/api/create-checkout-session",
-  cors({
-    exposedHeaders: "Authorization",
-    allowedHeaders: ["Access-Control-Allow-Origin"],
-  }),
+  cors(corsOptions),
   async (req, res) => {
     try {
       const { price } = req.body;
@@ -77,3 +80,9 @@ app.post(
     }
   }
 );
+
+app.use(errorHandler);
+
+app.listen(port, () => {
+  console.log(`Listening on port http://localhost:${port}`);
+});
