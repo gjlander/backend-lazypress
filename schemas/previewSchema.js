@@ -1,17 +1,15 @@
-import { Schema, model } from "mongoose";
-import heroSchema from "../schemas/heroSchema.js";
-import blogPageSchema from "../schemas/blogPageSchema.js";
-import cardSchema from "../schemas/cardSchema.js";
-import navBarSchema from "../schemas/navBarSchema.js";
-import footerSchema from "../schemas/footerSchema.js";
+import { Schema } from "mongoose";
+import heroSchema from "./heroSchema.js";
+import cardSchema from "./cardSchema.js";
+import navBarSchema from "./navBarSchema.js";
+import footerSchema from "./footerSchema.js";
 
-const blogSchema = new Schema(
+const previewSchema = new Schema(
     {
         pages: {
             home: {
                 navBar: [navBarSchema],
                 hero: [heroSchema],
-                // blogPages: [blogPageSchema],
                 cards: [cardSchema],
                 footer: [footerSchema],
             },
@@ -19,7 +17,7 @@ const blogSchema = new Schema(
         dashboard: {
             blogTitle: {
                 type: String,
-                default: "Untitled Page",
+                default: "Preview Page",
             },
             deployed: {
                 type: Boolean,
@@ -38,9 +36,8 @@ const blogSchema = new Schema(
             type: String,
             required: true,
         },
-        isPreview: { type: Boolean, default: false },
     },
     { timestamps: true }
 );
 
-export default model("Blog", blogSchema);
+export default previewSchema;

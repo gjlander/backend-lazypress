@@ -1,7 +1,7 @@
 import { Schema } from "mongoose";
 
 const footerSchema = new Schema({
-    footerItem: String,
+    footerItem: { type: String, default: "You can customize the footer too." },
     href: String,
 });
 
