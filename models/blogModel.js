@@ -1,6 +1,7 @@
 import { Schema, model } from "mongoose";
 import heroSchema from "../schemas/heroSchema.js";
 import blogPageSchema from "../schemas/blogPageSchema.js";
+import cardSchema from "../schemas/cardSchema.js";
 import navBarSchema from "../schemas/navBarSchema.js";
 import footerSchema from "../schemas/footerSchema.js";
 
@@ -10,7 +11,8 @@ const blogSchema = new Schema(
             home: {
                 navBar: [navBarSchema],
                 hero: [heroSchema],
-                blogPages: [blogPageSchema],
+                // blogPages: [blogPageSchema],
+                cards: [cardSchema],
                 footer: [footerSchema],
             },
         },

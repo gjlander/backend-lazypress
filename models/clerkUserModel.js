@@ -1,9 +1,9 @@
 import mongoose from "mongoose";
-import previewSchema from "../schemas/previewSchema.js";
-import heroSchema from "../schemas/heroSchema.js";
-import cardSchema from "../schemas/cardSchema.js";
-import navBarSchema from "../schemas/navBarSchema.js";
-import footerSchema from "../schemas/footerSchema.js";
+// import previewSchema from "../schemas/previewSchema.js";
+// import heroSchema from "../schemas/heroSchema.js";
+// import cardSchema from "../schemas/cardSchema.js";
+// import navBarSchema from "../schemas/navBarSchema.js";
+// import footerSchema from "../schemas/footerSchema.js";
 
 const clerkUserSchema = new mongoose.Schema(
     {
@@ -11,33 +11,33 @@ const clerkUserSchema = new mongoose.Schema(
         firstName: String,
         lastName: String,
         username: String,
-        previewPage: {
-            pages: {
-                home: {
-                    navBar: [navBarSchema],
-                    hero: [heroSchema],
-                    cards: [cardSchema],
-                    footer: [footerSchema],
-                },
-            },
-            dashboard: {
-                blogTitle: {
-                    type: String,
-                    default: "Preview Page",
-                },
-                deployed: {
-                    type: Boolean,
-                    default: false,
-                },
-                siteUrl: String,
-                previewUrl: String,
-            },
-            //updated to reflect clerk user authentication in place
-            // clerkUserId: {
-            //     type: String,
-            //     required: true,
-            // },
-        },
+        // previewPage: {
+        //     pages: {
+        //         home: {
+        //             navBar: [navBarSchema],
+        //             hero: [heroSchema],
+        //             cards: [cardSchema],
+        //             footer: [footerSchema],
+        //         },
+        //     },
+        //     dashboard: {
+        //         blogTitle: {
+        //             type: String,
+        //             default: "Preview Page",
+        //         },
+        //         deployed: {
+        //             type: Boolean,
+        //             default: false,
+        //         },
+        //         siteUrl: String,
+        //         previewUrl: String,
+        //     },
+        //     //updated to reflect clerk user authentication in place
+        //     // clerkUserId: {
+        //     //     type: String,
+        //     //     required: true,
+        //     // },
+        // },
     },
     { timestamps: true }
 );
