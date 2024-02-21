@@ -38,6 +38,7 @@ const blogSchema = new Schema(
             type: String,
             required: true,
         },
+        isPreview: { type: Boolean, default: false },
     },
     { timestamps: true }
 );

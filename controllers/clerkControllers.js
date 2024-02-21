@@ -105,6 +105,7 @@ const clerkWebhook = async (req, res) => {
                 },
                 clerkUser: _id,
                 clerkUserId,
+                isPreview: true,
             });
             console.log(previewBlog);
         }
