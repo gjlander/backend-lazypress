@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+import previewSchema from "../schemas/previewSchema.js";
 
 const clerkUserSchema = new mongoose.Schema(
     {
@@ -6,6 +7,7 @@ const clerkUserSchema = new mongoose.Schema(
         firstName: String,
         lastName: String,
         username: String,
+        previewPage: previewSchema,
     },
     { timestamps: true }
 );
