@@ -196,18 +196,19 @@ const deleteRecipe = async (req, res, next) => {
     try {
         const { id } = req.params;
         // const { userId } = req.auth;
-        // const { clerkUserId } = req.body;
+        const { clerkUserId } = req.body;
 
         // if (!userId) throw new ErrorStatus("Missing userId", 400);
 
         if (!id.match(/^[a-f\d]{24}$/i))
             throw new ErrorStatus("Invalid Id", 400);
+        const recipeToDelete = await RecipeModel.findById(id);
 
-        // if (userId !== clerkUserId)
-        //     throw new ErrorStatus(
-        //         "You are not authorized to make changes to this site",
-        //         403
-        //     );
+        if (clerkUserId !== recipeToDelete.clerkUserId)
+            throw new ErrorStatus(
+                "You are not authorized to make changes to this site",
+                403
+            );
 
         await RecipeModel.findByIdAndDelete(id);
 
