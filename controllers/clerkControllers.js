@@ -35,6 +35,35 @@ const clerkWebhook = async (req, res) => {
                 firstName,
                 lastName,
                 username,
+                previewPage: {
+                    pages: {
+                        home: {
+                            navBar: [{ menuItem: "Change Me" }],
+                            hero: [
+                                {
+                                    imgUrl: "https://nextui.org/images/fruit-8.jpeg",
+                                    title: "Add a title here",
+                                    text: "And a bit of descriptive text here...",
+                                    button: "Click Me",
+                                },
+                            ],
+                            cards: [
+                                {
+                                    imgUrl: "https://hips.hearstapps.com/hmg-prod/images/crepes-index-64347419e3c7a.jpg",
+                                    title: "A delicious recipe here",
+                                    text: "Simply delicious",
+                                    button: "To Recipe",
+                                },
+                            ],
+                            footer: [
+                                {
+                                    footerItem:
+                                        "You can customize the footer too.",
+                                },
+                            ],
+                        },
+                    },
+                },
             });
             console.log(`${username} saved to database`);
         }

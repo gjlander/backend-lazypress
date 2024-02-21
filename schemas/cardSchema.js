@@ -4,7 +4,7 @@ const cardSchema = new Schema({
     imgUrl: {
         type: String,
         default:
-            "https://hips.hearstapps.com/hmg-prod/images/crepes-index-64347419e3c7a.jpg?crop=0.888888888888889xw:1xh;center,top&resize=1200:*",
+            "https://hips.hearstapps.com/hmg-prod/images/crepes-index-64347419e3c7a.jpg",
         maxLength: 510,
         match: [
             /^https?:\/\/(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b(?:[-a-zA-Z0-9()@:%_\+.~#?&\/=]*)$/,
